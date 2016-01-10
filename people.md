@@ -42,6 +42,33 @@ permalink: /people/
 </figure>
 <br>
 <br>
+
+**Alexa Badalamenti, Undergraduate Student**
+
+<figure>
+    <a href="../images/carlos.jpg">
+        <img src="{{ site.baseurl }}/images/alexa.jpg" width="150px" height="150px" align="left"/>
+    </a>
+<figcaption>
+        Alexa is a junior majoring in Bioinformatics with plans to pursue a graduate degree in Genetic Counseling. Having a deep personal love for the arts, she grew up in the theater, and has even performed at Loyola. Viewing science as an additional creative outlet, her two very different passions have aligned. She hopes to remain at the forefront of genetic medicine, and eventually work with families. When not geeking-out about science, or singing loudly and probably annoying her neighbors, she enjoys exploring the city with her sister. <a href="https://www.taskstream.com/ts/badalamenti1/AlexaBadalamenti">ePortfolio</a>
+</figcaption>
+</figure>
+<br>
+<br>
+
+**Danny Baghdan, Undergraduate Student**
+
+<figure>
+    <a href="../images/carlos.jpg">
+        <img src="{{ site.baseurl }}/images/carlos.jpg" width="150px" height="150px" align="left"/>
+    </a>
+<figcaption>
+        Danny Baghdan is an undergraduate at Loyola University Chicago who majors in Bioinformatics.  His interests include all forms of medical research and he plans to attend an MD/ PhD program. His hobbies include listening to music, playing games, and spending time with his friends.
+</figcaption>
+</figure>
+<br>
+<br>
+
 <br>
 <br>
 <br>
