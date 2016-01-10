@@ -60,7 +60,7 @@ permalink: /people/
 
 <figure>
     <a href="../images/carlos.jpg">
-        <img src="{{ site.baseurl }}/images/carlos.jpg" width="150px" height="150px" align="left"/>
+        <img src="{{ site.baseurl }}/images/danny.jpeg" width="150px" height="150px" align="left"/>
     </a>
 <figcaption>
         Danny Baghdan is an undergraduate at Loyola University Chicago who majors in Bioinformatics.  His interests include all forms of medical research and he plans to attend an MD/ PhD program. His hobbies include listening to music, playing games, and spending time with his friends.
