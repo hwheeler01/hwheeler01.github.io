@@ -22,7 +22,12 @@ We have developed a gene-based association method called PrediXcan (pronounced "
 
 For our future research, we will apply and extend methods like <a href="http://cran.r-project.org/web/packages/OmicKriging/index.html">OmicKriging</a> and <a href="https://github.com/hakyimlab/PrediXcan">PrediXcan</a> using data available to the public and researchers from databases like the Gene Expression Omnibus (<a href="http://www.ncbi.nlm.nih.gov/geo/">GEO</a>), the database of Genotypes and Phenotypes (<a href="http://www.ncbi.nlm.nih.gov/gap">dbGaP</a>), The Cancer Genome Atlas (<a href="http://cancergenome.nih.gov/">TCGA</a>), and the European Genome-Phenome Archive (<a href="https://www.ebi.ac.uk/ega/home">EGA</a>). These databases contain genome-wide genotype (genotyping array and exome sequencing) and gene expression (microarray and RNA-seq) datasets. Many funding sources (including the <a href="http://www.nih.gov/">NIH</a>) require database deposition of genome-wide datasets and thus the amount of data available will continue to grow. Combining gene expression data and multiple variants within a gene or pathway may reveal new genetic associations with a particular phenotype that were not discovered in an original association study where the genetic variants were analyzed singly. In addition, combining gene expression and genetic association data from multiple different studies may reveal new associations that were missed by single investigations. Because so much data is publicly available, students interested in joining our lab could potentially choose to study traits and diseases that interest them while learning how to mine the data and perform computational modeling. 
 
-##Collaborators
+##Funding and Collaborations
+**R01 MH107666** (PI: <a href="https://imlab.uchicago.edu/">Hae Kyung Im</a>)	08/21/15 – 06/30/18
+Predicted Gene Expression: High Power, Mechanism, and Direction of EffectThe goal of this project is to develop and apply methods that fully harness gene regulation within complex psychiatric trait association and prediction studies. Role: Co-investigator
 
-<a href="https://imlab.uchicago.edu/">Haky Im Lab</a>
+**R01 CA157823** (PI: <a href="http://news.medicine.iu.edu/releases/2015/08/Lois-Travis.shtml">Lois Travis</a>) 09/25/12 – 07/31/17
+  Genetic Susceptibility and Biomarkers of Platinum-Related ToxicitiesThe goal of this project is to understand the biologic/genetic basis of acute/late chemotherapy-related toxicity in testicular cancer patients treated with cisplatin.Role: Co-investigator
+
+
 
