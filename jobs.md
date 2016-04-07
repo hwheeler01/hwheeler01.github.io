@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Jobs
+title: Current Openings
 permalink: /jobs/
 ---
 
-### Postdoctoral Research Associate in Computational Genomics 
+## Postdoctoral Research Associate in Computational Genomics 
 
 **Duties and Responsibilities.** Loyola University Chicago, College of Arts and Sciences, Department of Biology invites applications for a full-time postdoctoral associate, with expertise in the areas of Computational Biology and complex trait genetics. The position is for one year with the possibility of renewal, for additional years, based on performance. 
 
