@@ -11,6 +11,11 @@ permalink: /publications/
 **\*Loyola Student**
 
 ### 2016
+
+Hertz DL, Owzar K, Lessans S, Wing C, Jiang C, Kelly WK, Patel JN, Halabi S, Furukawa Y, **Wheeler HE**, Sibley A, Lassiter C, Weisman LS, Watson D, Krens SD, Mulkey F, Renn CL, Small EJ, Febbo PG, Shterev I, Kroetz D, Friedman PN, Mahoney JF, Carducci MA, Kelley MJ, Nakamura Y, Kubo M, Dorsey SG, Dolan ME, Morris MJ, Ratain MJ, McLeod HL. (2016) Pharmacogenetic discovery in CALGB (Alliance) 90401 and mechanistic validation of a VAC14 polymorphism that increases risk of docetaxel-induced neuropathy. *Clinical Cancer Research* Epub ahead of print. <a href="http://www.ncbi.nlm.nih.gov/pubmed/27143689">PMID 27143689</a>
+
+Barbeira A, Shah KP, Torres JM, **Wheeler HE**, Torstenson ES, Edwards T, Garcia T, Bell GI, Nicolae D, Cox NJ, Im HK. (2016) MetaXcan: Summary statistics based gene-level association method infers accurate PrediXcan results. *BioRxiv* <a href="http://biorxiv.org/content/early/2016/03/23/045260">Preprint</a>
+
 **Wheeler HE**, Shah KP, **Brenner J\***, Garcia T, Aquino-Michaels K, GTEx Consortium, Cox NJ, Nicolae DL, Im HK. (2016) Survey of the heritability and sparsity of gene expression traits across human tissues. *BioRxiv* <a href="http://biorxiv.org/content/early/2016/03/15/043653.1">Preprint</a>
 
 Shah KP, **Wheeler HE**, Gamazon ER, Nicolae DL, Cox NJ, Im HK. (2016) Genetic predictors of gene expression associated with risk of bipolar disorder. *BioRxiv* <a href="http://biorxiv.org/content/early/2016/03/15/043752">Preprint</a>
@@ -19,8 +24,8 @@ Shah KP, **Wheeler HE**, Gamazon ER, Nicolae DL, Cox NJ, Im HK. (2016) Genetic p
 
 ### 2015
 
-Gamazon ER\*\*, <b>Wheeler HE</b>\*\*, Shah KP\*\*, Mozaffari SV, Aquino-Michaels K, Carroll RJ, Eyler AE, Denny JC, GTEx Consortium, Nicolae DL, Cox NJ, Im HK. (2015) A gene-based association method for mapping traits using reference transcriptome data. <i>Nature Genetics</i> 47(9):1091-8. <a href="http://www.ncbi.nlm.nih.gov/pubmed/26258848">PMID26258848</a>, <a href="http://biorxiv.org/content/early/2015/06/17/020164"><i>Open Access Preprint</i></a>
-\*\*Contributed equally.
+Gamazon ER<sup>‡</sup>, <b>Wheeler HE</b><sup>‡</sup>, Shah KP<sup>‡</sup>, Mozaffari SV, Aquino-Michaels K, Carroll RJ, Eyler AE, Denny JC, GTEx Consortium, Nicolae DL, Cox NJ, Im HK. (2015) A gene-based association method for mapping traits using reference transcriptome data. <i>Nature Genetics</i> 47(9):1091-8. <a href="http://www.ncbi.nlm.nih.gov/pubmed/26258848">PMID26258848</a>, <a href="http://biorxiv.org/content/early/2015/06/17/020164"><i>Open Access Preprint</i></a>
+<sup>‡</sup>Contributed equally.
 
 Komatsu M, <b>Wheeler HE</b>, Chung S, Low SK, Wing C, Delaney SM, Gorsic LK, Takahashi A, Kubo M, Kroetz D, Zhang W, Nakamura Y, Dolan ME. (2015) Pharmacoethnicity in paclitaxel-induced sensory peripheral neuropathy. <i>Clinical Cancer Research</i> 21(19):4337-46. <a href="http://www.ncbi.nlm.nih.gov/pubmed/26015512">PMID26015512</a>
 
