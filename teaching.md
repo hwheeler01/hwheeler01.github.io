@@ -6,12 +6,12 @@ permalink: /teaching/
 
 ## *Spring 2016*
 
-### <a href="http://hwheeler01.github.io/comp150/">COMP 150. Introduction to Computing</a> (3 credits)
+### COMP 150. Introduction to Computing (3 credits)
 This course provides a broad survey introducing the many layers of the computer science discipline, emphasizing the computer’s role and limitations as a tool for describing, organizing, and manipulating information applicable to many disciplines. Topics include binary logic expressed in electronic circuitry, machine architecture, basic programming in the very accessible language Python, data organization, the potential and limitations of machines, and useful tools.
 
 **Outcome:** Ability to write programs to manage and transform data; broad understanding of foundations of computing.
 
-### <a href="http://hwheeler01.github.io/CompBio/">COMP 383. Computational Biology</a> (4 credits)
+### COMP 383. Computational Biology (4 credits)
 This course presents an algorithmic focus to problems in computational biology. It is built on earlier courses on algorithms and bioinformatics. Problems and solutions covered in this course include gene hunting, sequence comparison, multiple alignment, gene prediction, trees and sequences, databases, and rapid sequence analysis.
 
 **Outcome:** Students will learn, in detail, foundational methods and algorithms in bioinformatics.

@@ -37,7 +37,7 @@ permalink: /people/
         <img src="{{ site.baseurl }}/images/carlos.jpg" width="150px" height="150px" align="left"/>
     </a>
 <figcaption>
-        Carlos is a senior majoring in Biochemistry with plans on attending a PhD program. His research interests include genetic variance in neurodegenerative diseases.  Outside of the university, Carlos enjoys learning about new tech, expanding his record collection, running, and exploring new restaurants and cafes.
+        Carlos graduated in 2016 with a degree in Biochemistry and plans on attending a PhD program. His research interests include genetic variance in neurodegenerative diseases.  Outside of the university, Carlos enjoys learning about new tech, expanding his record collection, running, and exploring new restaurants and cafes.
 </figcaption>
 </figure>
 <br>
@@ -50,7 +50,7 @@ permalink: /people/
         <img src="{{ site.baseurl }}/images/alexa.jpg" width="150px" height="150px" align="left"/>
     </a>
 <figcaption>
-        Alexa is a junior majoring in Bioinformatics with plans to pursue a graduate degree in Genetic Counseling. Having a deep personal love for the arts, she grew up in the theater, and has even performed at Loyola. Viewing science as an additional creative outlet, her two very different passions have aligned. She hopes to remain at the forefront of genetic medicine, and eventually work with families. When not geeking-out about science, or singing loudly and probably annoying her neighbors, she enjoys exploring the city with her sister. <a href="https://www.taskstream.com/ts/badalamenti1/AlexaBadalamenti">ePortfolio</a>
+        Alexa is a senior majoring in Bioinformatics with plans to pursue a graduate degree in Genetic Counseling. Having a deep personal love for the arts, she grew up in the theater, and has even performed at Loyola. Viewing science as an additional creative outlet, her two very different passions have aligned. She hopes to remain at the forefront of genetic medicine, and eventually work with families. When not geeking-out about science, or singing loudly and probably annoying her neighbors, she enjoys exploring the city with her sister. <a href="https://www.taskstream.com/ts/badalamenti1/AlexaBadalamenti">ePortfolio</a>
 </figcaption>
 </figure>
 <br>
@@ -64,6 +64,19 @@ permalink: /people/
     </a>
 <figcaption>
         Danny Baghdan is an undergraduate at Loyola University Chicago who majors in Bioinformatics.  His interests include all forms of medical research and he plans to attend an MD/ PhD program. His hobbies include listening to music, playing games, and spending time with his friends.
+</figcaption>
+</figure>
+<br>
+<br>
+
+**Natalie Jachym, Undergraduate Student**
+
+<figure>
+    <a href="../images/carlos.jpg">
+        <img src="{{ site.baseurl }}/images/natalie.png" width="150px" height="150px" align="left"/>
+    </a>
+<figcaption>
+        Natalie is a senior undergraduate Molecular Biology major and plans to attend graduate school to pursue a degree in either Forensic Science or Genetics. Her ultimate goal is to remain at the forefront of new scientific advancements and to have a career that allows her to share her knowledge of biology and chemistry with others.  Outside of the lab, Natalie watches entirely too much TV, but tries to make up for this by taking frequent trips downtown with friends to explore new and exciting areas of the city.
 </figcaption>
 </figure>
 <br>

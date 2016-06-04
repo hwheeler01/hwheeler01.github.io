@@ -8,6 +8,8 @@ permalink: /publications/
 
 <a href="http://www.ncbi.nlm.nih.gov/pubmed/?term=Wheeler+HE%5BAuthor%5D">PubMed</a>
 
+<a href="{{ site.baseurl }}/abstracts">Conference Abstracts</a>
+
 **\*Loyola Student**
 
 ### 2016
