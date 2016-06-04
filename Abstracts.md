@@ -20,4 +20,4 @@ Chicago Area Undergraduate Research Symposium, The Museum of Science and Industr
 
 ### 2015 
 
-American Society of Human Genetics Annual Meeting, Baltimore, MD, October 6-10, Poster: “Genetic architecture of gene expression regulation via orthogonal tissue decomposition” **Heather E. Wheeler**, Nicholas Knoblauch, GTEx Consortium, Nancy J. Cox, Dan L. Nicolae, Hae Kyung Im
+American Society of Human Genetics Annual Meeting, Baltimore, MD, October 6-10, Reviewers' Choice (top 10%) Poster: “Genetic architecture of gene expression regulation via orthogonal tissue decomposition” **Heather E. Wheeler**, Nicholas Knoblauch, GTEx Consortium, Nancy J. Cox, Dan L. Nicolae, Hae Kyung Im
