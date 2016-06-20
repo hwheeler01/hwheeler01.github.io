@@ -1,10 +1,16 @@
 ---
 layout: page
-title: Abstracts
+title: Conference Abstracts
 permalink: /abstracts/
 ---
+<figure>
+    <img src="{{ site.baseurl }}/images/IMG_0005.jpg" width="333px" height="250px" />
+	<img src="{{ site.baseurl }}/images/IMG_0006.jpg" width="333px" height="250px" />
+<figcaption>
+        <i>Presenting at <a href="http://www.caurs.com/">CAURS</a> 2016. L: Alexa Badalamenti, R: Carlos Perez-Cervantes</i>
+</figcaption>
+</figure>
 
-**\*Loyola Student**
 
 ### 2016
 
@@ -20,4 +26,4 @@ Chicago Area Undergraduate Research Symposium, The Museum of Science and Industr
 
 ### 2015 
 
-American Society of Human Genetics Annual Meeting, Baltimore, MD, October 6-10, Reviewers' Choice (top 10%) Poster: “Genetic architecture of gene expression regulation via orthogonal tissue decomposition” **Heather E. Wheeler**, Nicholas Knoblauch, GTEx Consortium, Nancy J. Cox, Dan L. Nicolae, Hae Kyung Im
+American Society of Human Genetics Annual Meeting, Baltimore, MD, October 6-10, Reviewers' Choice (top 10%) Poster: “Genetic architecture of gene expression regulation via orthogonal tissue decomposition” **Heather E. Wheeler**, Nicholas Knoblauch, GTEx Consortium, Nancy J. Cox, Dan L. Nicolae, Hae Kyung Im**\*Loyola Student**
