@@ -22,13 +22,12 @@ Undergraduate students working in my lab have to commit to at least 1.5 years an
 Here are the questions I generally ask students who are interested in working in my lab:
 
 - What interests you about human genetics?
-- Is there a particular complex trait that interests you?
+- Is there a particular complex trait that interests you? Why?
 - What are your future career goals and how will research on complex trait genetics help you attain these goals?
-- What are your goals and expectations about research in my lab?
-- What is your computer programming experience?
+- What is your computer programming experience? What programming languages have you used?
 - What previous experience do you have working in a lab or doing research?
 - What courses have you taken in biology, statistics and computer science?
 - How much time can you commit to working in the lab during the academic and summer months?
 
-**Contact me to set up a meeting at [hwheeler1@luc.edu](mailto:hwheeler1@luc.edu)**
+**If you are interested in potentially joining our lab, send answers to the above questions to [hwheeler1@luc.edu](mailto:hwheeler1@luc.edu)**
 
