@@ -14,6 +14,8 @@ permalink: /publications/
 
 ### 2016
 
+Frisina RD<sup>‡</sup>, **Wheeler HE**<sup>‡</sup>, Fossa SD, Kerns SL, Fung C, Sesso HD, Monahan PO, Feldman DR, Hamilton R, Vaughn DJ, Beard CJ, Budnick A, Johnson EM, Ardeshir-Rouhani-Fard S, Einhorn LH, Lipshultz SE, Dolan ME, Travis LB. (2016) Comprehensive Audiometric Analysis of Hearing Impairment and Tinnitus After Cisplatin-Based Chemotherapy in Survivors of Adult-Onset Cancer. *Journal of Clinical Oncology* Epub ahead of print. <a href="http://www.ncbi.nlm.nih.gov/pubmed/27354478">PMID 27354478</a> <sup>‡</sup>Contributed equally.
+
 Hertz DL, Owzar K, Lessans S, Wing C, Jiang C, Kelly WK, Patel JN, Halabi S, Furukawa Y, **Wheeler HE**, Sibley A, Lassiter C, Weisman LS, Watson D, Krens SD, Mulkey F, Renn CL, Small EJ, Febbo PG, Shterev I, Kroetz D, Friedman PN, Mahoney JF, Carducci MA, Kelley MJ, Nakamura Y, Kubo M, Dorsey SG, Dolan ME, Morris MJ, Ratain MJ, McLeod HL. (2016) Pharmacogenetic discovery in CALGB (Alliance) 90401 and mechanistic validation of a VAC14 polymorphism that increases risk of docetaxel-induced neuropathy. *Clinical Cancer Research* Epub ahead of print. <a href="http://www.ncbi.nlm.nih.gov/pubmed/27143689">PMID 27143689</a>
 
 Barbeira A, Shah KP, Torres JM, **Wheeler HE**, Torstenson ES, Edwards T, Garcia T, Bell GI, Nicolae D, Cox NJ, Im HK. (2016) MetaXcan: Summary statistics based gene-level association method infers accurate PrediXcan results. *BioRxiv* <a href="http://biorxiv.org/content/early/2016/03/23/045260">Preprint</a>
