@@ -22,10 +22,6 @@ Barbeira A, Shah KP, Torres JM, **Wheeler HE**, Torstenson ES, Edwards T, Garcia
 
 **Wheeler HE**, Shah KP, **Brenner J\***, Garcia T, Aquino-Michaels K, GTEx Consortium, Cox NJ, Nicolae DL, Im HK. (2016) Survey of the heritability and sparsity of gene expression traits across human tissues. *BioRxiv* <a href="http://biorxiv.org/content/early/2016/03/15/043653.1">Preprint</a>
 
-Shah KP, **Wheeler HE**, Gamazon ER, Nicolae DL, Cox NJ, Im HK. (2016) Genetic predictors of gene expression associated with risk of bipolar disorder. *BioRxiv* <a href="http://biorxiv.org/content/early/2016/03/15/043752">Preprint</a>
-
-
-
 ### 2015
 
 Gamazon ER<sup>‡</sup>, <b>Wheeler HE</b><sup>‡</sup>, Shah KP<sup>‡</sup>, Mozaffari SV, Aquino-Michaels K, Carroll RJ, Eyler AE, Denny JC, GTEx Consortium, Nicolae DL, Cox NJ, Im HK. (2015) A gene-based association method for mapping traits using reference transcriptome data. <i>Nature Genetics</i> 47(9):1091-8. <a href="http://www.ncbi.nlm.nih.gov/pubmed/26258848">PMID26258848</a>, <a href="http://biorxiv.org/content/early/2015/06/17/020164"><i>Open Access Preprint</i></a>
