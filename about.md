@@ -20,7 +20,10 @@ Here are the questions I generally ask students who are interested in working in
 - What courses have you taken in biology, statistics and computer science?
 - How much time can you commit to working in the lab during the academic and summer months?
 
-#### If you are interested in potentially joining our lab, send answers to the above questions to [hwheeler1@luc.edu](mailto:hwheeler1@luc.edu) and formally apply at the <a href="https://forms.luc.edu/biolab/login.htm">Biology Undergraduate Research Application Portal</a>
+### If you are interested in potentially joining our lab:
+Formally apply at the **<a href="https://forms.luc.edu/biolab/login.htm">Biology Undergraduate Research Application Portal</a>**
+*AND* send answers to the above questions to **[hwheeler1@luc.edu](mailto:hwheeler1@luc.edu)** 
+
 
 ## Lab Location
 
