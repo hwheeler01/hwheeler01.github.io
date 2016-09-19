@@ -19,8 +19,8 @@ permalink: /people/
 
 **Dr. Lauren Mogil, Postdoc**
 <figure>
-    <a href="../images/lauren.jpg">
-        <img src="{{ site.baseurl }}/images/lauren.jpg" width="150px" height="150px" align="left"/>
+    <a href="../images/lauren.png">
+        <img src="{{ site.baseurl }}/images/lauren.png" width="150px" height="150px" align="left"/>
     </a>
 <figcaption>
 	Lauren is a postdoctoral researcher in the Wheeler lab. Her research interests include analyzing big data sets to further understand what affects disease states. She received her Ph.D. from Mayo Graduate School in Biochemistry and Molecular Biology. She also hold a B.S. in Bioinformatics and Biology from Loyola University Chicago. When she’s not in the lab, Lauren enjoys exploring Chicago, going to the theater, dancing, yoga, and traveling. 
