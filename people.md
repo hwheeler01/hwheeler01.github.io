@@ -19,17 +19,11 @@ permalink: /people/
 
 **Dr. Lauren Mogil, Postdoc**
 <figure>
-    <a href="../images/jon.jpg">
-        <img src="{{ site.baseurl }}/images/DNA1.png" width="150px" height="150px" align="left"/>
+    <a href="../images/lauren.jpg">
+        <img src="{{ site.baseurl }}/images/lauren.jpg" width="150px" height="150px" align="left"/>
     </a>
 <figcaption>
-	Lauren is a postdoctoral researcher in the lab. 
-	<br>
-	<br>
-	<br>
-	<br>
-	<br>
-	<br>
+	Lauren is a postdoctoral researcher in the Wheeler lab. Her research interests include analyzing big data sets to further understand what affects disease states. She received her Ph.D. from Mayo Graduate School in Biochemistry and Molecular Biology. She also hold a B.S. in Bioinformatics and Biology from Loyola University Chicago. When she’s not in the lab, Lauren enjoys exploring Chicago, going to the theater, dancing, yoga, and traveling. 
 </figcaption>
 </figure>  
 <br>
@@ -37,7 +31,7 @@ permalink: /people/
 
 **Amani Almatrafi, Graduate Student**
 <figure>
-    <a href="../images/jon.jpg">
+    <a href="../images/DNA1.png">
         <img src="{{ site.baseurl }}/images/DNA1.png" width="150px" height="150px" align="left"/>
     </a>
 <figcaption>
@@ -68,7 +62,7 @@ permalink: /people/
 
 **Angela Andaleon, Undergraduate Student**
 <figure>
-    <a href="../images/jon.jpg">
+    <a href="../images/DNA1.png">
         <img src="{{ site.baseurl }}/images/DNA1.png" width="150px" height="150px" align="left"/>
     </a>
 <figcaption>
@@ -114,7 +108,7 @@ permalink: /people/
 
 **George Coin, Undergraduate Student**
 <figure>
-    <a href="../images/jon.jpg">
+    <a href="../images/DNA1.png">
         <img src="{{ site.baseurl }}/images/DNA1.png" width="150px" height="150px" align="left"/>
     </a>
 <figcaption>
@@ -133,7 +127,7 @@ permalink: /people/
 
 **Emma Highland, Undergraduate Student**
 <figure>
-    <a href="../images/jon.jpg">
+    <a href="../images/DNA1.png">
         <img src="{{ site.baseurl }}/images/DNA1.png" width="150px" height="150px" align="left"/>
     </a>
 <figcaption>
