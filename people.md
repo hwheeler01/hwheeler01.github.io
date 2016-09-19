@@ -62,18 +62,11 @@ permalink: /people/
 
 **Angela Andaleon, Undergraduate Student**
 <figure>
-    <a href="../images/DNA1.png">
-        <img src="{{ site.baseurl }}/images/DNA1.png" width="150px" height="150px" align="left"/>
+    <a href="../images/angela.png">
+        <img src="{{ site.baseurl }}/images/angela.png" width="150px" height="150px" align="left"/>
     </a>
 <figcaption>
-	Angela is a Molecular Biology major.
-	<br>
-	<br>
-	<br>
-	<br>
-	<br>
-	<br>
-	<br>
+	Angela is a sophomore Molecular Biology major with a minor in Biostatistics, with current plans to move into industrial biological research, possibly pursuing graduate school. She joined the Wheeler lab fall of 2016 after attending the computer science section of the First Year Research Experience that summer. Outside of lab, she enjoys seeing musicals, including winning the Book of Mormon lottery this summer, and attending concerts, once driving four hours to Warped Tour to crowd surf at Neck Deep.
 </figcaption>
 </figure>  
 <br>
@@ -82,7 +75,7 @@ permalink: /people/
 **Alexa Badalamenti, Undergraduate Student**
 
 <figure>
-    <a href="../images/carlos.jpg">
+    <a href="../images/alexa.jpg">
         <img src="{{ site.baseurl }}/images/alexa.jpg" width="150px" height="150px" align="left"/>
     </a>
 <figcaption>
@@ -95,7 +88,7 @@ permalink: /people/
 **Danny Baghdan, Undergraduate Student**
 
 <figure>
-    <a href="../images/carlos.jpg">
+    <a href="../images/danny.jpeg">
         <img src="{{ site.baseurl }}/images/danny.jpeg" width="150px" height="150px" align="left"/>
     </a>
 <figcaption>
@@ -147,7 +140,7 @@ permalink: /people/
 **Natalie Jachym, Undergraduate Student**
 
 <figure>
-    <a href="../images/carlos.jpg">
+    <a href="../images/natalie.png">
         <img src="{{ site.baseurl }}/images/natalie.png" width="150px" height="150px" align="left"/>
     </a>
 <figcaption>
