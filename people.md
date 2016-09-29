@@ -27,7 +27,6 @@ permalink: /people/
 </figcaption>
 </figure>  
 <br>
-<br>
 
 **Amani Almatrafi, Graduate Student**
 <figure>
@@ -45,7 +44,6 @@ permalink: /people/
 </figcaption>
 </figure>  
 <br>
-<br>
 
 **Jon Brenner, Graduate Student**
 
@@ -58,7 +56,6 @@ permalink: /people/
 </figcaption>
 </figure>  
 <br>
-<br>
 
 **Angela Andaleon, Undergraduate Student**
 <figure>
@@ -69,7 +66,6 @@ permalink: /people/
 	Angela is a sophomore Molecular Biology major with a minor in Biostatistics, with current plans to move into industrial biological research, possibly pursuing graduate school. She joined the Wheeler lab fall of 2016 after attending the computer science section of the First Year Research Experience that summer. Outside of lab, she enjoys seeing musicals, including winning the Book of Mormon lottery this summer, and attending concerts, once driving four hours to Warped Tour to crowd surf at Neck Deep.
 </figcaption>
 </figure>  
-<br>
 <br>
 
 **Alexa Badalamenti, Undergraduate Student**
@@ -83,7 +79,6 @@ permalink: /people/
 </figcaption>
 </figure>
 <br>
-<br>
 
 **Danny Baghdan, Undergraduate Student**
 
@@ -95,7 +90,6 @@ permalink: /people/
         Danny Baghdan is an undergraduate at Loyola University Chicago who majors in Bioinformatics.  His interests include all forms of medical research and he plans to attend an MD/ PhD program. His hobbies include listening to music, playing games, and spending time with his friends.
 </figcaption>
 </figure>
-<br>
 <br>
 <br>
 
@@ -116,25 +110,16 @@ permalink: /people/
 </figcaption>
 </figure>  
 <br>
-<br>
 
 **Emma Highland, Undergraduate Student**
 <figure>
-    <a href="../images/DNA1.png">
-        <img src="{{ site.baseurl }}/images/DNA1.png" width="150px" height="150px" align="left"/>
+    <a href="../images/emma.jpg">
+        <img src="{{ site.baseurl }}/images/emma.jpg" width="150px" height="150px" align="left"/>
     </a>
 <figcaption>
-	Emma is a Computer Science major.
-	<br>
-	<br>
-	<br>
-	<br>
-	<br>
-	<br>
-	<br>
+	Emma Highland is a senior undergraduate Computer Science major. She aims to attend a Computational Biology Ph.D. program. Emma is highly interested in the genetics of psychiatric illnesses, specifically the interplay between genetics and response to pharmaceutical treatments for psychiatric illnesses. She plans to pursue a career path that will allow her to help psychiatric patients receive more effective treatments. Aside from her research interests and academic pursuits, Emma enjoys watching horror movies, discovering new music, and hanging out with her friends. Emma is also passionate about getting more women into Computer Science and other STEM fields.
 </figcaption>
 </figure>  
-<br>
 <br>
 
 **Natalie Jachym, Undergraduate Student**
@@ -147,7 +132,6 @@ permalink: /people/
         Natalie is a senior undergraduate Molecular Biology major and plans to attend graduate school to pursue a degree in either Forensic Science or Genetics. Her ultimate goal is to remain at the forefront of new scientific advancements and to have a career that allows her to share her knowledge of biology and chemistry with others.  Outside of the lab, Natalie watches entirely too much TV, but tries to make up for this by taking frequent trips downtown with friends to explore new and exciting areas of the city.
 </figcaption>
 </figure>
-<br>
 <br>
 
 
