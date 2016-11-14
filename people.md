@@ -93,24 +93,6 @@ permalink: /people/
 <br>
 <br>
 
-**George Coin, Undergraduate Student**
-<figure>
-    <a href="../images/DNA1.png">
-        <img src="{{ site.baseurl }}/images/DNA1.png" width="150px" height="150px" align="left"/>
-    </a>
-<figcaption>
-	George is a Bioinformatics major.
-	<br>
-	<br>
-	<br>
-	<br>
-	<br>
-	<br>
-	<br>
-</figcaption>
-</figure>  
-<br>
-
 **Emma Highland, Undergraduate Student**
 <figure>
     <a href="../images/emma.jpg">

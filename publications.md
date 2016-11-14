@@ -4,23 +4,17 @@ title: Publications
 permalink: /publications/
 ---
 
-<a href="https://scholar.google.com/citations?user=UwY8GxwAAAAJ&hl=en">Google Scholar</a>
-
-<a href="http://www.ncbi.nlm.nih.gov/pubmed/?term=Wheeler+HE%5BAuthor%5D">PubMed</a>
-
-<a href="{{ site.baseurl }}/abstracts">Conference Abstracts</a>
-
-**\*Loyola Student**
+<a href="https://scholar.google.com/citations?user=UwY8GxwAAAAJ&hl=en">Google Scholar</a> &emsp; &emsp; &emsp; <a href="http://www.ncbi.nlm.nih.gov/pubmed/?term=Wheeler+HE%5BAuthor%5D">PubMed</a> &emsp; &emsp; &emsp; <a href="{{ site.baseurl }}/abstracts">Conference Abstracts</a>
 
 ### 2016
 
-Frisina RD<sup>‡</sup>, **Wheeler HE**<sup>‡</sup>, Fossa SD, Kerns SL, Fung C, Sesso HD, Monahan PO, Feldman DR, Hamilton R, Vaughn DJ, Beard CJ, Budnick A, Johnson EM, Ardeshir-Rouhani-Fard S, Einhorn LH, Lipshultz SE, Dolan ME, Travis LB. (2016) Comprehensive Audiometric Analysis of Hearing Impairment and Tinnitus After Cisplatin-Based Chemotherapy in Survivors of Adult-Onset Cancer. *Journal of Clinical Oncology* Epub ahead of print. <a href="http://www.ncbi.nlm.nih.gov/pubmed/27354478">PMID 27354478</a> <sup>‡</sup>Contributed equally.
+**Wheeler HE**, Shah KP, **Brenner J\***, Garcia T, Aquino-Michaels K, GTEx Consortium, Cox NJ, Nicolae DL, Im HK. (2016) Survey of the heritability and sparsity of gene expression traits across human tissues. *PLoS Genetics* 12(11):e1006423. <a href="https://www.ncbi.nlm.nih.gov/pubmed/27835642">PMID 27835642</a>
 
-Hertz DL, Owzar K, Lessans S, Wing C, Jiang C, Kelly WK, Patel JN, Halabi S, Furukawa Y, **Wheeler HE**, Sibley A, Lassiter C, Weisman LS, Watson D, Krens SD, Mulkey F, Renn CL, Small EJ, Febbo PG, Shterev I, Kroetz D, Friedman PN, Mahoney JF, Carducci MA, Kelley MJ, Nakamura Y, Kubo M, Dorsey SG, Dolan ME, Morris MJ, Ratain MJ, McLeod HL. (2016) Pharmacogenetic discovery in CALGB (Alliance) 90401 and mechanistic validation of a VAC14 polymorphism that increases risk of docetaxel-induced neuropathy. *Clinical Cancer Research* Epub ahead of print. <a href="http://www.ncbi.nlm.nih.gov/pubmed/27143689">PMID 27143689</a>
+Frisina RD<sup>‡</sup>, **Wheeler HE**<sup>‡</sup>, Fossa SD, Kerns SL, Fung C, Sesso HD, Monahan PO, Feldman DR, Hamilton R, Vaughn DJ, Beard CJ, Budnick A, Johnson EM, Ardeshir-Rouhani-Fard S, Einhorn LH, Lipshultz SE, Dolan ME, Travis LB. (2016) Comprehensive Audiometric Analysis of Hearing Impairment and Tinnitus After Cisplatin-Based Chemotherapy in Survivors of Adult-Onset Cancer. *Journal of Clinical Oncology* 34(23):2712-20. <a href="http://www.ncbi.nlm.nih.gov/pubmed/27354478">PMID 27354478</a> <sup>‡</sup>Contributed equally.
+
+Hertz DL, Owzar K, Lessans S, Wing C, Jiang C, Kelly WK, Patel JN, Halabi S, Furukawa Y, **Wheeler HE**, Sibley A, Lassiter C, Weisman LS, Watson D, Krens SD, Mulkey F, Renn CL, Small EJ, Febbo PG, Shterev I, Kroetz D, Friedman PN, Mahoney JF, Carducci MA, Kelley MJ, Nakamura Y, Kubo M, Dorsey SG, Dolan ME, Morris MJ, Ratain MJ, McLeod HL. (2016) Pharmacogenetic discovery in CALGB (Alliance) 90401 and mechanistic validation of a VAC14 polymorphism that increases risk of docetaxel-induced neuropathy. *Clinical Cancer Research* 22(19):4890-4900. <a href="http://www.ncbi.nlm.nih.gov/pubmed/27143689">PMID 27143689</a>
 
 Barbeira A, Shah KP, Torres JM, **Wheeler HE**, Torstenson ES, Edwards T, Garcia T, Bell GI, Nicolae D, Cox NJ, Im HK. (2016) MetaXcan: Summary statistics based gene-level association method infers accurate PrediXcan results. *BioRxiv* <a href="http://biorxiv.org/content/early/2016/03/23/045260">Preprint</a>
-
-**Wheeler HE**, Shah KP, **Brenner J\***, Garcia T, Aquino-Michaels K, GTEx Consortium, Cox NJ, Nicolae DL, Im HK. (2016) Survey of the heritability and sparsity of gene expression traits across human tissues. *BioRxiv* <a href="http://biorxiv.org/content/early/2016/03/15/043653.1">Preprint</a>
 
 ### 2015
 
@@ -58,5 +52,11 @@ Gamazon ER, Lamba JK, Pounds S, Stark AL, <b>Wheeler HE</b>, Cao X, Im HK, Mitra
 <b>Wheeler HE</b>, Gamazon ER, Stark AL, O’Donnell PH, Gorsic LK, Huang RS, Cox NJ, Dolan ME (2013) Genome-wide meta-analysis identifies variants associated with platinating agent susceptibility across populations. <i>The Pharmacogenomics Journal</i> 13(1):35-43. <a href="http://www.ncbi.nlm.nih.gov/pubmed/?term=PMC3370147">PMC3370147</a>
 
 
+**\*Loyola Student**
 
 <a href="{{ site.baseurl }}/oldpubs">Older Publications</a>
+
+
+
+
+
