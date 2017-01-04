@@ -4,24 +4,26 @@ title: Publications
 permalink: /publications/
 ---
 
-<a href="https://scholar.google.com/citations?user=UwY8GxwAAAAJ&hl=en">Google Scholar</a> &emsp; &emsp; &emsp; <a href="http://www.ncbi.nlm.nih.gov/pubmed/?term=Wheeler+HE%5BAuthor%5D">PubMed</a> &emsp; &emsp; &emsp; <a href="{{ site.baseurl }}/abstracts">Conference Abstracts</a>
+<a href="https://scholar.google.com/citations?user=UwY8GxwAAAAJ&hl=en">Google Scholar</a> &emsp; &emsp; &emsp; <a href="http://www.ncbi.nlm.nih.gov/pubmed/?term=Wheeler+HE%5BAuthor%5D">PubMed</a> &emsp; &emsp; &emsp; <a href="{{ site.baseurl }}/abstracts">Conference Abstracts</a> &emsp; &emsp; &emsp; **\*Loyola Student**
 
 ### 2016
 
-**Wheeler HE**, Shah KP, **Brenner J\***, Garcia T, Aquino-Michaels K, GTEx Consortium, Cox NJ, Nicolae DL, Im HK. (2016) Survey of the heritability and sparsity of gene expression traits across human tissues. *PLoS Genetics* 12(11):e1006423. <a href="https://www.ncbi.nlm.nih.gov/pubmed/27835642">PMID 27835642</a>
+**Wheeler HE**, Gamazon ER, Frisina R, **Perez-Cervantes C\***, El Charif O, Mapes B, Fossa SD, Feldman D, Hamilton R, Vaughn DJ, Beard C, Fung C, Kollmannsberger C, Kim J, Mushiroda T, Kubo M, Ardeshir-Rouhani-Fard S, Einhorn LH, Cox N, Dolan ME, Travis L. (2016) Variants in *WFS1* and other Mendelian deafness genes are associated with cisplatin-associated ototoxicity. *Clinical Cancer Research* doi: 10.1158/1078-0432.CCR-16-2809. [PMID 28039263](https://www.ncbi.nlm.nih.gov/pubmed/28039263) [pdf] ({{ site.baseurl }}/papers/1078-0432.CCR-16-2809.full.pdf) 
 
-Frisina RD<sup>‡</sup>, **Wheeler HE**<sup>‡</sup>, Fossa SD, Kerns SL, Fung C, Sesso HD, Monahan PO, Feldman DR, Hamilton R, Vaughn DJ, Beard CJ, Budnick A, Johnson EM, Ardeshir-Rouhani-Fard S, Einhorn LH, Lipshultz SE, Dolan ME, Travis LB. (2016) Comprehensive Audiometric Analysis of Hearing Impairment and Tinnitus After Cisplatin-Based Chemotherapy in Survivors of Adult-Onset Cancer. *Journal of Clinical Oncology* 34(23):2712-20. <a href="http://www.ncbi.nlm.nih.gov/pubmed/27354478">PMID 27354478</a> <sup>‡</sup>Contributed equally.
+**Wheeler HE**, Shah KP, **Brenner J\***, Garcia T, Aquino-Michaels K, GTEx Consortium, Cox NJ, Nicolae DL, Im HK. (2016) Survey of the heritability and sparsity of gene expression traits across human tissues. *PLoS Genetics* 12(11):e1006423. <a href="https://www.ncbi.nlm.nih.gov/pubmed/?term=PMC5106030">PMC5106030</a>
 
-Hertz DL, Owzar K, Lessans S, Wing C, Jiang C, Kelly WK, Patel JN, Halabi S, Furukawa Y, **Wheeler HE**, Sibley A, Lassiter C, Weisman LS, Watson D, Krens SD, Mulkey F, Renn CL, Small EJ, Febbo PG, Shterev I, Kroetz D, Friedman PN, Mahoney JF, Carducci MA, Kelley MJ, Nakamura Y, Kubo M, Dorsey SG, Dolan ME, Morris MJ, Ratain MJ, McLeod HL. (2016) Pharmacogenetic discovery in CALGB (Alliance) 90401 and mechanistic validation of a VAC14 polymorphism that increases risk of docetaxel-induced neuropathy. *Clinical Cancer Research* 22(19):4890-4900. <a href="http://www.ncbi.nlm.nih.gov/pubmed/27143689">PMID 27143689</a>
+Frisina RD<sup>‡</sup>, **Wheeler HE**<sup>‡</sup>, Fossa SD, Kerns SL, Fung C, Sesso HD, Monahan PO, Feldman DR, Hamilton R, Vaughn DJ, Beard CJ, Budnick A, Johnson EM, Ardeshir-Rouhani-Fard S, Einhorn LH, Lipshultz SE, Dolan ME, Travis LB. (2016) Comprehensive Audiometric Analysis of Hearing Impairment and Tinnitus After Cisplatin-Based Chemotherapy in Survivors of Adult-Onset Cancer. *Journal of Clinical Oncology* 34(23):2712-20. <a href="https://www.ncbi.nlm.nih.gov/pubmed/?term=PMC5019759">PMC5019759</a> <sup>‡</sup>Contributed equally.
+
+Hertz DL, Owzar K, Lessans S, Wing C, Jiang C, Kelly WK, Patel JN, Halabi S, Furukawa Y, **Wheeler HE**, Sibley A, Lassiter C, Weisman LS, Watson D, Krens SD, Mulkey F, Renn CL, Small EJ, Febbo PG, Shterev I, Kroetz D, Friedman PN, Mahoney JF, Carducci MA, Kelley MJ, Nakamura Y, Kubo M, Dorsey SG, Dolan ME, Morris MJ, Ratain MJ, McLeod HL. (2016) Pharmacogenetic discovery in CALGB (Alliance) 90401 and mechanistic validation of a VAC14 polymorphism that increases risk of docetaxel-induced neuropathy. *Clinical Cancer Research* 22(19):4890-4900. <a href="https://www.ncbi.nlm.nih.gov/pubmed/?term=PMC5050068">PMC5050068</a>
 
 Barbeira A, Shah KP, Torres JM, **Wheeler HE**, Torstenson ES, Edwards T, Garcia T, Bell GI, Nicolae D, Cox NJ, Im HK. (2016) MetaXcan: Summary statistics based gene-level association method infers accurate PrediXcan results. *BioRxiv* <a href="http://biorxiv.org/content/early/2016/03/23/045260">Preprint</a>
 
 ### 2015
 
-Gamazon ER<sup>‡</sup>, <b>Wheeler HE</b><sup>‡</sup>, Shah KP<sup>‡</sup>, Mozaffari SV, Aquino-Michaels K, Carroll RJ, Eyler AE, Denny JC, GTEx Consortium, Nicolae DL, Cox NJ, Im HK. (2015) A gene-based association method for mapping traits using reference transcriptome data. <i>Nature Genetics</i> 47(9):1091-8. <a href="http://www.ncbi.nlm.nih.gov/pubmed/26258848">PMID26258848</a>
+Gamazon ER<sup>‡</sup>, <b>Wheeler HE</b><sup>‡</sup>, Shah KP<sup>‡</sup>, Mozaffari SV, Aquino-Michaels K, Carroll RJ, Eyler AE, Denny JC, GTEx Consortium, Nicolae DL, Cox NJ, Im HK. (2015) A gene-based association method for mapping traits using reference transcriptome data. <i>Nature Genetics</i> 47(9):1091-8. <a href="https://www.ncbi.nlm.nih.gov/pubmed/?term=PMC4552594">PMC4552594</a>
 <sup>‡</sup>Contributed equally.
 
-Komatsu M, <b>Wheeler HE</b>, Chung S, Low SK, Wing C, Delaney SM, Gorsic LK, Takahashi A, Kubo M, Kroetz D, Zhang W, Nakamura Y, Dolan ME. (2015) Pharmacoethnicity in paclitaxel-induced sensory peripheral neuropathy. <i>Clinical Cancer Research</i> 21(19):4337-46. <a href="http://www.ncbi.nlm.nih.gov/pubmed/26015512">PMID26015512</a>
+Komatsu M, <b>Wheeler HE</b>, Chung S, Low SK, Wing C, Delaney SM, Gorsic LK, Takahashi A, Kubo M, Kroetz D, Zhang W, Nakamura Y, Dolan ME. (2015) Pharmacoethnicity in paclitaxel-induced sensory peripheral neuropathy. <i>Clinical Cancer Research</i> 21(19):4337-46. <a href="https://www.ncbi.nlm.nih.gov/pubmed/?term=PMC4592389">PMC4592389</a>
 
 Diouf B, Crews KR, Lew G, Pei D, Cheng C, Bao J, Zheng JJ, Yang W, Fan Y, <b>Wheeler HE</b>, Wing C, Delaney SM, Komatsu M, Paugh SW, McCorkle JR, Lu X, Winick NJ, Carroll WL, Loh ML, Hunger SP, Devidas M, Pui CH, Dolan ME, Relling MV, Evans WE. (2015) Association of an inherited genetic variant with vincristine-related peripheral neuropathy in children with acute lymphoblastic leukemia. <i>JAMA</i> 313(8):815-823. <a href="http://www.ncbi.nlm.nih.gov/pubmed/?term=PMC4377066">PMC4377066</a>
 
@@ -52,7 +54,7 @@ Gamazon ER, Lamba JK, Pounds S, Stark AL, <b>Wheeler HE</b>, Cao X, Im HK, Mitra
 <b>Wheeler HE</b>, Gamazon ER, Stark AL, O’Donnell PH, Gorsic LK, Huang RS, Cox NJ, Dolan ME (2013) Genome-wide meta-analysis identifies variants associated with platinating agent susceptibility across populations. <i>The Pharmacogenomics Journal</i> 13(1):35-43. <a href="http://www.ncbi.nlm.nih.gov/pubmed/?term=PMC3370147">PMC3370147</a>
 
 
-**\*Loyola Student**
+
 
 <a href="{{ site.baseurl }}/oldpubs">Older Publications</a>
 
