@@ -8,7 +8,7 @@ permalink: /publications/
 
 ### 2016
 
-**Wheeler HE**, Gamazon ER, Frisina R, **Perez-Cervantes C\***, El Charif O, Mapes B, Fossa SD, Feldman D, Hamilton R, Vaughn DJ, Beard C, Fung C, Kollmannsberger C, Kim J, Mushiroda T, Kubo M, Ardeshir-Rouhani-Fard S, Einhorn LH, Cox N, Dolan ME, Travis L. (2016) Variants in *WFS1* and other Mendelian deafness genes are associated with cisplatin-associated ototoxicity. *Clinical Cancer Research* doi: 10.1158/1078-0432.CCR-16-2809. [PMID28039263](https://www.ncbi.nlm.nih.gov/pubmed/28039263) &emsp; [pdf](http://hwheeler01.github.io/papers/1078-0432.CCR-16-2809.full.pdf) 
+**Wheeler HE**, Gamazon ER, Frisina R, **Perez-Cervantes C\***, El Charif O, Mapes B, Fossa SD, Feldman D, Hamilton R, Vaughn DJ, Beard C, Fung C, Kollmannsberger C, Kim J, Mushiroda T, Kubo M, Ardeshir-Rouhani-Fard S, Einhorn LH, Cox N, Dolan ME, Travis L. (2016) Variants in *WFS1* and other Mendelian deafness genes are associated with cisplatin-associated ototoxicity. *Clinical Cancer Research* doi: 10.1158/1078-0432.CCR-16-2809. [PMID28039263](https://www.ncbi.nlm.nih.gov/pubmed/28039263) &emsp; [pdf](http://hwheeler01.github.io/papers/nihms-839776.pdf) 
 
 **Wheeler HE**, Shah KP, **Brenner J\***, Garcia T, Aquino-Michaels K, GTEx Consortium, Cox NJ, Nicolae DL, Im HK. (2016) Survey of the heritability and sparsity of gene expression traits across human tissues. *PLoS Genetics* 12(11):e1006423. <a href="https://www.ncbi.nlm.nih.gov/pubmed/?term=PMC5106030">PMC5106030</a>
 
