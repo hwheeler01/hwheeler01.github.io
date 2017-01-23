@@ -12,17 +12,17 @@ Students will engage in the applications of computer-based tools and database se
 
 **Outcome:** Students will be able to apply their understanding of genetic and evolutionary processes to the appropriate use of computer software and manipulation of large databases to accurately predict structural, informational, functional, and evolutionary characteristics of DNA and protein sequences.
 
-## COMP 150. Introduction to Computing (3 credits)
+## [COMP 150. Introduction to Computing](https://hwheeler01.github.io/comp150/)  (3 credits)
 
-**Semesters Taught:** Spring 2016
+**Semesters Taught:** Spring 2016, Spring 2017
 
 This course provides a broad survey introducing the many layers of the computer science discipline, emphasizing the computer’s role and limitations as a tool for describing, organizing, and manipulating information applicable to many disciplines. Topics include binary logic expressed in electronic circuitry, machine architecture, basic programming in the very accessible language Python, data organization, the potential and limitations of machines, and useful tools.
 
 **Outcome:** Ability to write programs to manage and transform data; broad understanding of foundations of computing.
 
-## COMP 383. Computational Biology (4 credits)
+## [COMP 383. Computational Biology](https://hwheeler01.github.io/CompBio/) (4 credits)
 
-**Semesters Taught:** Spring 2016
+**Semesters Taught:** Spring 2016, Spring 2017
 
 This course presents an algorithmic focus to problems in computational biology. It is built on earlier courses on algorithms and bioinformatics. Problems and solutions covered in this course include gene hunting, sequence comparison, multiple alignment, gene prediction, trees and sequences, databases, and rapid sequence analysis.
 
