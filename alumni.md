@@ -17,3 +17,20 @@ permalink: /alumni/
 <br>
 <br>
 
+**Amani Almatrafi, Graduate Student**
+<figure>
+    <a href="../images/DNA1.png">
+        <img src="{{ site.baseurl }}/images/DNA1.png" width="150px" height="150px" align="left"/>
+    </a>
+<figcaption>
+	Amani is a graduate student in the Department of Computer Science.
+	<br>
+	<br>
+	<br>
+	<br>
+	<br>
+	<br>
+</figcaption>
+</figure>  
+<br>
+
