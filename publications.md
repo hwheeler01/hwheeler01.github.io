@@ -6,15 +6,20 @@ permalink: /publications/
 
 <a href="https://scholar.google.com/citations?user=UwY8GxwAAAAJ&hl=en">Google Scholar</a> &emsp; &emsp; &emsp; <a href="http://www.ncbi.nlm.nih.gov/pubmed/?term=Wheeler+HE%5BAuthor%5D">PubMed</a> &emsp; &emsp; &emsp; <a href="{{ site.baseurl }}/abstracts">Conference Abstracts</a> &emsp; &emsp; &emsp; **\*Loyola Student**
 
+### 2017
+
+Eadon MT, Hause RJ, Stark AL, Cheng YH, **Wheeler HE**, Burgess KS, Benson EA, Cunningham PN, Bacallao RL, Dagher PC, Skaar TC, Dolan ME. (2017) Genetic variants contributing to colistin cytotoxicity: identification of *TGIF1* and *HOXD10* using a population genomics approach. *International Journal Molecular Sciences* 18(3). [PMC5372673](https://www.ncbi.nlm.nih.gov/pubmed/28335481)
+
+
 ### 2016
 
 **Wheeler HE**, Gamazon ER, Frisina R, **Perez-Cervantes C\***, El Charif O, Mapes B, Fossa SD, Feldman D, Hamilton R, Vaughn DJ, Beard C, Fung C, Kollmannsberger C, Kim J, Mushiroda T, Kubo M, Ardeshir-Rouhani-Fard S, Einhorn LH, Cox N, Dolan ME, Travis L. (2016) Variants in *WFS1* and other Mendelian deafness genes are associated with cisplatin-associated ototoxicity. *Clinical Cancer Research* doi: 10.1158/1078-0432.CCR-16-2809. [PMID28039263](https://www.ncbi.nlm.nih.gov/pubmed/28039263) &emsp; [pdf](http://hwheeler01.github.io/papers/nihms-839776.pdf) 
 
 **Wheeler HE**, Shah KP, **Brenner J\***, Garcia T, Aquino-Michaels K, GTEx Consortium, Cox NJ, Nicolae DL, Im HK. (2016) Survey of the heritability and sparsity of gene expression traits across human tissues. *PLoS Genetics* 12(11):e1006423. <a href="https://www.ncbi.nlm.nih.gov/pubmed/?term=PMC5106030">PMC5106030</a>
 
-Frisina RD<sup>‡</sup>, **Wheeler HE**<sup>‡</sup>, Fossa SD, Kerns SL, Fung C, Sesso HD, Monahan PO, Feldman DR, Hamilton R, Vaughn DJ, Beard CJ, Budnick A, Johnson EM, Ardeshir-Rouhani-Fard S, Einhorn LH, Lipshultz SE, Dolan ME, Travis LB. (2016) Comprehensive Audiometric Analysis of Hearing Impairment and Tinnitus After Cisplatin-Based Chemotherapy in Survivors of Adult-Onset Cancer. *Journal of Clinical Oncology* 34(23):2712-20. <a href="https://www.ncbi.nlm.nih.gov/pubmed/?term=PMC5019759">PMC5019759</a> <sup>‡</sup>Contributed equally.
+Frisina RD<sup>‡</sup>, **Wheeler HE**<sup>‡</sup>, Fossa SD, Kerns SL, Fung C, Sesso HD, Monahan PO, Feldman DR, Hamilton R, Vaughn DJ, Beard CJ, Budnick A, Johnson EM, Ardeshir-Rouhani-Fard S, Einhorn LH, Lipshultz SE, Dolan ME, Travis LB. (2016) Comprehensive audiometric analysis of hearing impairment and tinnitus after cisplatin-based chemotherapy in survivors of adult-onset cancer. *Journal of Clinical Oncology* 34(23):2712-20. <a href="https://www.ncbi.nlm.nih.gov/pubmed/?term=PMC5019759">PMC5019759</a> <sup>‡</sup>Contributed equally.
 
-Hertz DL, Owzar K, Lessans S, Wing C, Jiang C, Kelly WK, Patel JN, Halabi S, Furukawa Y, **Wheeler HE**, Sibley A, Lassiter C, Weisman LS, Watson D, Krens SD, Mulkey F, Renn CL, Small EJ, Febbo PG, Shterev I, Kroetz D, Friedman PN, Mahoney JF, Carducci MA, Kelley MJ, Nakamura Y, Kubo M, Dorsey SG, Dolan ME, Morris MJ, Ratain MJ, McLeod HL. (2016) Pharmacogenetic discovery in CALGB (Alliance) 90401 and mechanistic validation of a VAC14 polymorphism that increases risk of docetaxel-induced neuropathy. *Clinical Cancer Research* 22(19):4890-4900. <a href="https://www.ncbi.nlm.nih.gov/pubmed/?term=PMC5050068">PMC5050068</a>
+Hertz DL, Owzar K, Lessans S, Wing C, Jiang C, Kelly WK, Patel JN, Halabi S, Furukawa Y, **Wheeler HE**, Sibley A, Lassiter C, Weisman LS, Watson D, Krens SD, Mulkey F, Renn CL, Small EJ, Febbo PG, Shterev I, Kroetz D, Friedman PN, Mahoney JF, Carducci MA, Kelley MJ, Nakamura Y, Kubo M, Dorsey SG, Dolan ME, Morris MJ, Ratain MJ, McLeod HL. (2016) Pharmacogenetic discovery in CALGB (Alliance) 90401 and mechanistic validation of a *VAC14* polymorphism that increases risk of docetaxel-induced neuropathy. *Clinical Cancer Research* 22(19):4890-4900. <a href="https://www.ncbi.nlm.nih.gov/pubmed/?term=PMC5050068">PMC5050068</a>
 
 Barbeira A, Shah KP, Torres JM, **Wheeler HE**, Torstenson ES, Edwards T, Garcia T, Bell GI, Nicolae D, Cox NJ, Im HK. (2016) MetaXcan: Summary statistics based gene-level association method infers accurate PrediXcan results. *BioRxiv* <a href="http://biorxiv.org/content/early/2016/03/23/045260">Preprint</a>
 
