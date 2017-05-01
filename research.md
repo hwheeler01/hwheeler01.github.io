@@ -8,7 +8,7 @@ Genome-wide analyses of the past few years have revealed that a substantial port
 
 ## Genetic Architecture of Gene Expression
 
-We performed a systematic survey of the heritability (h<sup>2</sup>) and the distribution of effect sizes across all representative tissues in the human body (published in [*PLOS Genetics*](https://www.ncbi.nlm.nih.gov/pubmed/?term=PMC5106030)). Bayesian Sparse Linear Mixed Model (BSLMM) analysis provides strong evidence that the genetic contribution to local expression traits is dominated by a handful of genetic variants rather than by the collective contribution of a large number of variants each of modest size. In other words, the local architecture of gene expression traits is sparse rather than polygenic across all 40 tissues (from [DGN](http://dags.stanford.edu/dgn/) and [GTEx](https://www.gtexportal.org/home/)) examined. For most genes BSLMM h<sup>2</sup> estimates are larger than LMM estimates reflecting the fact that BSLMM yields better estimates of heritability because of its ability to account for the sparse component. This result is confirmed by the sparsity of optimal performing gene expression predictors via elastic net modeling. 
+We performed a systematic survey of the heritability and the distribution of effect sizes across all representative tissues in the human body. Bayesian Sparse Linear Mixed Model (BSLMM) analysis provides strong evidence that the genetic contribution to local expression traits is dominated by a handful of genetic variants rather than by the collective contribution of a large number of variants each of modest size. In other words, the local architecture of gene expression traits is sparse rather than polygenic across all 40 tissues (from [DGN](http://dags.stanford.edu/dgn/) and [GTEx](https://www.gtexportal.org/home/)) examined. For most genes BSLMM PVE (percent variance explained) estimates are larger than LMM estimates reflecting the fact that BSLMM yields better estimates of heritability because of its ability to account for the sparse component. This result is confirmed by the sparsity of optimal performing gene expression predictors via elastic net modeling. See our article in [*PLOS Genetics*](https://www.ncbi.nlm.nih.gov/pubmed/?term=PMC5106030) for more information.
 
 ![GenArchFig4]({{ site.baseurl }}/images/Fig4-GTEx_TW_PVE_v_h2.jpg)
 
@@ -20,7 +20,7 @@ We have developed a gene-based association method called PrediXcan (pronounced "
 
 ## OmicKriging
 
-We have developed a novel systems approach to complex trait prediction, which leverages and integrates similarity in genetic, transcriptomic or other omics-level data. Our method called OmicKriging (published in <a href="http://www.ncbi.nlm.nih.gov/pubmed/?term=PMC4072756"><i>Genetic Epidemiology</i></a>) emphasizes the use of a wide variety of systems-level data, such as those increasingly made available by comprehensive surveys of the genome, transcriptome and epigenome, for complex trait prediction. For example, integrating different omic correlation matrices such as a genetic relationship matrix (GRM) derived from SNPs and a gene expression correlation matrix (GXM) derived from gene expression levels may optimize predictive performance over either dataset alone.
+We have developed a novel systems approach to complex trait prediction, which leverages and integrates similarity in genetic, transcriptomic or other omics-level data. Our method called OmicKriging emphasizes the use of a wide variety of systems-level data, such as those increasingly made available by comprehensive surveys of the genome, transcriptome and epigenome, for complex trait prediction. For example, integrating different omic correlation matrices such as a genetic relationship matrix (GRM) derived from SNPs and a gene expression correlation matrix (GXM) derived from gene expression levels may optimize predictive performance over either dataset alone. See our article in <a href="http://www.ncbi.nlm.nih.gov/pubmed/?term=PMC4072756"><i>Genetic Epidemiology</i></a> for more details.
 
 ![OKFig2]({{ site.baseurl }}/images/OKFig2.jpg)
 
@@ -34,12 +34,18 @@ We have developed a novel systems approach to complex trait prediction, which le
 Our project will lead to a better understanding of the effect and impact of genetic variation on gene expression and complex traits across populations, which has the potential to improve the implementation of precision medicine among diverse populations and reduce health disparities.
 
 Role: PI
-
-**R01 MH107666** 	08/21/15 – 06/30/18
+<br>
+<br>
+<br>
+**R01 MH107666** 08/21/15 – 06/30/18
 *Predicted Gene Expression: High Power, Mechanism, and Direction of Effect*The goal of this project is to develop and apply methods that fully harness gene regulation within complex psychiatric trait association and prediction studies. Role: Co-investigator (PI: <a href="https://imlab.uchicago.edu/" target="_blank">Hae Kyung Im</a>)
-
+<br>
+<br>
+<br>
 **R01 CA157823** 09/25/12 – 07/31/17
   *Genetic Susceptibility and Biomarkers of Platinum-Related Toxicities*The goal of this project is to understand the biologic/genetic basis of acute/late chemotherapy-related toxicity in testicular cancer patients treated with cisplatin.Role: Co-investigator (PI: <a href="http://news.medicine.iu.edu/releases/2015/08/Lois-Travis.shtml" target="_blank">Lois Travis</a>)
-
+<br>
+<br>
+<br>
 
 
