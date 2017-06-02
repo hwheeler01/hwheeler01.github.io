@@ -10,7 +10,6 @@ permalink: /abstracts/
         <i>Presenting at <a href="http://www.ashg.org/">ASHG</a> 2016 in Vancouver. L: Alexa Badalamenti, R: Natalie Jachym</i>
 </figcaption>
 </figure>
-<br>
 
 ### 2017
 
@@ -21,16 +20,6 @@ Great Lakes Bioinformatics Conference, Chicago, IL, May 15-17, Poster: "Gene exp
 Great Lakes Bioinformatics Conference, Chicago, IL, May 15-17, Poster: "Transcriptome-based Association Study Comparing Susceptibility to Multiple Cancer Types" **Danny Baghdan\***, **Lauren Mogil**, **Carlos Perez-Cervantes\*** and **Heather E. Wheeler**
 
 Chicago Area Undergraduate Research Symposium, Roosevelt University, Chicago, IL, April 29, Poster: “Genetic Mechanisms Underlying Cholesterol Traits in Diverse Populations” **Angela Andaleon\***, **Heather E. Wheeler**
-
-<figure>
-    <center><img src="{{ site.baseurl }}/images/IMG_0005.jpg" width="333px" height="250px" />
-	<img src="{{ site.baseurl }}/images/IMG_0006.jpg" width="333px" height="250px" /></center>
-<figcaption>
-        <i>Presenting at <a href="http://www.caurs.com/">CAURS</a> 2016 in Chicago. L: Alexa Badalamenti, R: Carlos Perez-Cervantes</i>
-</figcaption>
-</figure>
-<br>
-
 
 ### 2016
 American Society of Human Genetics Annual Meeting, Vancouver, BC, October 18 - 22, Poster: "Predicting gene regulation in diverse global populations" **Alexa Badalamenti\***, **Natalie Jachym\***, **Amani Almatrafi\***, **Virginia Saulnier\***, **Jeffrey Ng\***, **Shyam Shah\***, **Heather E. Wheeler**
@@ -46,6 +35,16 @@ Great Lakes Bioinformatics and the Canadian Computational Biology Conference, To
 Chicago Area Undergraduate Research Symposium, The Museum of Science and Industry, Chicago, IL, April 9, Poster: "Gene-Based Association Study of Sporadic Postmenopausal Breast Cancer" **Carlos Perez-Cervantes\***, **Heather E. Wheeler**
 
 Chicago Area Undergraduate Research Symposium, The Museum of Science and Industry, Chicago, IL, April 9, Poster: "Predicting Gene Regulation in Diverse Global Populations" **Alexa Badalamenti\***, **Jeffrey Ng\***, **Virginia Saulnier\***, **Shyam Shah\***, **Heather E. Wheeler**
+
+<br>
+<figure>
+    <center><img src="{{ site.baseurl }}/images/IMG_0005.jpg" width="333px" height="250px" />
+	<img src="{{ site.baseurl }}/images/IMG_0006.jpg" width="333px" height="250px" /></center>
+<figcaption>
+        <i>Presenting at <a href="http://www.caurs.com/">CAURS</a> 2016 in Chicago. L: Alexa Badalamenti, R: Carlos Perez-Cervantes</i>
+</figcaption>
+</figure>
+<br>
 
 ### 2015 
 
