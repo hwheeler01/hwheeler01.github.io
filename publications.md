@@ -4,7 +4,11 @@ title: Publications
 permalink: /publications/
 ---
 
-<a href="https://scholar.google.com/citations?user=UwY8GxwAAAAJ&hl=en">Google Scholar</a> &emsp; &emsp; &emsp; <a href="http://www.ncbi.nlm.nih.gov/pubmed/?term=Wheeler+HE%5BAuthor%5D">PubMed</a> &emsp; &emsp; &emsp; <a href="{{ site.baseurl }}/abstracts">Conference Abstracts</a> &emsp; &emsp; &emsp; **\*Loyola Student**
+<a href="{{ site.baseurl }}/abstracts">Conference Abstracts</a> 
+
+**Wheeler Lab Member** &emsp; &emsp; &emsp;**\*Loyola Student**
+
+<a href="https://scholar.google.com/citations?user=UwY8GxwAAAAJ&hl=en">Google Scholar</a> &emsp; &emsp; &emsp; <a href="http://www.ncbi.nlm.nih.gov/pubmed/?term=Wheeler+HE%5BAuthor%5D">PubMed</a> &emsp; &emsp; &emsp; <a href="http://orcid.org/0000-0003-1365-9667">ORCID</a> &emsp; &emsp; &emsp;
 
 ### 2017
 

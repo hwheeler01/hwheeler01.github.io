@@ -3,6 +3,25 @@ layout: page
 title: Conference Abstracts
 permalink: /abstracts/
 ---
+
+<figure>
+    <center><img src="{{ site.baseurl }}/images/aly-natalie-ashg.png" width="333px" height="333px"/></center>
+<figcaption>
+        <i>Presenting at <a href="http://www.ashg.org/">ASHG</a> 2016 in Vancouver. L: Alexa Badalamenti, R: Natalie Jachym</i>
+</figcaption>
+</figure>
+<br>
+
+### 2017
+
+Great Lakes Bioinformatics Conference, Chicago, IL, May 15-17, Presentation: "Optimizing predictors of gene expression within and across diverse populations" **Lauren Mogil** and **Heather E. Wheeler**
+
+Great Lakes Bioinformatics Conference, Chicago, IL, May 15-17, Poster: "Gene expression predictive performance varies across populations" **Alexa Badalamenti\***, **Virginia Saulnier\***, **Natalie Jachym\***, **Amani Almatrafi\***, **Jeffrey Ng\***, **Shyam Shah\***, **Heather E. Wheeler**
+
+Great Lakes Bioinformatics Conference, Chicago, IL, May 15-17, Poster: "Transcriptome-based Association Study Comparing Susceptibility to Multiple Cancer Types" **Danny Baghdan\***, **Lauren Mogil**, **Carlos Perez-Cervantes\*** and **Heather E. Wheeler**
+
+Chicago Area Undergraduate Research Symposium, Roosevelt University, Chicago, IL, April 29, Poster: “Genetic Mechanisms Underlying Cholesterol Traits in Diverse Populations” **Angela Andaleon\***, **Heather E. Wheeler**
+
 <figure>
     <center><img src="{{ site.baseurl }}/images/IMG_0005.jpg" width="333px" height="250px" />
 	<img src="{{ site.baseurl }}/images/IMG_0006.jpg" width="333px" height="250px" /></center>
@@ -12,13 +31,6 @@ permalink: /abstracts/
 </figure>
 <br>
 
-<figure>
-    <center><img src="{{ site.baseurl }}/images/aly-natalie-ashg.png" width="333px" height="333px"/></center>
-<figcaption>
-        <i>Presenting at <a href="http://www.ashg.org/">ASHG</a> 2016 in Vancouver. L: Alexa Badalamenti, R: Natalie Jachym</i>
-</figcaption>
-</figure>
-<br>
 
 ### 2016
 American Society of Human Genetics Annual Meeting, Vancouver, BC, October 18 - 22, Poster: "Predicting gene regulation in diverse global populations" **Alexa Badalamenti\***, **Natalie Jachym\***, **Amani Almatrafi\***, **Virginia Saulnier\***, **Jeffrey Ng\***, **Shyam Shah\***, **Heather E. Wheeler**
@@ -37,4 +49,4 @@ Chicago Area Undergraduate Research Symposium, The Museum of Science and Industr
 
 ### 2015 
 
-American Society of Human Genetics Annual Meeting, Baltimore, MD, October 6-10, Reviewers' Choice (top 10%) Poster: “Genetic architecture of gene expression regulation via orthogonal tissue decomposition” **Heather E. Wheeler**, Nicholas Knoblauch, GTEx Consortium, Nancy J. Cox, Dan L. Nicolae, Hae Kyung Im**\*Loyola Student**
+American Society of Human Genetics Annual Meeting, Baltimore, MD, October 6-10, Reviewers' Choice (top 10%) Poster: “Genetic architecture of gene expression regulation via orthogonal tissue decomposition” **Heather E. Wheeler**, Nicholas Knoblauch, GTEx Consortium, Nancy J. Cox, Dan L. Nicolae, Hae Kyung Im**Wheeler Lab Member** &emsp; &emsp; &emsp;**\*Loyola Student**
