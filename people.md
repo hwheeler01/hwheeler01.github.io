@@ -12,7 +12,7 @@ permalink: /people/
 	<img src="{{ site.baseurl }}/images/hew.jpg" width="150px" height="150px" align="left"/>
     </a>
 <figcaption>
-	Heather is an Assistant Professor at <a href="http://luc.edu/">Loyola University Chicago</a> with joint appointments in the Departments of <a href="http://luc.edu/biology">Biology</a>, <a href="http://luc.edu/cs">Computer Science</a>, and <a href="http://ssom.luc.edu/public_health_sciences/">Public Health Sciences</a>. She teaches courses within the <a href="http://luc.edu/bioinformatics/">Bioinformatics</a> major. She was recently featured in a <a href="{{ site.baseurl }}/images/wheeler-newsletterpage-2016.pdf">New Faculty Spotlight</a> article in the Biology Department Newsletter. Before joining Loyola in 2015, she was a Postdoctoral Fellow at <a href="http://medicine.uchicago.edu/index.aspx">The University of Chicago</a>. While there, she appeared in a <a href="http://www.labtv.com/Home/Profile?researcherId=1894">LabTV video</a> describing her research. Heather holds a Ph.D. in Genetics from <a href="http://genetics.stanford.edu/">Stanford University</a> and a B.A. in Biology from <a href="http://www.hamline.edu/cla/biology/">Hamline University</a>. When not working on modeling complex trait genetics or course design, Heather enjoys exploring Chicago with her family. Favorite spots include <a href="http://www.fieldmuseum.org/">The Field Museum</a>, <a href="http://www.momotarochicago.com/">Momotaro</a>, <a href="http://www.chicagoparkdistrict.com/parks/Coliseum-Park/">Coliseum Park</a>, <a href="http://en.wikipedia.org/wiki/U.S._Cellular_Field">The Cell</a>, and <a href="http://www.lh-st.com/">Lincoln Hall</a>.
+	Heather is an Assistant Professor at <a href="http://luc.edu/">Loyola University Chicago</a> with joint appointments in the Departments of <a href="http://luc.edu/biology">Biology</a>, <a href="http://luc.edu/cs">Computer Science</a>, and <a href="http://ssom.luc.edu/public_health_sciences/">Public Health Sciences</a>. She teaches courses within the <a href="http://luc.edu/bioinformatics/">Bioinformatics</a> major. She was recently featured in a <a href="{{ site.baseurl }}/images/wheeler-newsletterpage-2016.pdf">New Faculty Spotlight</a> article in the Biology Department Newsletter. Before joining Loyola in 2015, she was a Postdoctoral Fellow at <a href="http://medicine.uchicago.edu/index.aspx">The University of Chicago</a>. While there, she appeared in a <a href="http://www.labtv.com/Home/Profile?researcherId=1894">LabTV video</a> describing her research. Heather holds a Ph.D. in Genetics from <a href="http://genetics.stanford.edu/">Stanford University</a> and a B.A. in Biology from <a href="http://www.hamline.edu/cla/biology/">Hamline University</a>. When not working on modeling complex trait genetics or course design, Heather enjoys exploring Chicago with her family. Favorite spots include <a href="http://www.fieldmuseum.org/">The Field Museum</a>, <a href="http://www.momotarochicago.com/">Momotaro</a>, <a href="http://www.chicagoparkdistrict.com/parks/Coliseum-Park/">Coliseum Park</a>, <a href="https://en.wikipedia.org/wiki/Guaranteed_Rate_Field">Comiskey or whatever it's called</a> when the Twins are in town, and <a href="http://www.lh-st.com/">Lincoln Hall</a>.
 </figcaption>
 </figure>
 <br>
@@ -28,6 +28,17 @@ permalink: /people/
 </figure>  
 <br>
 
+**Mohammed Abdul Sami, Undergraduate Student**
+
+<figure>
+    <a href="../images/mohammed.jpg">
+        <img src="{{ site.baseurl }}/images/mohammed.jpg" width="150px" height="150px" align="left"/>
+    </a>
+<figcaption>
+Mohammed is a junior Biology major with a Cellular/Molecular Neuroscience minor in the Interdisciplinary Honors Program. He is a [Mulcahy Scholar](http://www.luc.edu/cas/academics_mulcahyscholarship.shtml). He is interested in a variety of disease processes in medicine and genetics, and eventually plans on pursuing a medical degree after his undergraduate studies. When not in the lab, Mohammed enjoys swimming, tennis, trying, *emphasis on trying*, to teach himself new things, and writing!
+</figcaption>
+</figure>
+<br>
 
 **Angela Andaleon, Undergraduate Student**
 <figure>
@@ -35,7 +46,7 @@ permalink: /people/
         <img src="{{ site.baseurl }}/images/angela.png" width="150px" height="150px" align="left"/>
     </a>
 <figcaption>
-	Angela is a sophomore Molecular Biology major with a minor in Biostatistics, with current plans to move into industrial biological research, possibly pursuing graduate school. She joined the Wheeler lab fall of 2016 after attending the computer science section of the First Year Research Experience that summer. Outside of lab, she enjoys seeing musicals, including winning the Book of Mormon lottery this summer, and attending concerts, once driving four hours to Warped Tour to crowd surf at Neck Deep.
+	Angela is a junior Molecular Biology major with a minor in Biostatistics, with current plans to move into industrial biological research, possibly pursuing graduate school. She is a [Carbon Fellow](http://www.luc.edu/sustainability/research/studentfellowships/carbon_fellowships/index.shtml) and was recently accepted into the [BS Biology/MS Bioinformatics](http://luc.edu/bioinformatics/accelerateddegrees/) accelerated degree program. She joined the Wheeler lab fall of 2016 after attending the computer science section of the First Year Research Experience that summer. Outside of lab, she enjoys seeing musicals, including winning the Book of Mormon lottery this summer, and attending concerts, once driving four hours to Warped Tour to crowd surf at Neck Deep.
 </figcaption>
 </figure>  
 <br>
@@ -52,7 +63,42 @@ permalink: /people/
 </figure>
 <br>
 
+**Jack Morris, Undergraduate Student**
 
+<figure>
+    <a href="../images/jack.jpg">
+        <img src="{{ site.baseurl }}/images/jack.jpg" width="150px" height="150px" align="left"/>
+    </a>
+<figcaption>
+        Jack is a junior Bioinformatics major from St. Louis, Missouri. He hopes to pursue a career in biological industry, or to move onto graduate school for a degree in Genetic Counseling. Jack's passion for genetics started at a young age, and as the field grows more rapidly, he becomes more fascinated by it. In his free time, he enjoys a wide range of sports, finding new Chicago restaurants to try out, and taking time to immerse himself in a good book.
+</figcaption>
+</figure>
+<br>
 
+**Sally Ploch, Research Volunteer**
+
+<figure>
+    <a href="../images/sally.jpg">
+        <img src="{{ site.baseurl }}/images/sally.jpg" width="150px" height="150px" align="left"/>
+    </a>
+<figcaption>
+        Sally holds a B.S. in Biology from Loyola University Chicago. She joined the Wheeler lab in spring of 2016. Her research interests include pharmacogenomics and complex trait prediction. Sally plans on becoming a doctor of veterinary medicine and is currently in the process of applying to veterinary school. Outside of lab, Sally enjoys working as a vet tech, volunteering at a local animal shelter, and spending time with family and friends.
+</figcaption>
+</figure>
+<br>
+
+**Jennifer Takamura, Undergraduate Student**
+
+<figure>
+    <a href="../images/jennifer.jpg">
+        <img src="{{ site.baseurl }}/images/jennifer.jpg" width="150px" height="150px" align="left"/>
+    </a>
+<figcaption>
+Jennifer Takamura is a junior who is majoring in biology with a minor in psychology with plans to pursue graduate school. She is fluent in Vietnamese and French, but ironically, does not know any Japanese. When she is not studying for classes or doing reseach she enjoys baking, knitting, and playing piano. She also loves exploring Chicago whenever she can.
+</figcaption>
+</figure>
+<br>
+<br>
+<br>
 
 **<a href="{{ site.baseurl }}/alumni">Lab Alumni</a>**
