@@ -8,6 +8,8 @@ permalink: /publications/
 
 ### 2017
 
+Dolan ME, El Charif O, **Wheeler HE**, Gamazon ER, Ardeshir-Rouhani-Fard S, Monahan P, Feldman DR, Hamilton R, Vaughn DJ, Beard C, Fung C, Fossa SD, Hertz DL, Mushiroda T, Kubo M, Einhorn LH, Cox N, Travis L. (2017) Clinical and genome-wide analysis of cisplatin-induced peripheral neuropathy in survivors of adult-onset cancer. *Clinical Cancer Research* doi: 10.1158/1078-0432.CCR-16-3224. [PMID28611204](https://www.ncbi.nlm.nih.gov/pubmed/28611204)
+
 Eadon MT, Hause RJ, Stark AL, Cheng YH, **Wheeler HE**, Burgess KS, Benson EA, Cunningham PN, Bacallao RL, Dagher PC, Skaar TC, Dolan ME. (2017) Genetic variants contributing to colistin cytotoxicity: identification of *TGIF1* and *HOXD10* using a population genomics approach. *International Journal Molecular Sciences* 18(3). [PMC5372673](https://www.ncbi.nlm.nih.gov/pubmed/28335481)
 
 
