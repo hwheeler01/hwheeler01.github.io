@@ -51,14 +51,14 @@ Angela is a junior Biology major with current plans to move into industrial biol
 </figure>  
 <br>
 
-**Alexa Badalamenti, Undergraduate Student**
+**Peter Fiorica, Undergraduate Student**
 
 <figure>
-    <a href="../images/alexa.jpg">
-        <img src="{{ site.baseurl }}/images/alexa.jpg" width="150px" height="150px" align="left"/>
+    <a href="../images/FioricaHewlabPortrait.jpg">
+        <img src="{{ site.baseurl }}/images/FioricaHewlabPortrait.jpg" width="150px" height="150px" align="left"/>
     </a>
 <figcaption>
-        Alexa graduated in 2017 with a B.S. in Bioinformatics and plans to pursue a graduate degree in Genetic Counseling. Having a deep personal love for the arts, she grew up in the theater, and has even performed at Loyola. Viewing science as an additional creative outlet, her two very different passions have aligned. She hopes to remain at the forefront of genetic medicine, and eventually work with families. When not geeking-out about science, or singing loudly and probably annoying her neighbors, she enjoys exploring the city with her sister. <a href="https://www.taskstream.com/ts/badalamenti1/AlexaBadalamenti">ePortfolio</a>
+Peter is a sophomore Biochemistry and Biology major in the Interdisciplinary Honors Program.  After college, he plans to continue his academic career in graduate school. His love of genetics and molecular biology stems from dinner table conversations with his parents about medicine and the background behind diseases.  As he has grown older, he has developed a passion for human genetics because of the seemingly endless mysteries that the human genome holds.  In his free time, he can be found cheering for his local Buffalo sports teams, eating chicken wings, or drinking from his Linus Pauling coffee mug.
 </figcaption>
 </figure>
 <br>
@@ -75,7 +75,7 @@ Angela is a junior Biology major with current plans to move into industrial biol
 </figure>
 <br>
 
-**Sally Ploch, Research Volunteer**
+**Sally Ploch, Research Assistant**
 
 <figure>
     <a href="../images/sally.jpg">
