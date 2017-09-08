@@ -58,7 +58,7 @@ Angela is a junior Biology major with current plans to move into industrial biol
         <img src="{{ site.baseurl }}/images/FioricaHewlabPortrait.jpg" width="150px" height="150px" align="left"/>
     </a>
 <figcaption>
-Peter is a sophomore Biochemistry and Biology major in the Interdisciplinary Honors Program.  After college, he plans to continue his academic career in graduate school. His love of genetics and molecular biology stems from dinner table conversations with his parents about medicine and the background behind diseases.  As he has grown older, he has developed a passion for human genetics because of the seemingly endless mysteries that the human genome holds.  In his free time, he can be found cheering for his local Buffalo sports teams, eating chicken wings, or drinking from his Linus Pauling coffee mug.
+Peter is a sophomore Biochemistry and Biology major in the Interdisciplinary Honors Program.  He is also a <a href="http://www.luc.edu/cas/academics_mulcahyscholarship.shtml">Mulcahy Scholar</a>.After college, he plans to continue his academic career in graduate school. His love of genetics and molecular biology stems from dinner table conversations with his parents about medicine and the background behind diseases.  As he has grown older, he has developed a passion for human genetics because of the seemingly endless mysteries that the human genome holds.  In his free time, he can be found cheering for his local Buffalo sports teams, eating chicken wings, or drinking from his Linus Pauling coffee mug.
 </figcaption>
 </figure>
 <br>
