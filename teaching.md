@@ -12,7 +12,7 @@ Students will engage in the applications of computer-based tools and database se
 
 **Outcome:** Students will be able to apply their understanding of genetic and evolutionary processes to the appropriate use of computer software and manipulation of large databases to accurately predict structural, informational, functional, and evolutionary characteristics of DNA and protein sequences.
 
-## [COMP 150. Introduction to Computing] (https://hwheeler01.github.io/comp150/)
+## [COMP 150. Introduction to Computing](https://hwheeler01.github.io/comp150/)
 
 **Semesters Taught:** Spring 2016, 2017, 2018
 
