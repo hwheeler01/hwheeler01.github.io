@@ -6,6 +6,14 @@ permalink: /publications/
 
 <a href="{{ site.baseurl }}/abstracts">Conference Abstracts</a> &emsp; &emsp; &emsp;<a href="https://scholar.google.com/citations?user=UwY8GxwAAAAJ&hl=en">Google Scholar</a> &emsp; &emsp; &emsp; <a href="http://www.ncbi.nlm.nih.gov/pubmed/?term=Wheeler+HE%5BAuthor%5D">PubMed</a> &emsp; &emsp; &emsp; <a href="http://orcid.org/0000-0003-1365-9667">ORCID</a> &emsp; &emsp; &emsp;
 
+**Wheeler Lab Member** &emsp; &emsp; &emsp;**\*Loyola Student**
+
+### 2018
+
+**Mogil LS**, **\*Andaleon A**, **\*Badalamenti A**, Dickinson SP, Guo X, Rotter JI, Johnson WC, Im HK, Liu Y, **Wheeler HE**. (2018) Genetic architecture of gene expression traits across diverse populations. *BioRxiv* [Preprint](https://www.biorxiv.org/content/early/2018/01/10/245761)
+
+Barbeira AN, Dickinson JM, Torres JM, Bonazzola R, Zheng J, Torstenson ES, **Wheeler HE**, Shah KP, Edwards T, Garcia T, GTEx Consortium, Nicolae D, Cox NJ, Im HK. (2018) Exploring the phenotypic consequences of tissue specific gene expression variation inferred from GWAS summary statistics. *Nature Communications*, in press. *BioRxiv* [Preprint](https://www.biorxiv.org/content/early/2017/10/03/045260)
+
 ### 2017
 
 **Wheeler HE**, Gamazon ER, Frisina R, **\*Perez-Cervantes C**, El Charif O, Mapes B, Fossa SD, Feldman D, Hamilton R, Vaughn DJ, Beard C, Fung C, Kollmannsberger C, Kim J, Mushiroda T, Kubo M, Ardeshir-Rouhani-Fard S, Einhorn LH, Cox N, Dolan ME, Travis L. (2017) Variants in *WFS1* and other Mendelian deafness genes are associated with cisplatin-associated ototoxicity. *Clinical Cancer Research* 23(13):3325-33. [PMID28039263](https://www.ncbi.nlm.nih.gov/pubmed/28039263) &emsp; [pdf](http://hwheeler01.github.io/papers/nihms-839776.pdf) &emsp;[Highlights Feature](http://clincancerres.aacrjournals.org/content/23/13/3227.full-text.pdf)
@@ -25,7 +33,6 @@ Frisina RD<sup>‡</sup>, **Wheeler HE**<sup>‡</sup>, Fossa SD, Kerns SL, Fung
 
 Hertz DL, Owzar K, Lessans S, Wing C, Jiang C, Kelly WK, Patel JN, Halabi S, Furukawa Y, **Wheeler HE**, Sibley A, Lassiter C, Weisman LS, Watson D, Krens SD, Mulkey F, Renn CL, Small EJ, Febbo PG, Shterev I, Kroetz D, Friedman PN, Mahoney JF, Carducci MA, Kelley MJ, Nakamura Y, Kubo M, Dorsey SG, Dolan ME, Morris MJ, Ratain MJ, McLeod HL. (2016) Pharmacogenetic discovery in CALGB (Alliance) 90401 and mechanistic validation of a *VAC14* polymorphism that increases risk of docetaxel-induced neuropathy. *Clinical Cancer Research* 22(19):4890-4900. <a href="https://www.ncbi.nlm.nih.gov/pubmed/?term=PMC5050068">PMC5050068</a>
 
-Barbeira A, Shah KP, Torres JM, **Wheeler HE**, Torstenson ES, Edwards T, Garcia T, Bell GI, Nicolae D, Cox NJ, Im HK. (2016) MetaXcan: Summary statistics based gene-level association method infers accurate PrediXcan results. *BioRxiv* <a href="http://biorxiv.org/content/early/2016/03/23/045260">Preprint</a>
 
 ### 2015
 
@@ -63,7 +70,7 @@ Gamazon ER, Lamba JK, Pounds S, Stark AL, <b>Wheeler HE</b>, Cao X, Im HK, Mitra
 <b>Wheeler HE</b>, Gamazon ER, Stark AL, O’Donnell PH, Gorsic LK, Huang RS, Cox NJ, Dolan ME (2013) Genome-wide meta-analysis identifies variants associated with platinating agent susceptibility across populations. <i>The Pharmacogenomics Journal</i> 13(1):35-43. <a href="http://www.ncbi.nlm.nih.gov/pubmed/?term=PMC3370147">PMC3370147</a>
 
 
-**Wheeler Lab Member** &emsp; &emsp; &emsp;**\*Loyola Student**
+
 
 <a href="{{ site.baseurl }}/oldpubs">Older Publications</a>
 
