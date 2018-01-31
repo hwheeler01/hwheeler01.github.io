@@ -9,6 +9,7 @@ permalink: /publications/
 **Wheeler Lab Member** &emsp; &emsp; &emsp;**\*Loyola Student**
 
 ### 2018
+**\*Andaleon A**, **Mogil LS**, **Wheeler HE**. (2018) Gene-based association study for lipid traits in diverse cohorts implicates *BACE1* and *SIDT2* regulation in triglyceride levels. *PeerJ* 6:e4314. <https://doi.org/10.7717/peerj.4314>
 
 **Mogil LS**, **\*Andaleon A**, **\*Badalamenti A**, Dickinson SP, Guo X, Rotter JI, Johnson WC, Im HK, Liu Y, **Wheeler HE**. (2018) Genetic architecture of gene expression traits across diverse populations. *BioRxiv* [Preprint](https://www.biorxiv.org/content/early/2018/01/10/245761)
 
