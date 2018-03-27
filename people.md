@@ -79,7 +79,7 @@ Peter is a sophomore Biochemistry and Biology major in the Interdisciplinary Hon
 
 <figure>
     <a href="../images/ashley.png">
-        <img src="{{ site.baseurl }}/images/jack.jpg" width="150px" height="150px" align="left"/>
+        <img src="{{ site.baseurl }}/images/ashley.png" width="150px" height="150px" align="left"/>
     </a>
 <figcaption>
 Ashley is a sophomore Bioinformatics major in the Interdisciplinary Honors Program. She is planning on applying for the BS/MS Bioinformatics accelerated degree program during her junior year. She is interested in working in industry after graduation, most likely for a biotech company. Outside of working in the lab, Ashley enjoys spending time with friends and family, listening to alternative music, and exploring Chicago.
