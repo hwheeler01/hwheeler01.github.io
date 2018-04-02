@@ -113,4 +113,18 @@ Jennifer Takamura is a junior who is majoring in biology with a minor in psychol
 <br>
 <br>
 
+**Rachel Weiss, Undergraduate Student**
+
+<figure>
+    <a href="../images/rachel.jpg">
+        <img src="{{ site.baseurl }}/images/rachel.jpg" width="150px" height="150px" align="left"/>
+    </a>
+<figcaption>
+Rachel is a sophomore majoring in Biology with a molecular emphasis and a minor in Bioethics. After college, she plans on attending graduate school and continuing with research. Rachel has been interested in genetics since completing a project that showed the how differences in genotypes will impact the effects of a given medication.  In her free time, Rachel can be found curled up with a book or exploring downtown Chicago.
+</figcaption>
+</figure>
+<br>
+<br>
+<br>
+
 **<a href="{{ site.baseurl }}/alumni">Lab Alumni</a>**
