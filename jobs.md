@@ -4,14 +4,17 @@ title: Current Openings
 permalink: /jobs/
 ---
 
-## Postdoctoral Research Associate in Computational Genomics 
+## Postdoctoral Research Associate in Population Genetics and Statistical Genomics
 
-**Duties and Responsibilities.** Loyola University Chicago, College of Arts and Sciences, Department of Biology invites applications for a full-time postdoctoral associate, with expertise in the areas of Computational Biology and complex trait genetics. The position is for one year with the possibility of renewal, for additional years, based on performance. 
+### Background
+The Department of Biology at Loyola University Chicago invites applications for a full-time postdoctoral associate, with expertise in the areas of population genetics, statistical genomics, and computational biology. The position is for one year with the possibility of renewal for additional years based on performance.
+This position will support NIH-funded research on the development of statistical models that integrate similarity in genetic, transcriptomic, or other omics-level data for human complex trait prediction within and between populations in the laboratory of Dr. Heather Wheeler. The [Wheeler Lab](http://hewlab.org/) includes an active program in graduate and undergraduate instruction; as such, this position will include numerous occasions to engage in student mentoring and if interested, teaching.
 
-This position will support research on the development of computational models and pipelines that leverage and integrate similarity in genetic, transcriptomic, or other omics-level data for complex trait prediction in the laboratory of Dr. Heather Wheeler. The postdoc will work with Dr. Wheeler and her collaborators to investigate how genetic variation leads to phenotypic variation for complex traits including disease susceptibility and drug response. This position is jointly funded by the Department of Biology, and the postdoc will teach 1-2 departmental courses each semester. This is an ideal position for candidates who are interested in gaining teaching experience while conducting cutting-edge research. For more information about the department visit <a href="http://luc.edu/biology/">luc.edu/biology</a> and <a href="http://luc.edu/bioinformatics/">luc.edu/bioinformatics</a>. 
+### Duties and Responsibilities 
+The postdoc will work with Dr. Wheeler to investigate the degree of transferability of genome-wide and transcriptome-wide association results across populations, which has the potential to improve the implementation of precision medicine among diverse populations. The successful candidate will be involved in omics data analysis, statistical modeling, software development, writing manuscripts, giving presentations, and mentoring students. 
 
-The successful candidate will be involved in data analysis, statistical modeling, software development, writing manuscripts, giving presentations, and mentoring students under the supervision of Dr. Wheeler. In addition to computational work, the postdoc will teach courses in the Department of Biology.  
+### Minimum Qualifications 
+Applicants must have a Ph.D. in genetics, genomics, bioinformatics, computational biology, biostatistics, or a related field with a solid publication record. The ideal candidate will have strong analytical, statistical, quantitative, and computational (e.g. R, Python, Linux) skills and should be comfortable with large data sets (e.g. GWAS, RNA-Seq), distributed computing, and databases. High performance computing and cloud computing experience is a plus.
 
-**Minimum Education or Experience.** Applicants must have a Ph.D. in genomics, bioinformatics, computational biology, biostatistics, or a related field with a solid publication record. The ideal candidate will have strong analytical, statistical, quantitative, and computational/programming (e.g. R, Python, Linux) skills and should be comfortable with large data sets, distributed computing, and databases. High performance computing and cloud computing experience is a plus.  
-
-Applicants should submit a Cover Letter describing their research interests and availability, current Curriculum Vitae, and contact information for two references to <a href="https://www.careers.luc.edu/applicants/Central?quickFind=58820">careers.luc.edu</a>. The position is available immediately and will remain open until filled.
+### Instructions to Applicants
+Applicants should submit a Cover Letter describing their research interests and availability, current Curriculum Vitae, and contact information for two references to [hwheeler1@luc.edu](mailto:hwheeler1@luc.edu). The position is available immediately and will remain open until filled.
