@@ -5,7 +5,7 @@ permalink: /abstracts/
 ---
 
 <figure>
-    <center><img src="{{ site.baseurl }}/images/caurs2018.jpg" width="333px" height="250px"/></center>
+    <center><img src="{{ site.baseurl }}/images/caurs2018.jpg" width="400px" height="300px"/></center>
 <figcaption>
         <i>Presenting at <a href="https://www.caurs.com/">CAURS</a> 2018 at DePaul. Peter Fiorica, Angela Andaleon, Jennifer Takamura, Mohammed Abdul Sami</i>
 </figcaption>
