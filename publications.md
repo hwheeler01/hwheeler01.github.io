@@ -9,19 +9,22 @@ permalink: /publications/
 **Wheeler Lab Member** &emsp; &emsp; &emsp;**\*Loyola Student**
 
 ### 2018
-**\*Andaleon A**, **Mogil LS**, **Wheeler HE**. (2018) Gene-based association study for lipid traits in diverse cohorts implicates *BACE1* and *SIDT2* regulation in triglyceride levels. *PeerJ* 6:e4314. <https://doi.org/10.7717/peerj.4314>
+Barbeira AN, Dickinson SP, Bonazzola R, Zheng J, **Wheeler HE**, Torres JM, Torstenson ES, Shah KP, Garcia T, Edwards TL, Stahl EA, Huckins LM, GTEx Consortium, Nicolae DL, Cox NJ, Im HK. (2018) Exploring the phenotypic consequences of tissue specific gene expression variation inferred from GWAS summary statistics. *Nature Communications* 9(1):1825. [PMID29739930](https://www.ncbi.nlm.nih.gov/pubmed/?term=29739930) [DOI](https://doi.org/10.1038/s41467-018-03621-1)
+
+**\*Andaleon A**, **Mogil LS**, **Wheeler HE**. (2018) Gene-based association study for lipid traits in diverse cohorts implicates *BACE1* and *SIDT2* regulation in triglyceride levels. *PeerJ* 6:e4314. [PMID29404214](https://www.ncbi.nlm.nih.gov/pubmed/?term=29404214) [DOI](https://doi.org/10.7717/peerj.4314)
 
 **Mogil LS**, **\*Andaleon A**, **\*Badalamenti A**, Dickinson SP, Guo X, Rotter JI, Johnson WC, Im HK, Liu Y, **Wheeler HE**. (2018) Genetic architecture of gene expression traits across diverse populations. *BioRxiv* [Preprint](https://www.biorxiv.org/content/early/2018/01/10/245761)
 
-Barbeira AN, Dickinson JM, Torres JM, Bonazzola R, Zheng J, Torstenson ES, **Wheeler HE**, Shah KP, Edwards T, Garcia T, GTEx Consortium, Nicolae D, Cox NJ, Im HK. (2018) Exploring the phenotypic consequences of tissue specific gene expression variation inferred from GWAS summary statistics. *Nature Communications*, in press. *BioRxiv* [Preprint](https://www.biorxiv.org/content/early/2017/10/03/045260)
+
 
 ### 2017
+Dolan ME, El Charif O, **Wheeler HE**, Gamazon ER, Ardeshir-Rouhani-Fard S, Monahan P, Feldman DR, Hamilton R, Vaughn DJ, Beard C, Fung C, Fossa SD, Hertz DL, Mushiroda T, Kubo M, Einhorn LH, Cox N, Travis L. (2017) Clinical and genome-wide analysis of cisplatin-induced peripheral neuropathy in survivors of adult-onset cancer. *Clinical Cancer Research* 23(19):5757-5768. [PMID28611204](https://www.ncbi.nlm.nih.gov/pubmed/28611204)
 
 **Wheeler HE**, Gamazon ER, Frisina R, **\*Perez-Cervantes C**, El Charif O, Mapes B, Fossa SD, Feldman D, Hamilton R, Vaughn DJ, Beard C, Fung C, Kollmannsberger C, Kim J, Mushiroda T, Kubo M, Ardeshir-Rouhani-Fard S, Einhorn LH, Cox N, Dolan ME, Travis L. (2017) Variants in *WFS1* and other Mendelian deafness genes are associated with cisplatin-associated ototoxicity. *Clinical Cancer Research* 23(13):3325-33. [PMID28039263](https://www.ncbi.nlm.nih.gov/pubmed/28039263) &emsp; [pdf](http://hwheeler01.github.io/papers/nihms-839776.pdf) &emsp;[Highlights Feature](http://clincancerres.aacrjournals.org/content/23/13/3227.full-text.pdf)
 
 Wing C, Komatsu M, Delaney SM, Krause M, **Wheeler HE**, Dolan ME. (2017) Application of stem cell derived neuronal cells to evaluate neurotoxic chemotherapy. *Stem Cell Research* 22:79-88. [PMID28645005](https://www.ncbi.nlm.nih.gov/pubmed/28645005)
 
-Dolan ME, El Charif O, **Wheeler HE**, Gamazon ER, Ardeshir-Rouhani-Fard S, Monahan P, Feldman DR, Hamilton R, Vaughn DJ, Beard C, Fung C, Fossa SD, Hertz DL, Mushiroda T, Kubo M, Einhorn LH, Cox N, Travis L. (2017) Clinical and genome-wide analysis of cisplatin-induced peripheral neuropathy in survivors of adult-onset cancer. *Clinical Cancer Research* doi: 10.1158/1078-0432.CCR-16-3224. [PMID28611204](https://www.ncbi.nlm.nih.gov/pubmed/28611204)
+
 
 Eadon MT, Hause RJ, Stark AL, Cheng YH, **Wheeler HE**, Burgess KS, Benson EA, Cunningham PN, Bacallao RL, Dagher PC, Skaar TC, Dolan ME. (2017) Genetic variants contributing to colistin cytotoxicity: identification of *TGIF1* and *HOXD10* using a population genomics approach. *International Journal Molecular Sciences* 18(3). [PMC5372673](https://www.ncbi.nlm.nih.gov/pubmed/28335481)
 
