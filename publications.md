@@ -9,6 +9,9 @@ permalink: /publications/
 **Wheeler Lab Member** &emsp; &emsp; &emsp;**\*Loyola Student**
 
 ### 2018
+
+Li R, Kim D, **Wheeler HE**, Dudek SM, Dolan ME, Ritchie MD. (2018) Integration of genetic and functional genomics data to uncover chemotherapeutic induced cytotoxicity. *The Pharmacogenomics Journal* [DOI](https://www.nature.com/articles/s41397-018-0024-6)
+
 Barbeira AN, Dickinson SP, Bonazzola R, Zheng J, **Wheeler HE**, Torres JM, Torstenson ES, Shah KP, Garcia T, Edwards TL, Stahl EA, Huckins LM, GTEx Consortium, Nicolae DL, Cox NJ, Im HK. (2018) Exploring the phenotypic consequences of tissue specific gene expression variation inferred from GWAS summary statistics. *Nature Communications* 9(1):1825. [PMID29739930](https://www.ncbi.nlm.nih.gov/pubmed/?term=29739930) [DOI](https://doi.org/10.1038/s41467-018-03621-1)
 
 **\*Andaleon A**, **Mogil LS**, **Wheeler HE**. (2018) Gene-based association study for lipid traits in diverse cohorts implicates *BACE1* and *SIDT2* regulation in triglyceride levels. *PeerJ* 6:e4314. [PMID29404214](https://www.ncbi.nlm.nih.gov/pubmed/?term=29404214) [DOI](https://doi.org/10.7717/peerj.4314)

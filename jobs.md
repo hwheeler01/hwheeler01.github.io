@@ -17,4 +17,4 @@ The postdoc will work with Dr. Wheeler to investigate the degree of transferabil
 Applicants must have a Ph.D. in genetics, genomics, bioinformatics, computational biology, biostatistics, or a related field with a solid publication record. The ideal candidate will have strong analytical, statistical, quantitative, and computational (e.g. R, Python, Linux) skills and should be comfortable with large data sets (e.g. GWAS, RNA-Seq), distributed computing, and databases. High performance computing and cloud computing experience is a plus.
 
 #### Instructions to Applicants
-Applicants should submit a Cover Letter describing their research interests and availability, current Curriculum Vitae, and contact information for two references to [hwheeler1@luc.edu](mailto:hwheeler1@luc.edu). The position is available immediately and will remain open until filled.
+Applicants should submit a Cover Letter describing their research interests and availability, current Curriculum Vitae, and contact information for two references to [hwheeler1@luc.edu](mailto:hwheeler1@luc.edu). 
