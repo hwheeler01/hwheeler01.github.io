@@ -5,7 +5,6 @@ permalink: /jobs/
 ---
 
 ### Postdoctoral Research Associate
-- posted 2018-04-11
 
 #### Background
 The Department of Biology at Loyola University Chicago invites applications for a full-time postdoctoral associate, with expertise in the areas of population genetics, statistical genomics, and computational biology. The position is for one year with the possibility of renewal for additional years based on performance.
