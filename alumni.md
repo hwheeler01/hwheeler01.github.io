@@ -4,11 +4,17 @@ title: Lab Alumni
 permalink: /alumni/
 ---
 
+**Sally Ploch** BS '17, Biology
+
+- Veterinary Student at University of Wisconsin, Madison
+
 **Alexa Badalamenti** BS '17, Bioinformatics
 
 - Biology Summer Research Fellow, Mulcahy Scholar
 
 **Jon Brenner** MS '17, Computer Science
+
+- Computational Biologist at Tempus
 
 **Danny Baghdan** BS '17, Bioinformatics
 

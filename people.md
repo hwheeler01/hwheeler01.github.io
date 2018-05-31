@@ -28,6 +28,29 @@ permalink: /people/
 </figure>  
 <br>
 
+**Ryan Schubert, Research Assistant**
+
+<figure>
+    <a href="../images/ryan.jpg">
+        <img src="{{ site.baseurl }}/images/ryan.jpg" width="150px" height="150px" align="left"/>
+    </a>
+<figcaption>
+        Ryan is a recent graduate of the Loyola class of 2018, with a BS in Biology & Bioinformatics. Ryan fell in love with coding his junior and senior year writing scripts and assembling pipelines under Dr. Wheeler’s guidance. Going forward Ryan plans to earn a graduate degree and has aspirations to work in the biotech industry. Outside of research, Ryan enjoys reading, painting, board games, and his friends.
+</figcaption>
+</figure>
+<br>
+
+**Angela Andaleon, Graduate Student**
+<figure>
+    <a href="../images/angela.png">
+        <img src="{{ site.baseurl }}/images/angela.png" width="150px" height="150px" align="left"/>
+    </a>
+<figcaption>
+Angela graduated with a BS in 2018 and is now a Thesis-Track Master's student in the accelerated <a href="http://luc.edu/bioinformatics/accelerateddegrees/">BS Biology/MS Bioinformatics</a> program.  Her interests include genetic diversity within and between human populations. She is also a <a href="http://www.luc.edu/sustainability/research/studentfellowships/carbon_fellowships/index.shtml">Carbon Fellow</a> with current plans to move into industrial biological research after completion of her degrees. She joined the Wheeler lab fall of 2016 after attending the computer science section of the First Year Research Experience that summer. Outside of lab, she enjoys seeing musicals, including winning the Book of Mormon lottery last summer, and attending concerts, once driving four hours to Warped Tour to crowd surf at Neck Deep.
+</figcaption>
+</figure>  
+<br>
+
 **Mohammed Abdul Sami, Undergraduate Student**
 
 <figure>
@@ -35,21 +58,12 @@ permalink: /people/
         <img src="{{ site.baseurl }}/images/mohammed.jpg" width="150px" height="150px" align="left"/>
     </a>
 <figcaption>
-Mohammed is a junior Biology major with a Cellular/Molecular Neuroscience minor in the Interdisciplinary Honors Program. He is a <a href="http://www.luc.edu/cas/academics_mulcahyscholarship.shtml">Mulcahy Scholar</a>. He is interested in a variety of disease processes in medicine and genetics, and eventually plans on pursuing a medical degree after his undergraduate studies. When not in the lab, Mohammed enjoys swimming, tennis, trying, *emphasis on trying*, to teach himself new things, and writing!
+Mohammed is a senior Biology major with a Cellular/Molecular Neuroscience minor in the Interdisciplinary Honors Program. He is a <a href="http://www.luc.edu/cas/academics_mulcahyscholarship.shtml">Mulcahy Scholar</a>. He is interested in a variety of disease processes in medicine and genetics, and eventually plans on pursuing a medical degree after his undergraduate studies. When not in the lab, Mohammed enjoys swimming, tennis, trying, *emphasis on trying*, to teach himself new things, and writing!
 </figcaption>
 </figure>
 <br>
 
-**Angela Andaleon, Undergraduate Student**
-<figure>
-    <a href="../images/angela.png">
-        <img src="{{ site.baseurl }}/images/angela.png" width="150px" height="150px" align="left"/>
-    </a>
-<figcaption>
-Angela is a junior Biology major with current plans to move into industrial biological research after completion of her degrees. Her interests include genetic diversity within and between human populations. She is a <a href="http://www.luc.edu/sustainability/research/studentfellowships/carbon_fellowships/index.shtml">Carbon Fellow</a> and was recently accepted into the <a href="http://luc.edu/bioinformatics/accelerateddegrees/">BS Biology/MS Bioinformatics</a> accelerated degree program. She joined the Wheeler lab fall of 2016 after attending the computer science section of the First Year Research Experience that summer. Outside of lab, she enjoys seeing musicals, including winning the Book of Mormon lottery last summer, and attending concerts, once driving four hours to Warped Tour to crowd surf at Neck Deep.
-</figcaption>
-</figure>  
-<br>
+
 
 **Peter Fiorica, Undergraduate Student**
 
@@ -58,7 +72,7 @@ Angela is a junior Biology major with current plans to move into industrial biol
         <img src="{{ site.baseurl }}/images/FioricaHewlabPortrait.jpg" width="150px" height="150px" align="left"/>
     </a>
 <figcaption>
-Peter is a sophomore Biochemistry and Biology major in the Interdisciplinary Honors Program.  He is also a <a href="http://www.luc.edu/cas/academics_mulcahyscholarship.shtml">Mulcahy Scholar</a>.After college, he plans to continue his academic career in graduate school. His love of genetics and molecular biology stems from dinner table conversations with his parents about medicine and the background behind diseases.  As he has grown older, he has developed a passion for human genetics because of the seemingly endless mysteries that the human genome holds.  In his free time, he can be found cheering for his local Buffalo sports teams, eating chicken wings, or drinking from his Linus Pauling coffee mug.
+Peter is a junior Biochemistry and Biology major in the Interdisciplinary Honors Program.  He is also a <a href="http://www.luc.edu/sustainability/research/studentfellowships/carbon_fellowships/index.shtml">Carbon Fellow</a> and <a href="http://www.luc.edu/cas/academics_mulcahyscholarship.shtml">Mulcahy Scholar</a>. After college, he plans to continue his academic career in graduate school. His love of genetics and molecular biology stems from dinner table conversations with his parents about medicine and the background behind diseases.  As he has grown older, he has developed a passion for human genetics because of the seemingly endless mysteries that the human genome holds.  In his free time, he can be found cheering for his local Buffalo sports teams, eating chicken wings, or drinking from his Linus Pauling coffee mug.
 </figcaption>
 </figure>
 <br>
@@ -70,7 +84,7 @@ Peter is a sophomore Biochemistry and Biology major in the Interdisciplinary Hon
         <img src="{{ site.baseurl }}/images/jack.jpg" width="150px" height="150px" align="left"/>
     </a>
 <figcaption>
-        Jack is a junior Bioinformatics major from St. Louis, Missouri. He hopes to pursue a career in biological industry, or to move onto graduate school for a degree in Genetic Counseling. Jack's passion for genetics started at a young age, and as the field grows more rapidly, he becomes more fascinated by it. In his free time, he enjoys a wide range of sports, finding new Chicago restaurants to try out, and taking time to immerse himself in a good book.
+        Jack is a senior Bioinformatics major from St. Louis, Missouri. He hopes to pursue a career in biological industry, or to move onto graduate school for a degree in Genetic Counseling. Jack's passion for genetics started at a young age, and as the field grows more rapidly, he becomes more fascinated by it.  He is a <a href="https://www.luc.edu/lurop/provostfellowship/">Provost Fellow</a> and <a href="http://www.luc.edu/cas/academics_mulcahyscholarship.shtml">Mulcahy Scholar</a>. In his free time, he enjoys a wide range of sports, finding new Chicago restaurants to try out, and taking time to immerse himself in a good book.
 </figcaption>
 </figure>
 <br>
@@ -87,17 +101,7 @@ Ashley is a sophomore Bioinformatics major in the Interdisciplinary Honors Progr
 </figure>
 <br>
 
-**Sally Ploch, Research Assistant**
 
-<figure>
-    <a href="../images/sally.jpg">
-        <img src="{{ site.baseurl }}/images/sally.jpg" width="150px" height="150px" align="left"/>
-    </a>
-<figcaption>
-        Sally holds a B.S. in Biology from Loyola University Chicago. She joined the Wheeler lab in spring of 2017. Her research interests include pharmacogenomics and complex trait prediction. Sally plans on becoming a doctor of veterinary medicine and is currently in the process of applying to veterinary school. Outside of lab, Sally enjoys working as a vet tech, volunteering at a local animal shelter, and spending time with family and friends.
-</figcaption>
-</figure>
-<br>
 
 **Jennifer Takamura, Undergraduate Student**
 
@@ -106,7 +110,7 @@ Ashley is a sophomore Bioinformatics major in the Interdisciplinary Honors Progr
         <img src="{{ site.baseurl }}/images/jennifer.jpg" width="150px" height="150px" align="left"/>
     </a>
 <figcaption>
-Jennifer Takamura is a junior who is majoring in biology with a minor in psychology with plans to pursue graduate school. She is fluent in Vietnamese and French, but ironically, does not know any Japanese. When she is not studying for classes or doing reseach she enjoys baking, knitting, and playing piano. She also loves exploring Chicago whenever she can.
+Jennifer Takamura is a senior who is majoring in biology with a minor in psychology with plans to pursue graduate school.  She is a <a href="https://www.luc.edu/lurop/fellowships.shtml">Biology Summer Research Fellow</a> and <a href="http://www.luc.edu/cas/academics_mulcahyscholarship.shtml">Mulcahy Scholar</a>. She is fluent in Vietnamese and French, but ironically, does not know any Japanese. When she is not studying for classes or doing reseach she enjoys baking, knitting, and playing piano. She also loves exploring Chicago whenever she can.
 </figcaption>
 </figure>
 <br>
