@@ -5,15 +5,31 @@ permalink: /abstracts/
 ---
 
 <figure>
-    <center><img src="{{ site.baseurl }}/images/caurs2018.jpg" width="400px" height="300px"/></center>
+    <center><img src="{{ site.baseurl }}/images/angelaISMB.jpg" width="400px" height="300px"/></center>
 <figcaption>
-        <i>Presenting at <a href="https://www.caurs.com/">CAURS</a> 2018 at DePaul. Peter Fiorica, Angela Andaleon, Jennifer Takamura, Mohammed Abdul Sami</i>
+        <i>Angela Andaleon presenting at <a href="https://www.iscb.org/">ISMB</a> 2018 in Chicago.</i>
 </figcaption>
 </figure>
 
 **Wheeler Lab Member** &emsp; &emsp; &emsp;**\*Loyola Student**
 
 ### 2018
+
+Intelligent Systems for Molecular Biology Conference, Chicago, IL, July 6-10, Lightning Talk and Poster: "Imputed gene associations identify replicable trans-acting genes enriched in transcription pathways" **Heather E. Wheeler**, **Sally Ploch\***, Alvaro Barbeira, Hae Kyung Im
+
+Intelligent Systems for Molecular Biology Conference, Chicago, IL, July 6-10, Poster: "Gene-based association study for lipid traits in diverse cohorts" **Angela Andaleon\***, **Lauren S. Mogil**, **Heather E. Wheeler**
+
+Closing the Genomics Research Gap: An International Symposium on Genomics and Health, Montreal, QC, June 15-17, Poster: "Genetic architecture of gene expression traits across diverse populations" **Lauren S. Mogil**,
+**Angela Andaleon\***,
+**Alexa Badalamenti\***,
+Scott P. Dickinson,
+Xiuqing Guo, 
+Jerome I. Rotter, 
+W. Craig Johnson,
+Hae Kyung Im,
+Yongmei Liu,
+**Heather E. Wheeler**
+
 Chicago Area Undergraduate Research Symposium, DePaul University, Chicago, IL, April 15, Poster: "Contrasting and Correlating Prostate Cancer Genetic Susceptibility Loci in Multiple Populations " **Mohammed Abdul Sami\***, **Jack Morris\***, **Heather E. Wheeler**
 
 Chicago Area Undergraduate Research Symposium, DePaul University, Chicago, IL, April 15, Poster: "Predicting the Genetic Regulation of Schizophrenia in African American Populations" **Peter Fiorica\***, **Heather E. Wheeler**
@@ -23,13 +39,23 @@ Chicago Area Undergraduate Research Symposium, DePaul University, Chicago, IL, A
 Chicago Area Undergraduate Research Symposium, DePaul University, Chicago, IL, April 15, Poster: "Gene-based association study for lipid traits in diverse cohorts implicates *BACE1* and *SIDT2* regulation in triglyceride levels" **Angela Andaleon\***, **Heather E. Wheeler**
 
 
+<figure>
+    <center><img src="{{ site.baseurl }}/images/caurs2018.jpg" width="400px" height="300px"/></center>
+<figcaption>
+        <i>Presenting at <a href="https://www.caurs.com/">CAURS</a> 2018 at DePaul. Peter Fiorica, Angela Andaleon, Jennifer Takamura, Mohammed Abdul Sami</i>
+</figcaption>
+</figure>
+
 ### 2017
 
-Great Lakes Bioinformatics Conference, Chicago, IL, May 15-17, Presentation: "Optimizing predictors of gene expression within and across diverse populations" **Lauren Mogil** and **Heather E. Wheeler**
+American Society of Human Genetics Annual Meeting, Orlando, FL, October 17-21, Poster: "Gene expression predictive performance varies across diverse populations" **Lauren Mogil**, **Alexa Badalamenti\***, **Heather E. Wheeler**
+
+
+Great Lakes Bioinformatics Conference, Chicago, IL, May 15-17, Presentation: "Optimizing predictors of gene expression within and across diverse populations" **Lauren Mogil**, **Heather E. Wheeler**
 
 Great Lakes Bioinformatics Conference, Chicago, IL, May 15-17, Poster: "Gene expression predictive performance varies across populations" **Alexa Badalamenti\***, **Virginia Saulnier\***, **Natalie Jachym\***, **Amani Almatrafi\***, **Jeffrey Ng\***, **Shyam Shah\***, **Heather E. Wheeler**
 
-Great Lakes Bioinformatics Conference, Chicago, IL, May 15-17, Poster: "Transcriptome-based Association Study Comparing Susceptibility to Multiple Cancer Types" **Danny Baghdan\***, **Lauren Mogil**, **Carlos Perez-Cervantes\*** and **Heather E. Wheeler**
+Great Lakes Bioinformatics Conference, Chicago, IL, May 15-17, Poster: "Transcriptome-based Association Study Comparing Susceptibility to Multiple Cancer Types" **Danny Baghdan\***, **Lauren Mogil**, **Carlos Perez-Cervantes\***, **Heather E. Wheeler**
 
 Chicago Area Undergraduate Research Symposium, Roosevelt University, Chicago, IL, April 29, Poster: “Genetic Mechanisms Underlying Cholesterol Traits in Diverse Populations” **Angela Andaleon\***, **Heather E. Wheeler**
 
