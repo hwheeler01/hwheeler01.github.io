@@ -10,13 +10,19 @@ permalink: /publications/
 
 ### 2018
 
-Li R, Kim D, **Wheeler HE**, Dudek SM, Dolan ME, Ritchie MD. (2018) Integration of genetic and functional genomics data to uncover chemotherapeutic induced cytotoxicity. *The Pharmacogenomics Journal* [DOI](https://www.nature.com/articles/s41397-018-0024-6)
+**Mogil LS**, **\*Andaleon A**, **\*Badalamenti A**, Dickinson SP, Guo X, Rotter JI, Johnson WC, Im HK, Liu Y, **Wheeler HE**. (2018) Genetic architecture of gene expression traits across diverse populations. *PLOS Genetics*, in press. *BioRxiv* [Preprint](https://www.biorxiv.org/content/early/2018/05/31/245761)
+
+Wyss AB, Sofer T, Lee MK, Terzikhan N, Nguyen JN, Lahousse L, Latourelle JC, Smith AV, Bartz TM, Feitosa MF, Gao W, Ahluwalia TS, Tang W, Oldmeadow C, Duan Q, de Jong K, Wojczynski MK, Wang XQ, Noordam R, Hartwig FP, Jackson VE, Wang T, Obeidat M, Hobbs BD, Huan T, Gui H, Parker MM, Hu D, **Mogil LS**, Kichaev G, Jin J, Graff M, Harris TB, Kalhan R, Heckbert SR, Paternoster L, Burkart KM, Liu Y, Holliday EG, Wilson JG, Vonk JM, Sanders JL, Barr RG, de Mutsert R, Menezes AMB, Adams HHH, van den Berge M, Joehanes R, Levin AM, Liberto J, Launer LJ, Morrison AC, Sitlani CM, Celedón JC, Kritchevsky SB, Scott RJ, Christensen K, Rotter JI, Bonten TN, Wehrmeister FC, Bossé Y, Xiao S, Oh S, Franceschini N, Brody JA, Kaplan RC, Lohman K, McEvoy M, Province MA, Rosendaal FR, Taylor KD, Nickle DC, Williams LK, Burchard EG, **Wheeler HE**, Sin DD, Gudnason V, North KE, Fornage M, Psaty BM, Myers RH, O'Connor G, Hansen T, Laurie CC, Cassano PA, Sung J, Kim WJ, Attia JR, Lange L, Boezen HM, Thyagarajan B, Rich SS, Mook-Kanamori DO, Horta BL, Uitterlinden AG, Im HK, Cho MH, Brusselle GG, Gharib SA, Dupuis J, Manichaikul A, London SJ. (2018) Multiethnic meta-analysis identifies ancestry-specific and cross-ancestry loci for pulmonary function. *Nature Communications* 9(1):2976. [PMID30061609](https://www.ncbi.nlm.nih.gov/pubmed/30061609?dopt=Abstract) [DOI](https://doi.org/10.1038/s41467-018-05369-0)
+
+Barbeira AN, Pividori MD, Zheng J, **Wheeler HE**, Nicolae DL, Im HK. (2018) Integrating Predicted Transcriptome From Multiple Tissues Improves Association Detection. *BioRxiv* [Preprint](https://www.biorxiv.org/content/early/2018/04/06/292649)
+
+Li R, Kim D, **Wheeler HE**, Dudek SM, Dolan ME, Ritchie MD. (2018) Integration of genetic and functional genomics data to uncover chemotherapeutic induced cytotoxicity. *The Pharmacogenomics Journal* [PMID29795408](https://www.ncbi.nlm.nih.gov/pubmed/29795408) [DOI](https://www.nature.com/articles/s41397-018-0024-6)
 
 Barbeira AN, Dickinson SP, Bonazzola R, Zheng J, **Wheeler HE**, Torres JM, Torstenson ES, Shah KP, Garcia T, Edwards TL, Stahl EA, Huckins LM, GTEx Consortium, Nicolae DL, Cox NJ, Im HK. (2018) Exploring the phenotypic consequences of tissue specific gene expression variation inferred from GWAS summary statistics. *Nature Communications* 9(1):1825. [PMID29739930](https://www.ncbi.nlm.nih.gov/pubmed/?term=29739930) [DOI](https://doi.org/10.1038/s41467-018-03621-1)
 
 **\*Andaleon A**, **Mogil LS**, **Wheeler HE**. (2018) Gene-based association study for lipid traits in diverse cohorts implicates *BACE1* and *SIDT2* regulation in triglyceride levels. *PeerJ* 6:e4314. [PMID29404214](https://www.ncbi.nlm.nih.gov/pubmed/?term=29404214) [DOI](https://doi.org/10.7717/peerj.4314)
 
-**Mogil LS**, **\*Andaleon A**, **\*Badalamenti A**, Dickinson SP, Guo X, Rotter JI, Johnson WC, Im HK, Liu Y, **Wheeler HE**. (2018) Genetic architecture of gene expression traits across diverse populations. *BioRxiv* [Preprint](https://www.biorxiv.org/content/early/2018/01/10/245761)
+
 
 
 
@@ -34,7 +40,7 @@ Eadon MT, Hause RJ, Stark AL, Cheng YH, **Wheeler HE**, Burgess KS, Benson EA, C
 
 ### 2016
 
-**Wheeler HE**, Shah KP, **\*Brenner J**, Garcia T, Aquino-Michaels K, GTEx Consortium, Cox NJ, Nicolae DL, Im HK. (2016) Survey of the heritability and sparsity of gene expression traits across human tissues. *PLoS Genetics* 12(11):e1006423. <a href="https://www.ncbi.nlm.nih.gov/pubmed/?term=PMC5106030">PMC5106030</a>
+**Wheeler HE**, Shah KP, **\*Brenner J**, Garcia T, Aquino-Michaels K, GTEx Consortium, Cox NJ, Nicolae DL, Im HK. (2016) Survey of the heritability and sparsity of gene expression traits across human tissues. *PLOS Genetics* 12(11):e1006423. <a href="https://www.ncbi.nlm.nih.gov/pubmed/?term=PMC5106030">PMC5106030</a>
 
 Frisina RD<sup>‡</sup>, **Wheeler HE**<sup>‡</sup>, Fossa SD, Kerns SL, Fung C, Sesso HD, Monahan PO, Feldman DR, Hamilton R, Vaughn DJ, Beard CJ, Budnick A, Johnson EM, Ardeshir-Rouhani-Fard S, Einhorn LH, Lipshultz SE, Dolan ME, Travis LB. (2016) Comprehensive audiometric analysis of hearing impairment and tinnitus after cisplatin-based chemotherapy in survivors of adult-onset cancer. *Journal of Clinical Oncology* 34(23):2712-20. <a href="https://www.ncbi.nlm.nih.gov/pubmed/?term=PMC5019759">PMC5019759</a> <sup>‡</sup>Contributed equally.
 
@@ -50,7 +56,7 @@ Komatsu M, <b>Wheeler HE</b>, Chung S, Low SK, Wing C, Delaney SM, Gorsic LK, Ta
 
 Diouf B, Crews KR, Lew G, Pei D, Cheng C, Bao J, Zheng JJ, Yang W, Fan Y, <b>Wheeler HE</b>, Wing C, Delaney SM, Komatsu M, Paugh SW, McCorkle JR, Lu X, Winick NJ, Carroll WL, Loh ML, Hunger SP, Devidas M, Pui CH, Dolan ME, Relling MV, Evans WE. (2015) Association of an inherited genetic variant with vincristine-related peripheral neuropathy in children with acute lymphoblastic leukemia. <i>JAMA</i> 313(8):815-823. <a href="http://www.ncbi.nlm.nih.gov/pubmed/?term=PMC4377066">PMC4377066</a>
 
-<b>Wheeler HE</b>, Wing C, Delaney SM, Komatsu M, Dolan ME. (2015) Modeling chemotherapeutic neurotoxicity with human induced pluripotent stem cell-derived neuronal cells. <i>PLoS One</i> 10(2):e0118020. <a href="http://www.ncbi.nlm.nih.gov/pubmed/?term=PMC4331516">PMC4331516</a>
+<b>Wheeler HE</b>, Wing C, Delaney SM, Komatsu M, Dolan ME. (2015) Modeling chemotherapeutic neurotoxicity with human induced pluripotent stem cell-derived neuronal cells. <i>PLOS One</i> 10(2):e0118020. <a href="http://www.ncbi.nlm.nih.gov/pubmed/?term=PMC4331516">PMC4331516</a>
 
 ### 2014
 
@@ -62,7 +68,7 @@ Thompson P, <b>Wheeler HE</b>, Delaney SM, Lorier R, Broeckel U, Devidas M, Ream
 
 ### 2013
 
-Gorsic LK, Stark AL, <b>Wheeler HE</b>, Wong SS, Im HK, Dolan ME (2013) EPS8 inhibition increases cisplatin sensitivity in lung cancer cells. <i>PLoS One</i> 8(12):e82220. <a href="http://www.ncbi.nlm.nih.gov/pubmed/?term=PMC3868552">PMC3868552</a>
+Gorsic LK, Stark AL, <b>Wheeler HE</b>, Wong SS, Im HK, Dolan ME (2013) EPS8 inhibition increases cisplatin sensitivity in lung cancer cells. <i>PLOS One</i> 8(12):e82220. <a href="http://www.ncbi.nlm.nih.gov/pubmed/?term=PMC3868552">PMC3868552</a>
 
 Parsa A, Fuchsberger C…<b>Wheeler HE</b>…Böger CA (>100 authors) (2013) Common variants in Mendelian kidney disease genes and their association with renal function. <i>Journal of the American Society of Nephrology</i> 24(12):2105-17. <a href="http://www.ncbi.nlm.nih.gov/pubmed/?term=PMC3839542">PMC3839542</a>
 
