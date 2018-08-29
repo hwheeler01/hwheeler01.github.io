@@ -24,10 +24,9 @@ permalink: /people/
         <img src="{{ site.baseurl }}/images/ryan.jpg" width="150px" height="150px" align="left"/>
     </a>
 <figcaption>
-        Ryan is a recent graduate of the Loyola class of 2018, with a BS in Biology & Bioinformatics. Ryan fell in love with coding his junior and senior year writing scripts and assembling pipelines under Dr. Wheeler’s guidance. Going forward Ryan plans to earn a graduate degree and has aspirations to work in the biotech industry. Outside of research, Ryan enjoys reading, painting, board games, and his friends.
+        Ryan is a recent graduate of the Loyola class of 2018, with a BS in Biology and Bioinformatics. Ryan fell in love with coding his junior and senior year writing scripts and assembling pipelines under Dr. Wheeler’s guidance. Going forward Ryan plans to earn a graduate degree and has aspirations to work in the biotech industry. Outside of research, Ryan enjoys reading, painting, board games, and his friends.
 </figcaption>
 </figure>
-<br>
 <br>
 
 **Angela Andaleon, Graduate Student**
@@ -43,8 +42,8 @@ Angela graduated with a BS in 2018 and is now a Thesis-Track Master's student in
 
 **Paul Okoro, Graduate Student**
 <figure>
-    <a href="../images/paul.png">
-        <img src="{{ site.baseurl }}/images/paul.png" width="150px" height="150px" align="left"/>
+    <a href="../images/paul.jpg">
+        <img src="{{ site.baseurl }}/images/paul.jpg" width="150px" height="150px" align="left"/>
     </a>
 <figcaption>
 Paul is a thesis-track master's student in the <a href="https://luc.edu/bioinformatics/msinbioinformatics/">MS Bioinformatics</a> program.
@@ -65,7 +64,6 @@ research position in a biotech company or startup. In his free time, he likes to
 Mohammed is a senior Biology major with a Cellular/Molecular Neuroscience minor in the Interdisciplinary Honors Program. He is a <a href="http://www.luc.edu/cas/academics_mulcahyscholarship.shtml">Mulcahy Scholar</a>. He is interested in a variety of disease processes in medicine and genetics, and eventually plans on pursuing a medical degree after his undergraduate studies. When not in the lab, Mohammed enjoys swimming, tennis, trying, *emphasis on trying*, to teach himself new things, and writing!
 </figcaption>
 </figure>
-<br>
 <br>
 
 
@@ -104,7 +102,6 @@ Ashley is a sophomore Bioinformatics major in the Interdisciplinary Honors Progr
 </figcaption>
 </figure>
 <br>
-<br>
 
 
 
@@ -119,8 +116,7 @@ Jennifer Takamura is a senior who is majoring in biology with a minor in psychol
 </figcaption>
 </figure>
 <br>
-<br>
-<br>
+
 
 **Rachel Weiss, Undergraduate Student**
 
