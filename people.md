@@ -17,17 +17,6 @@ permalink: /people/
 </figure>
 <br>
 
-**Dr. Lauren Mogil, Postdoc**
-<figure>
-    <a href="../images/lauren.png">
-        <img src="{{ site.baseurl }}/images/lauren.png" width="150px" height="150px" align="left"/>
-    </a>
-<figcaption>
-	Lauren is a postdoctoral researcher in the Wheeler lab. Her research interests include analyzing big data sets to further understand what affects disease states. She received her Ph.D. from Mayo Graduate School in Biochemistry and Molecular Biology. She also hold a B.S. in Bioinformatics and Biology from Loyola University Chicago. When she’s not in the lab, Lauren enjoys exploring Chicago, going to the theater, dancing, yoga, and traveling. 
-</figcaption>
-</figure>  
-<br>
-
 **Ryan Schubert, Research Assistant**
 
 <figure>
@@ -39,6 +28,7 @@ permalink: /people/
 </figcaption>
 </figure>
 <br>
+<br>
 
 **Angela Andaleon, Graduate Student**
 <figure>
@@ -47,6 +37,20 @@ permalink: /people/
     </a>
 <figcaption>
 Angela graduated with a BS in 2018 and is now a Thesis-Track Master's student in the accelerated <a href="http://luc.edu/bioinformatics/accelerateddegrees/">BS Biology/MS Bioinformatics</a> program.  Her interests include genetic diversity within and between human populations. She is also a <a href="http://www.luc.edu/sustainability/research/studentfellowships/carbon_fellowships/index.shtml">Carbon Fellow</a> with current plans to move into industrial biological research after completion of her degrees. She joined the Wheeler lab fall of 2016 after attending the computer science section of the First Year Research Experience that summer. Outside of lab, she enjoys seeing musicals, including winning the Book of Mormon lottery last summer, and attending concerts, once driving four hours to Warped Tour to crowd surf at Neck Deep.
+</figcaption>
+</figure>  
+<br>
+
+**Paul Okoro, Graduate Student**
+<figure>
+    <a href="../images/paul.png">
+        <img src="{{ site.baseurl }}/images/paul.png" width="150px" height="150px" align="left"/>
+    </a>
+<figcaption>
+Paul is a thesis-track master's student in the [MS Bioinformatics](https://luc.edu/bioinformatics/msinbioinformatics/) program.
+He studied Cell Biology and Genetics as an undergraduate at the University of Lagos where he developed a strong passion for human, population and statistical genetics.
+His interest lies in genome sequence data analysis. After the MS, he plans to continue on to a PhD in Computational Biology, and in the long term, he would love to take up a
+research position in a biotech company or startup. In his free time, he likes to eiher watch European football (soccer) games, hangout with friends, cook, see a movie, listen to music, and/or sleep.
 </figcaption>
 </figure>  
 <br>
@@ -62,7 +66,7 @@ Mohammed is a senior Biology major with a Cellular/Molecular Neuroscience minor 
 </figcaption>
 </figure>
 <br>
-
+<br>
 
 
 **Peter Fiorica, Undergraduate Student**
@@ -99,6 +103,7 @@ Peter is a junior Biochemistry and Biology major in the Interdisciplinary Honors
 Ashley is a sophomore Bioinformatics major in the Interdisciplinary Honors Program. She is planning on applying for the BS/MS Bioinformatics accelerated degree program during her junior year. She is interested in working in industry after graduation, most likely for a biotech company. Outside of working in the lab, Ashley enjoys spending time with friends and family, listening to alternative music, and exploring Chicago.
 </figcaption>
 </figure>
+<br>
 <br>
 
 
