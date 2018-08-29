@@ -129,7 +129,5 @@ Rachel is a sophomore majoring in Biology with a molecular emphasis and a minor 
 </figcaption>
 </figure>
 <br>
-<br>
-<br>
 
 **<a href="{{ site.baseurl }}/alumni">Lab Alumni</a>**
