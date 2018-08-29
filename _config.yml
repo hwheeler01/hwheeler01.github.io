@@ -82,6 +82,10 @@ exclude:
   - README.md
   - CNAME
 
+branches:
+  only:
+    - master
+
 # pre 2018-08-29
 #markdown: kramdown
 #highlighter: rouge
