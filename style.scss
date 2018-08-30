@@ -179,7 +179,6 @@ img {
 
   img {
     border-radius: 5px;
-    padding: 0;
   }
 }
 
@@ -198,7 +197,7 @@ img {
   color: $darkGray;
   cursor: pointer;
   font-family: $helveticaNeue;
-  font-weight: 200;
+  font-weight: 300;
   font-size: 28px;
   letter-spacing: 1px;
 }
@@ -290,4 +289,3 @@ footer {
 // ... Otherwise it really bloats up the top of the CSS file and makes it difficult to find the start
 @import "highlights";
 @import "svg-icons";
-
