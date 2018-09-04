@@ -35,7 +35,8 @@ permalink: /people/
         <img src="{{ site.baseurl }}/images/angela.png" width="150px" height="150px" align="left"/>
     </a>
 <figcaption>
-Angela graduated with a BS in 2018 and is now a Thesis-Track Master's student in the accelerated <a href="http://luc.edu/bioinformatics/accelerateddegrees/">BS Biology/MS Bioinformatics</a> program.  Her interests include genetic diversity within and between human populations. She is also a <a href="http://www.luc.edu/sustainability/research/studentfellowships/carbon_fellowships/index.shtml">Carbon Fellow</a> with current plans to move into industrial biological research after completion of her degrees. She joined the Wheeler lab fall of 2016 after attending the computer science section of the First Year Research Experience that summer. Outside of lab, she enjoys seeing musicals, including winning the Book of Mormon lottery last summer, and attending concerts, once driving four hours to Warped Tour to crowd surf at Neck Deep.
+Angela is a thesis-track master's student in the accelerated <a href="http://luc.edu/bioinformatics/accelerateddegrees/">BS Biology/MS Bioinformatics</a> program with her project on "The Genetic Architecture of Lipid Traits in Diverse Populations." Her interests include genetic diversity within and between human populations. She is a 2017-2019 <a href="http://www.luc.edu/sustainability/research/studentfellowships/carbon_fellowships/index.shtml">Carbon Fellow</a> and won Loyola's Outstanding Undergraduate Research Award in 2018, and she has current plans to move into industrial biological research after completion of her degrees. She joined the Wheeler Lab fall of 2016 after attending the bioinformatics/computer science section of the First Year Research Experience that summer. Outside of lab, she enjoys seeing musicals, including winning the Hamilton lottery, and attending concerts, once driving four hours to Warped Tour to crowd surf at Neck Deep.
+
 </figcaption>
 </figure>  
 <br>
@@ -75,6 +76,18 @@ Mohammed is a senior Biology major with a Cellular/Molecular Neuroscience minor 
     </a>
 <figcaption>
 Peter is a junior Biochemistry and Biology major in the Interdisciplinary Honors Program.  He is also a <a href="http://www.luc.edu/sustainability/research/studentfellowships/carbon_fellowships/index.shtml">Carbon Fellow</a> and <a href="http://www.luc.edu/cas/academics_mulcahyscholarship.shtml">Mulcahy Scholar</a>. After college, he plans to continue his academic career in graduate school. His love of genetics and molecular biology stems from dinner table conversations with his parents about medicine and the background behind diseases.  As he has grown older, he has developed a passion for human genetics because of the seemingly endless mysteries that the human genome holds.  In his free time, he can be found cheering for his local Buffalo sports teams, eating chicken wings, or drinking from his Linus Pauling coffee mug.
+</figcaption>
+</figure>
+<br>
+
+**Elyse Geoffroy, Undergraduate Student**
+
+<figure>
+    <a href="../images/elyse.jpg">
+        <img src="{{ site.baseurl }}/images/elyse.jpg" width="150px" height="150px" align="left"/>
+    </a>
+<figcaption>
+Elyse is a sophomore Bioinformatics student planning on completing the BS/MS program. She is also the Bioinformatics Student Board sophomore representative. After college, Elyse hopes to either continue her education in genetics and pursuing a career in research or work for a pharmaceutical company. In her free time, Elyse spends time baking, exploring Chicago, playing soccer, and hanging out with her friends and siblings.
 </figcaption>
 </figure>
 <br>
