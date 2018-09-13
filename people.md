@@ -50,7 +50,7 @@ Angela is a thesis-track master's student in the accelerated <a href="http://luc
 Paul is a thesis-track master's student in the <a href="https://luc.edu/bioinformatics/msinbioinformatics/">MS Bioinformatics</a> program.
 He studied Cell Biology and Genetics as an undergraduate at the University of Lagos where he developed a strong passion for human, population and statistical genetics.
 His interest lies in genome sequence data analysis. After the MS, he plans to continue on to a PhD in Computational Biology, and in the long term, he would love to take up a
-research position in a biotech company or startup. In his free time, he likes to eiher watch European football (soccer) games, hangout with friends, cook, see a movie, listen to music, and/or sleep.
+research position in a biotech company or startup. In his free time, he likes to either watch European football (soccer) games, hangout with friends, cook, see a movie, listen to music, and/or sleep.
 </figcaption>
 </figure>  
 <br>
