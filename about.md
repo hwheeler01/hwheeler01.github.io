@@ -16,7 +16,7 @@ Consider applying to the [Loyola Bioinformatics MS Program](https://www.luc.edu/
 
 #### Undergraduate Students
 
-Undergraduate students working in my lab have to commit to at least 1.5 years and are expected to be in the lab 15-20 hours/week during the semester and full-time (funding is often available) during the summer. 
+Undergraduate students working in my lab have to commit to at least 2 years and are expected to be in the lab 15-20 hours/week during the semester and full-time (funding is often available) during the summer. 
 
 
 Formally apply at the **<a href="https://forms.luc.edu/biolab/login.htm">Biology Undergraduate Research Application Portal</a>**
