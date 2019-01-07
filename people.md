@@ -3,6 +3,11 @@ layout: page
 title: People
 permalink: /people/
 ---
+**<a href="{{ site.baseurl }}/alumni">Lab Alumni</a>**
+&emsp; &emsp; &emsp;
+**<a href="{{ site.baseurl }}/photos">More Lab Photos</a>**
+<br>
+<br>
 
 **Dr. Heather E. Wheeler, Principal Investigator**
 
@@ -143,4 +148,3 @@ Rachel is a sophomore majoring in Biology with a molecular emphasis and a minor 
 </figure>
 <br>
 
-**<a href="{{ site.baseurl }}/alumni">Lab Alumni</a>**

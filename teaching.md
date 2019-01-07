@@ -6,7 +6,7 @@ permalink: /teaching/
 
 ## BIOL 388. Bioinformatics (3 credits) 
 
-**Semesters Taught:** Fall 2015, 2016, [2017](https://hwheeler01.github.io/syllabi/biol388_MoWe_Fall17.pdf)
+**Semesters Taught:** Fall 2015, 2016, 2017, [2018](https://hwheeler01.github.io/syllabi/BIOL388-Wheeler-Fall2018.pdf)
 
 Students will engage in the applications of computer-based tools and database searching to better understand DNA and protein structure, function, and evolution.
 

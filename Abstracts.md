@@ -5,17 +5,25 @@ permalink: /abstracts/
 ---
 
 <figure>
+    <center><img src="{{ site.baseurl }}/images/ashg_logo_2018.jpg" width="400px" height="300px"/></center>
+<figcaption>
+        <i>Peter Fiorica and Angela Andaleon at <a href="https://www.ashg.org/">ASHG</a> 2018 in San Diego.</i>
+</figcaption>
+</figure>
+
+### 2018
+**Wheeler Lab Member** &emsp; &emsp; &emsp;**\*Loyola Student**
+
+
+
+Intelligent Systems for Molecular Biology Conference, Chicago, IL, July 6-10, Lightning Talk and Poster: "Imputed gene associations identify replicable trans-acting genes enriched in transcription pathways" **Heather E. Wheeler**, **Sally Ploch\***, Alvaro Barbeira, Hae Kyung Im
+
+<figure>
     <center><img src="{{ site.baseurl }}/images/angelaISMB.jpg" width="400px" height="300px"/></center>
 <figcaption>
         <i>Angela Andaleon presenting at <a href="https://www.iscb.org/">ISMB</a> 2018 in Chicago.</i>
 </figcaption>
 </figure>
-
-**Wheeler Lab Member** &emsp; &emsp; &emsp;**\*Loyola Student**
-
-### 2018
-
-Intelligent Systems for Molecular Biology Conference, Chicago, IL, July 6-10, Lightning Talk and Poster: "Imputed gene associations identify replicable trans-acting genes enriched in transcription pathways" **Heather E. Wheeler**, **Sally Ploch\***, Alvaro Barbeira, Hae Kyung Im
 
 Intelligent Systems for Molecular Biology Conference, Chicago, IL, July 6-10, Poster: "Gene-based association study for lipid traits in diverse cohorts" **Angela Andaleon\***, **Lauren S. Mogil**, **Heather E. Wheeler**
 

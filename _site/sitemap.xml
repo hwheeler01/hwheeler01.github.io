@@ -26,6 +26,9 @@
 <loc>http://localhost:4000/people/</loc>
 </url>
 <url>
+<loc>http://localhost:4000/photos/</loc>
+</url>
+<url>
 <loc>http://localhost:4000/publications/</loc>
 </url>
 <url>
@@ -40,5 +43,9 @@
 <url>
 <loc>http://localhost:4000/images/wheeler-newsletterpage-2016.pdf</loc>
 <lastmod>2018-09-04T13:43:17-05:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/syllabi/BIOL388-Wheeler-Fall2018.pdf</loc>
+<lastmod>2019-01-07T16:42:46-06:00</lastmod>
 </url>
 </urlset>

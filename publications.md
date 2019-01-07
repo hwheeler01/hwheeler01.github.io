@@ -10,6 +10,8 @@ permalink: /publications/
 
 ### 2018
 
+**\*Andaleon A**, **Mogil LS**, **Wheeler HE**. (2018) Genetically regulated gene expression underlies lipid traits in Hispanic cohorts. *BioRxiv* [Preprint](https://doi.org/10.1101/507905)
+
 **Wheeler HE**, **\*Ploch S**, Barberia AN, Bonazzola R, Fotuhi Siahpirani A, Saha A, Battle A, Roy S, Im HK. (2018) Imputed gene associations identify replicable *trans*-acting genes enriched in transcription pathways and complex traits. *BioRxiv* [Preprint](https://doi.org/10.1101/471748)
 
 **Mogil LS**, **\*Andaleon A**, **\*Badalamenti A**, Dickinson SP, Guo X, Rotter JI, Johnson WC, Im HK, Liu Y, **Wheeler HE**. (2018) Genetic architecture of gene expression traits across diverse populations. *PLOS Genetics* 14(8):e1007586. [PMID30096133](https://www.ncbi.nlm.nih.gov/pubmed/30096133) [DOI](https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1007586)
@@ -67,22 +69,6 @@ Thompson P, <b>Wheeler HE</b>, Delaney SM, Lorier R, Broeckel U, Devidas M, Ream
 <b>Wheeler HE</b>, Aquino-Michaels K, Gamazon ER, Trubetskoy VV, Dolan ME, Huang RS, Cox NJ, Im HK (2014) Poly-omic prediction of complex traits: OmicKriging. <i>Genetic Epidemiology</i>, 38(5):402-15. <a href="http://www.ncbi.nlm.nih.gov/pubmed/?term=PMC4072756">PMC4072756</a> ***International Genetic Epidemiology  Society Robert C. Elston Best Paper <a href="https://s3.amazonaws.com/imlab-open/Webdata/Images/2015/best-paper-omickriging.JPG">Award</a> 2014***
 
 <b>Wheeler HE</b>, González-Neira A, Pita G, de la Torre-Montero JC, Alonso R, Lopez-Fernandez LA, Alba E, Martín M, Dolan ME (2014) Identification of genetic variants associated with capecitabine-induced hand-foot syndrome through integration of patient and cell line genomic analyses. <i>Pharmacogenetics and Genomics</i> 24(5):231-7. <a href="http://www.ncbi.nlm.nih.gov/pubmed/?term=PMC4076106">PMC4076106</a>
-
-### 2013
-
-Gorsic LK, Stark AL, <b>Wheeler HE</b>, Wong SS, Im HK, Dolan ME (2013) EPS8 inhibition increases cisplatin sensitivity in lung cancer cells. <i>PLOS One</i> 8(12):e82220. <a href="http://www.ncbi.nlm.nih.gov/pubmed/?term=PMC3868552">PMC3868552</a>
-
-Parsa A, Fuchsberger C…<b>Wheeler HE</b>…Böger CA (>100 authors) (2013) Common variants in Mendelian kidney disease genes and their association with renal function. <i>Journal of the American Society of Nephrology</i> 24(12):2105-17. <a href="http://www.ncbi.nlm.nih.gov/pubmed/?term=PMC3839542">PMC3839542</a>
-
-Eadon MT, <b>Wheeler HE</b>, Stark AL, Zhang X, Moen EL, Delaney SM, Im HK, Cunningham PN, Zhang W, Dolan ME (2013) Genetic and epigenetic variants contributing to clofarabine cytotoxicity. <i>Human Molecular Genetics</i> 22(19):4007-20. <a href="http://www.ncbi.nlm.nih.gov/pubmed/?term=PMC3766179">PMC3766179</a>
-
-Gamazon ER, Lamba JK, Pounds S, Stark AL, <b>Wheeler HE</b>, Cao X, Im HK, Mitra AK, Rubnitz JE, Ribeiro RC, Raimondi S, Campana D, Crews KR, Wong SS, Welsh M, Hulur I, Gorsic L, Hartford CM, Zhang W, Cox NJ, Dolan ME (2013) Comprehensive genetic analysis of cytarabine sensitivity in a cell-based model identifies polymorphisms associated with outcome in AML patients. <i>Blood</i> 121(21):4366-76. <a href="http://www.ncbi.nlm.nih.gov/pubmed/?term=PMC3663430">PMC3663430</a>
-
-<b>Wheeler HE</b>, Gamazon ER, Wing C, Njiaju UO, Njoku C, Baldwin RM, Owzar K, Jiang C, Watson D, Shterev I, Kubo M, Zembutsu H, Winer E, Hudis C, Shulman LN, Nakamura Y, Ratain MJ, Kroetz DL, Cox NJ, Dolan ME (2013) Integration of cell line and clinical trial genome-wide analyses supports a polygenic architecture of paclitaxel-induced sensory peripheral neuropathy. <i>Clinical Cancer Research</i> 19(2):491-9. <a href="http://www.ncbi.nlm.nih.gov/pubmed/?term=PMC3549006">PMC3549006</a>
-
-<b>Wheeler HE</b>, Maitland ML, Dolan ME, Cox NJ, Ratain MJ (2013) Cancer pharmacogenomics: strategies and challenges. <i>Nature Reviews Genetics</i> 14(1):23-34. <a href="http://www.ncbi.nlm.nih.gov/pubmed/?term=PMC3668552">PMC3668552</a>
-
-<b>Wheeler HE</b>, Gamazon ER, Stark AL, O’Donnell PH, Gorsic LK, Huang RS, Cox NJ, Dolan ME (2013) Genome-wide meta-analysis identifies variants associated with platinating agent susceptibility across populations. <i>The Pharmacogenomics Journal</i> 13(1):35-43. <a href="http://www.ncbi.nlm.nih.gov/pubmed/?term=PMC3370147">PMC3370147</a>
 
 
 
