@@ -15,17 +15,17 @@ permalink: /abstracts/
 **Wheeler Lab Member** &emsp; &emsp; &emsp;**\*Loyola Student**
 
 
-American Society of Human Genetics 68th Annual Meeting, San Diego, CA, October 16 - 20, 2018. **\*Andaleon A**, **Mogil LS**, **Wheeler HE**. Transcriptome-based association study in Hispanic cohorts implicates novel genes in lipid traits.
+American Society of Human Genetics 68th Annual Meeting, San Diego, CA, October 16 - 20, 2018. **\*Andaleon A**, **Mogil LS**, **Wheeler HE**. Transcriptome-based association study in Hispanic cohorts implicates novel genes in lipid traits. Platform Presentation.
 
-American Society of Human Genetics 68th Annual Meeting, San Diego, CA, October 16 - 20, 2018. ***Fiorica PN**, **Wheeler HE**. Predicting the genetic regulation of schizophrenia in African American populations.
+American Society of Human Genetics 68th Annual Meeting, San Diego, CA, October 16 - 20, 2018. **\*Fiorica PN**, **Wheeler HE**. Predicting the genetic regulation of schizophrenia in African American populations. Poster.
 
-American Society of Human Genetics 68th Annual Meeting, San Diego, CA, October 16 - 20, 2018. **Wheeler HE**, ***Ploch S**, Barberia AN, Im HK. Imputed gene associations identify replicable trans-acting/target gene pairs and suggest a larger trans than cis contribution to complex trait architecture.
+American Society of Human Genetics 68th Annual Meeting, San Diego, CA, October 16 - 20, 2018. **Wheeler HE**, **\*Ploch S**, Barberia AN, Im HK. Imputed gene associations identify replicable trans-acting/target gene pairs and suggest a larger trans than cis contribution to complex trait architecture. Poster.
 
-International Genetic Epidemiology Society 27th Annual Meeting, San Diego, CA, October 13 - 16, 2018. **Wheeler HE**, ***Ploch S**, Barberia AN, Im HK. Imputed gene associations identify replicable trans-acting and target gene pairs enriched in transcription factor pathways. 
+International Genetic Epidemiology Society 27th Annual Meeting, San Diego, CA, October 13 - 16, 2018. **Wheeler HE**, **\*Ploch S**, Barberia AN, Im HK. Imputed gene associations identify replicable trans-acting and target gene pairs enriched in transcription factor pathways. Platform Presentation.
 
-International Genetic Epidemiology Society 27th Annual Meeting, San Diego, CA, October 13 - 16, 2018. ***Andaleon A**, **Mogil LS**,  ***Badalamenti A**, Dickinson SP, Guo X, Rotter JI, Johnson WC, Im HK, Liu Y, **Wheeler HE**. Genetic architecture of gene expression traits across diverse populations.
+International Genetic Epidemiology Society 27th Annual Meeting, San Diego, CA, October 13 - 16, 2018. **\*Andaleon A**, **Mogil LS**,  **\*Badalamenti A**, Dickinson SP, Guo X, Rotter JI, Johnson WC, Im HK, Liu Y, **Wheeler HE**. Genetic architecture of gene expression traits across diverse populations. Poster Highlight Talk.
 
-Intelligent Systems for Molecular Biology Conference, Chicago, IL, July 6-10, Lightning Talk and Poster: "Imputed gene associations identify replicable trans-acting genes enriched in transcription pathways" **Heather E. Wheeler**, **Sally Ploch\***, Alvaro Barbeira, Hae Kyung Im
+
 
 <figure>
     <center><img src="{{ site.baseurl }}/images/angelaISMB.jpg" width="400px" height="300px"/></center>
@@ -35,6 +35,8 @@ Intelligent Systems for Molecular Biology Conference, Chicago, IL, July 6-10, Li
 </figure>
 
 Intelligent Systems for Molecular Biology Conference, Chicago, IL, July 6-10, Poster: "Gene-based association study for lipid traits in diverse cohorts" **Angela Andaleon\***, **Lauren S. Mogil**, **Heather E. Wheeler**
+
+Intelligent Systems for Molecular Biology Conference, Chicago, IL, July 6-10, Lightning Talk and Poster: "Imputed gene associations identify replicable trans-acting genes enriched in transcription pathways" **Heather E. Wheeler**, **Sally Ploch\***, Alvaro Barbeira, Hae Kyung Im
 
 Closing the Genomics Research Gap: An International Symposium on Genomics and Health, Montreal, QC, June 15-17, Poster: "Genetic architecture of gene expression traits across diverse populations" **Lauren S. Mogil**,
 **Angela Andaleon\***,
