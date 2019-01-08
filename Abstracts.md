@@ -15,6 +15,15 @@ permalink: /abstracts/
 **Wheeler Lab Member** &emsp; &emsp; &emsp;**\*Loyola Student**
 
 
+American Society of Human Genetics 68th Annual Meeting, San Diego, CA, October 16 - 20, 2018. **\*Andaleon A**, **Mogil LS**, **Wheeler HE**. Transcriptome-based association study in Hispanic cohorts implicates novel genes in lipid traits.
+
+American Society of Human Genetics 68th Annual Meeting, San Diego, CA, October 16 - 20, 2018. ***Fiorica PN**, **Wheeler HE**. Predicting the genetic regulation of schizophrenia in African American populations.
+
+American Society of Human Genetics 68th Annual Meeting, San Diego, CA, October 16 - 20, 2018. **Wheeler HE**, ***Ploch S**, Barberia AN, Im HK. Imputed gene associations identify replicable trans-acting/target gene pairs and suggest a larger trans than cis contribution to complex trait architecture.
+
+International Genetic Epidemiology Society 27th Annual Meeting, San Diego, CA, October 13 - 16, 2018. **Wheeler HE**, ***Ploch S**, Barberia AN, Im HK. Imputed gene associations identify replicable trans-acting and target gene pairs enriched in transcription factor pathways. 
+
+International Genetic Epidemiology Society 27th Annual Meeting, San Diego, CA, October 13 - 16, 2018. ***Andaleon A**, **Mogil LS**,  ***Badalamenti A**, Dickinson SP, Guo X, Rotter JI, Johnson WC, Im HK, Liu Y, **Wheeler HE**. Genetic architecture of gene expression traits across diverse populations.
 
 Intelligent Systems for Molecular Biology Conference, Chicago, IL, July 6-10, Lightning Talk and Poster: "Imputed gene associations identify replicable trans-acting genes enriched in transcription pathways" **Heather E. Wheeler**, **Sally Ploch\***, Alvaro Barbeira, Hae Kyung Im
 
