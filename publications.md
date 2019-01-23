@@ -8,17 +8,22 @@ permalink: /publications/
 
 **Wheeler Lab Member** &emsp; &emsp; &emsp;**\*Loyola Student**
 
+### 2019
+
+Barbeira AN, Pividori MD, Zheng J, **Wheeler HE**, Nicolae DL, Im HK. (2019) Integrating Predicted Transcriptome From Multiple Tissues Improves Association Detection. *PLOS Genetics* [PMID30668570](https://www.ncbi.nlm.nih.gov/pubmed/30668570) [DOI](https://doi.org/10.1371/journal.pgen.1007889)
+
+Boomgarden AC, Sagewalker GD, Shah AC, Haider SD, Patel P, **Wheeler HE**, Dubowy CM, Cavanaugh DJ. (2019) Chronic circadian misalignment results in reduced longevity and large-scale changes in gene expression in *Drosophila*. *BMC Genomics* [PMID30616504](https://www.ncbi.nlm.nih.gov/pubmed/30616504) [DOI](https://doi.org/10.1186/s12864-018-5401-7)
+
 ### 2018
 
-**\*Andaleon A**, **Mogil LS**, **Wheeler HE**. (2018) Genetically regulated gene expression underlies lipid traits in Hispanic cohorts. *BioRxiv* [Preprint](https://doi.org/10.1101/507905)
+**\*Andaleon A**, **Mogil LS**, **Wheeler HE**. (2018) Genetically regulated gene expression underlies lipid traits in Hispanic cohorts. *bioRxiv* [Preprint](https://doi.org/10.1101/507905)
 
-**Wheeler HE**, **\*Ploch S**, Barberia AN, Bonazzola R, Fotuhi Siahpirani A, Saha A, Battle A, Roy S, Im HK. (2018) Imputed gene associations identify replicable *trans*-acting genes enriched in transcription pathways and complex traits. *BioRxiv* [Preprint](https://doi.org/10.1101/471748)
+**Wheeler HE**, **\*Ploch S**, Barberia AN, Bonazzola R, Fotuhi Siahpirani A, Saha A, Battle A, Roy S, Im HK. (2018) Imputed gene associations identify replicable *trans*-acting genes enriched in transcription pathways and complex traits. *bioRxiv* [Preprint](https://doi.org/10.1101/471748)
 
 **Mogil LS**, **\*Andaleon A**, **\*Badalamenti A**, Dickinson SP, Guo X, Rotter JI, Johnson WC, Im HK, Liu Y, **Wheeler HE**. (2018) Genetic architecture of gene expression traits across diverse populations. *PLOS Genetics* 14(8):e1007586. [PMID30096133](https://www.ncbi.nlm.nih.gov/pubmed/30096133) [DOI](https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1007586)
 
 Wyss AB, Sofer T, Lee MK, Terzikhan N, Nguyen JN, Lahousse L, Latourelle JC, Smith AV, Bartz TM, Feitosa MF, Gao W, Ahluwalia TS, Tang W, Oldmeadow C, Duan Q, de Jong K, Wojczynski MK, Wang XQ, Noordam R, Hartwig FP, Jackson VE, Wang T, Obeidat M, Hobbs BD, Huan T, Gui H, Parker MM, Hu D, **Mogil LS**, Kichaev G, Jin J, Graff M, Harris TB, Kalhan R, Heckbert SR, Paternoster L, Burkart KM, Liu Y, Holliday EG, Wilson JG, Vonk JM, Sanders JL, Barr RG, de Mutsert R, Menezes AMB, Adams HHH, van den Berge M, Joehanes R, Levin AM, Liberto J, Launer LJ, Morrison AC, Sitlani CM, Celedón JC, Kritchevsky SB, Scott RJ, Christensen K, Rotter JI, Bonten TN, Wehrmeister FC, Bossé Y, Xiao S, Oh S, Franceschini N, Brody JA, Kaplan RC, Lohman K, McEvoy M, Province MA, Rosendaal FR, Taylor KD, Nickle DC, Williams LK, Burchard EG, **Wheeler HE**, Sin DD, Gudnason V, North KE, Fornage M, Psaty BM, Myers RH, O'Connor G, Hansen T, Laurie CC, Cassano PA, Sung J, Kim WJ, Attia JR, Lange L, Boezen HM, Thyagarajan B, Rich SS, Mook-Kanamori DO, Horta BL, Uitterlinden AG, Im HK, Cho MH, Brusselle GG, Gharib SA, Dupuis J, Manichaikul A, London SJ. (2018) Multiethnic meta-analysis identifies ancestry-specific and cross-ancestry loci for pulmonary function. *Nature Communications* 9(1):2976. [PMID30061609](https://www.ncbi.nlm.nih.gov/pubmed/30061609?dopt=Abstract) [DOI](https://doi.org/10.1038/s41467-018-05369-0)
 
-Barbeira AN, Pividori MD, Zheng J, **Wheeler HE**, Nicolae DL, Im HK. (2018) Integrating Predicted Transcriptome From Multiple Tissues Improves Association Detection. *BioRxiv* [Preprint](https://www.biorxiv.org/content/early/2018/04/06/292649)
 
 Li R, Kim D, **Wheeler HE**, Dudek SM, Dolan ME, Ritchie MD. (2018) Integration of genetic and functional genomics data to uncover chemotherapeutic induced cytotoxicity. *The Pharmacogenomics Journal* [PMID29795408](https://www.ncbi.nlm.nih.gov/pubmed/29795408) [DOI](https://www.nature.com/articles/s41397-018-0024-6)
 
