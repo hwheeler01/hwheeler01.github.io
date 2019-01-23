@@ -10,9 +10,9 @@ permalink: /publications/
 
 ### 2019
 
-Barbeira AN, Pividori MD, Zheng J, **Wheeler HE**, Nicolae DL, Im HK. (2019) Integrating Predicted Transcriptome From Multiple Tissues Improves Association Detection. *PLOS Genetics* [PMID30668570](https://www.ncbi.nlm.nih.gov/pubmed/30668570) [DOI](https://doi.org/10.1371/journal.pgen.1007889)
+Barbeira AN, Pividori MD, Zheng J, **Wheeler HE**, Nicolae DL, Im HK. (2019) Integrating Predicted Transcriptome From Multiple Tissues Improves Association Detection. *PLOS Genetics* 15(1):e1007889. [PMID30668570](https://www.ncbi.nlm.nih.gov/pubmed/30668570) [DOI](https://doi.org/10.1371/journal.pgen.1007889)
 
-Boomgarden AC, Sagewalker GD, Shah AC, Haider SD, Patel P, **Wheeler HE**, Dubowy CM, Cavanaugh DJ. (2019) Chronic circadian misalignment results in reduced longevity and large-scale changes in gene expression in *Drosophila*. *BMC Genomics* [PMID30616504](https://www.ncbi.nlm.nih.gov/pubmed/30616504) [DOI](https://doi.org/10.1186/s12864-018-5401-7)
+Boomgarden AC, Sagewalker GD, Shah AC, Haider SD, Patel P, **Wheeler HE**, Dubowy CM, Cavanaugh DJ. (2019) Chronic circadian misalignment results in reduced longevity and large-scale changes in gene expression in *Drosophila*. *BMC Genomics* 20(1):14. [PMID30616504](https://www.ncbi.nlm.nih.gov/pubmed/30616504) [DOI](https://doi.org/10.1186/s12864-018-5401-7)
 
 ### 2018
 
