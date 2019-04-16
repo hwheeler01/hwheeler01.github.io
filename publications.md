@@ -6,9 +6,12 @@ permalink: /publications/
 
 <a href="{{ site.baseurl }}/abstracts">Conference Abstracts</a> &emsp; &emsp; &emsp;<a href="https://scholar.google.com/citations?user=UwY8GxwAAAAJ&hl=en">Google Scholar</a> &emsp; &emsp; &emsp; <a href="http://www.ncbi.nlm.nih.gov/pubmed/?term=Wheeler+HE%5BAuthor%5D">PubMed</a> &emsp; &emsp; &emsp; <a href="http://orcid.org/0000-0003-1365-9667">ORCID</a> &emsp; &emsp; &emsp;
 
-**Wheeler Lab Member** &emsp; &emsp; &emsp;**\*Loyola Student**
+**Wheeler Lab Member** &emsp; &emsp; &emsp;**\*Loyola Graduate Student** &emsp; &emsp; &emsp; **\#Loyola Undergraduate**
 
 ### 2019
+El Charif O, Mapes B, Trendowski MR, **Wheeler HE**, Wing C, Dinh PC, Frisina RD, Feldman DR, Hamilton R, Vaughn DJ, Fung C, Kollmannsberger C, Mushiroda T, Kubo M, Gamazon ER, Cox N, Huddart R, ArdeshirRouhaniFard S, Monahan P, Fossa SD, Einhorn LH, Travis LB, Dolan ME. *Clinical Cancer Research* 2019 Apr 5. [Epub ahead of print] [PMID30952644](https://www.ncbi.nlm.nih.gov/pubmed/30952644) [DOI](https://doi.org/10.1158/1078-0432.CCR-18-3179)
+
+**Wheeler HE**, **\#Ploch S**, Barbeira AN, Bonazzola R, **\*Andaleon A**, Fotuhi Sishpirani A, Saha A, Battle A, Roy S, Im HK. Imputed gene associations identify replicable trans-acting genes enriched in transcription pathways and complex traits. *Genetic Epidemiology* 2019 Apr 4. [Epub ahead of print] [PMID30950127](https://www.ncbi.nlm.nih.gov/pubmed/30950127) [DOI](https://doi.org/10.1002/gepi.22205) [ReadCube](https://t.co/rizVd2t4v6)
 
 Barbeira AN, Pividori MD, Zheng J, **Wheeler HE**, Nicolae DL, Im HK. (2019) Integrating Predicted Transcriptome From Multiple Tissues Improves Association Detection. *PLOS Genetics* 15(1):e1007889. [PMID30668570](https://www.ncbi.nlm.nih.gov/pubmed/30668570) [DOI](https://doi.org/10.1371/journal.pgen.1007889)
 
@@ -16,11 +19,9 @@ Boomgarden AC, Sagewalker GD, Shah AC, Haider SD, Patel P, **Wheeler HE**, Dubow
 
 ### 2018
 
-**\*Andaleon A**, **Mogil LS**, **Wheeler HE**. (2018) Genetically regulated gene expression underlies lipid traits in Hispanic cohorts. *bioRxiv* [Preprint](https://doi.org/10.1101/507905)
+**\#Andaleon A**, **Mogil LS**, **Wheeler HE**. (2018) Genetically regulated gene expression underlies lipid traits in Hispanic cohorts. *bioRxiv* [Preprint](https://doi.org/10.1101/507905)
 
-**Wheeler HE**, **\*Ploch S**, Barberia AN, Bonazzola R, Fotuhi Siahpirani A, Saha A, Battle A, Roy S, Im HK. (2018) Imputed gene associations identify replicable *trans*-acting genes enriched in transcription pathways and complex traits. *bioRxiv* [Preprint](https://doi.org/10.1101/471748)
-
-**Mogil LS**, **\*Andaleon A**, **\*Badalamenti A**, Dickinson SP, Guo X, Rotter JI, Johnson WC, Im HK, Liu Y, **Wheeler HE**. (2018) Genetic architecture of gene expression traits across diverse populations. *PLOS Genetics* 14(8):e1007586. [PMID30096133](https://www.ncbi.nlm.nih.gov/pubmed/30096133) [DOI](https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1007586)
+**Mogil LS**, **\#Andaleon A**, **\#Badalamenti A**, Dickinson SP, Guo X, Rotter JI, Johnson WC, Im HK, Liu Y, **Wheeler HE**. (2018) Genetic architecture of gene expression traits across diverse populations. *PLOS Genetics* 14(8):e1007586. [PMID30096133](https://www.ncbi.nlm.nih.gov/pubmed/30096133) [DOI](https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1007586)
 
 Wyss AB, Sofer T, Lee MK, Terzikhan N, Nguyen JN, Lahousse L, Latourelle JC, Smith AV, Bartz TM, Feitosa MF, Gao W, Ahluwalia TS, Tang W, Oldmeadow C, Duan Q, de Jong K, Wojczynski MK, Wang XQ, Noordam R, Hartwig FP, Jackson VE, Wang T, Obeidat M, Hobbs BD, Huan T, Gui H, Parker MM, Hu D, **Mogil LS**, Kichaev G, Jin J, Graff M, Harris TB, Kalhan R, Heckbert SR, Paternoster L, Burkart KM, Liu Y, Holliday EG, Wilson JG, Vonk JM, Sanders JL, Barr RG, de Mutsert R, Menezes AMB, Adams HHH, van den Berge M, Joehanes R, Levin AM, Liberto J, Launer LJ, Morrison AC, Sitlani CM, Celedón JC, Kritchevsky SB, Scott RJ, Christensen K, Rotter JI, Bonten TN, Wehrmeister FC, Bossé Y, Xiao S, Oh S, Franceschini N, Brody JA, Kaplan RC, Lohman K, McEvoy M, Province MA, Rosendaal FR, Taylor KD, Nickle DC, Williams LK, Burchard EG, **Wheeler HE**, Sin DD, Gudnason V, North KE, Fornage M, Psaty BM, Myers RH, O'Connor G, Hansen T, Laurie CC, Cassano PA, Sung J, Kim WJ, Attia JR, Lange L, Boezen HM, Thyagarajan B, Rich SS, Mook-Kanamori DO, Horta BL, Uitterlinden AG, Im HK, Cho MH, Brusselle GG, Gharib SA, Dupuis J, Manichaikul A, London SJ. (2018) Multiethnic meta-analysis identifies ancestry-specific and cross-ancestry loci for pulmonary function. *Nature Communications* 9(1):2976. [PMID30061609](https://www.ncbi.nlm.nih.gov/pubmed/30061609?dopt=Abstract) [DOI](https://doi.org/10.1038/s41467-018-05369-0)
 
@@ -29,7 +30,7 @@ Li R, Kim D, **Wheeler HE**, Dudek SM, Dolan ME, Ritchie MD. (2018) Integration 
 
 Barbeira AN, Dickinson SP, Bonazzola R, Zheng J, **Wheeler HE**, Torres JM, Torstenson ES, Shah KP, Garcia T, Edwards TL, Stahl EA, Huckins LM, GTEx Consortium, Nicolae DL, Cox NJ, Im HK. (2018) Exploring the phenotypic consequences of tissue specific gene expression variation inferred from GWAS summary statistics. *Nature Communications* 9(1):1825. [PMID29739930](https://www.ncbi.nlm.nih.gov/pubmed/?term=29739930) [DOI](https://doi.org/10.1038/s41467-018-03621-1)
 
-**\*Andaleon A**, **Mogil LS**, **Wheeler HE**. (2018) Gene-based association study for lipid traits in diverse cohorts implicates *BACE1* and *SIDT2* regulation in triglyceride levels. *PeerJ* 6:e4314. [PMID29404214](https://www.ncbi.nlm.nih.gov/pubmed/?term=29404214) [DOI](https://doi.org/10.7717/peerj.4314)
+**\#Andaleon A**, **Mogil LS**, **Wheeler HE**. (2018) Gene-based association study for lipid traits in diverse cohorts implicates *BACE1* and *SIDT2* regulation in triglyceride levels. *PeerJ* 6:e4314. [PMID29404214](https://www.ncbi.nlm.nih.gov/pubmed/?term=29404214) [DOI](https://doi.org/10.7717/peerj.4314)
 
 
 
@@ -38,7 +39,7 @@ Barbeira AN, Dickinson SP, Bonazzola R, Zheng J, **Wheeler HE**, Torres JM, Tors
 ### 2017
 Dolan ME, El Charif O, **Wheeler HE**, Gamazon ER, Ardeshir-Rouhani-Fard S, Monahan P, Feldman DR, Hamilton R, Vaughn DJ, Beard C, Fung C, Fossa SD, Hertz DL, Mushiroda T, Kubo M, Einhorn LH, Cox N, Travis L. (2017) Clinical and genome-wide analysis of cisplatin-induced peripheral neuropathy in survivors of adult-onset cancer. *Clinical Cancer Research* 23(19):5757-5768. [PMID28611204](https://www.ncbi.nlm.nih.gov/pubmed/28611204)
 
-**Wheeler HE**, Gamazon ER, Frisina R, **\*Perez-Cervantes C**, El Charif O, Mapes B, Fossa SD, Feldman D, Hamilton R, Vaughn DJ, Beard C, Fung C, Kollmannsberger C, Kim J, Mushiroda T, Kubo M, Ardeshir-Rouhani-Fard S, Einhorn LH, Cox N, Dolan ME, Travis L. (2017) Variants in *WFS1* and other Mendelian deafness genes are associated with cisplatin-associated ototoxicity. *Clinical Cancer Research* 23(13):3325-33. [PMID28039263](https://www.ncbi.nlm.nih.gov/pubmed/28039263)  &emsp;[Highlights Feature](http://clincancerres.aacrjournals.org/content/23/13/3227.full-text.pdf)
+**Wheeler HE**, Gamazon ER, Frisina R, **\#Perez-Cervantes C**, El Charif O, Mapes B, Fossa SD, Feldman D, Hamilton R, Vaughn DJ, Beard C, Fung C, Kollmannsberger C, Kim J, Mushiroda T, Kubo M, Ardeshir-Rouhani-Fard S, Einhorn LH, Cox N, Dolan ME, Travis L. (2017) Variants in *WFS1* and other Mendelian deafness genes are associated with cisplatin-associated ototoxicity. *Clinical Cancer Research* 23(13):3325-33. [PMID28039263](https://www.ncbi.nlm.nih.gov/pubmed/28039263)  &emsp;[Highlights Feature](http://clincancerres.aacrjournals.org/content/23/13/3227.full-text.pdf)
 
 Wing C, Komatsu M, Delaney SM, Krause M, **Wheeler HE**, Dolan ME. (2017) Application of stem cell derived neuronal cells to evaluate neurotoxic chemotherapy. *Stem Cell Research* 22:79-88. [PMID28645005](https://www.ncbi.nlm.nih.gov/pubmed/28645005)
 
