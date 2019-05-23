@@ -3,17 +3,42 @@ layout: page
 title: Conference Abstracts
 permalink: /abstracts/
 ---
+**Wheeler Lab Member** &emsp; &emsp; **\*Masters Student** &emsp; &emsp; **\#Undergraduate**
 
+### 2019
+
+<figure>
+    <center><img src="{{ site.baseurl }}/images/ryan_glbio19.jpg" width="267px" height="400px"/></center>
+<figcaption>
+        <i>Ryan Schubert presenting at <a href="https://www.iscb.org/glbio2019/">GLBIO</a> 2019 in Madison.</i>
+</figcaption>
+</figure>
+
+Great Lakes Bioinformatics Conference, Madison, WI, May 19-22,  "The genetic architecture of expression and splicing in African ancestry populations" **Schubert R**, **\*Okoro P**, Luke A, Dugas L, **Wheeler HE**. Poster.
+
+Great Lakes Bioinformatics Conference, Madison, WI, May 19-22,  "Gene Expression Prediction: A Machine Learning Approach" **\*Okoro P**, **Schubert R**, Luke A, Dugas L, **Wheeler HE**. Talk.
+
+<figure>
+    <center><img src="{{ site.baseurl }}/images/jenny_elyse_glbio19.jpg" width="400px" height="300px"/></center>
+<figcaption>
+        <i>Jenny Takamura and Elyse Geoffroy presenting at <a href="https://www.iscb.org/glbio2019/">GLBIO</a> 2019 in Madison.</i>
+</figcaption>
+</figure>
+
+Great Lakes Bioinformatics Conference, Madison, WI, May 19-22,  "Optimizing Gene Predictors in Diverse Populations" **\#Takamura J**, **\#Geoffroy E**, **Wheeler HE**. Poster.
+
+Great Lakes Bioinformatics Conference, Madison, WI, May 19-22,  "Genetically regulated gene expression underlies lipid traits in Hispanic cohorts" **\*Andaleon A**, **Mogil LS**, **Wheeler HE**. Talk.
+
+Great Lakes Bioinformatics Conference, Madison, WI, May 19-22,  "Imputed gene associations identify replicable trans-acting genes enriched in immune traits" **Wheeler, HE**. Talk.
+
+
+### 2018
 <figure>
     <center><img src="{{ site.baseurl }}/images/ashg_logo_2018.jpg" width="400px" height="300px"/></center>
 <figcaption>
         <i>Peter Fiorica and Angela Andaleon at <a href="https://www.ashg.org/">ASHG</a> 2018 in San Diego.</i>
 </figcaption>
 </figure>
-
-### 2018
-**Wheeler Lab Member** &emsp; &emsp; &emsp;**\*Loyola Graduate Student** &emsp; &emsp; &emsp; **\#Loyola Undergraduate**
-
 
 American Society of Human Genetics 68th Annual Meeting, San Diego, CA, October 16 - 20, 2018. **\*Andaleon A**, **Mogil LS**, **Wheeler HE**. Transcriptome-based association study in Hispanic cohorts implicates novel genes in lipid traits. Platform Presentation.
 
@@ -78,6 +103,7 @@ Great Lakes Bioinformatics Conference, Chicago, IL, May 15-17, Poster: "Transcri
 
 Chicago Area Undergraduate Research Symposium, Roosevelt University, Chicago, IL, April 29, Poster: “Genetic Mechanisms Underlying Cholesterol Traits in Diverse Populations” **\#Angela Andaleon**, **Heather E. Wheeler**
 
+### 2016
 <figure>
     <center><img src="{{ site.baseurl }}/images/aly-natalie-ashg.png" width="333px" height="333px"/></center>
 <figcaption>
@@ -85,7 +111,6 @@ Chicago Area Undergraduate Research Symposium, Roosevelt University, Chicago, IL
 </figcaption>
 </figure>
 
-### 2016
 American Society of Human Genetics Annual Meeting, Vancouver, BC, October 18 - 22, Poster: "Predicting gene regulation in diverse global populations" **\#Alexa Badalamenti**, **\#Natalie Jachym**, **\*Amani Almatrafi**, **\#Virginia Saulnier**, **\#Jeffrey Ng**, **\#Shyam Shah**, **Heather E. Wheeler**
 
 American Society of Human Genetics Annual Meeting, Vancouver, BC, October 18 - 22, Platform Presentation: "Genome-wide association study with replication implicates *WFS1* in cisplatin-associated hearing loss and reveals an enrichment of SNPs in Mendelian genes for deafness" **Heather E. Wheeler**, Eric R. Gamazon, Robert D. Frisina, **\#Carlos Perez-Cervantes**, Omar El Charif, Sophie D. Fossa, Darren R. Feldman, Robert Hamilton, David J. Vaughn, Clair J. Beard, Chunkit Fung, Lawrence H. Einhorn, Christian Kollmannsberger, Jeri Kim, Taisei Mushiroda, Michiaki Kubo, Shirin Ardeshir-Rouhani-Fard, Nancy J. Cox, M. Eileen Dolan, Lois B. Travis, The Platinum Study Group
