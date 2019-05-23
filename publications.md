@@ -9,7 +9,7 @@ permalink: /publications/
 **Wheeler Lab Member** &emsp; &emsp; **\*Masters Student** &emsp; &emsp; **\#Undergraduate**
 
 ### 2019
-El Charif O, Mapes B, Trendowski MR, **Wheeler HE**, Wing C, Dinh PC, Frisina RD, Feldman DR, Hamilton R, Vaughn DJ, Fung C, Kollmannsberger C, Mushiroda T, Kubo M, Gamazon ER, Cox N, Huddart R, Ardeshir-Rouhani-Fard S, Monahan P, Fossa SD, Einhorn LH, Travis LB, Dolan ME. Clinical and Genome-wide analysis of cisplatin-induced tinnitus implicates novel ototoxic mechanisms. *Clinical Cancer Research* 2019 Apr 5. [Epub ahead of print] [PMID30952644](https://www.ncbi.nlm.nih.gov/pubmed/30952644) [DOI](https://doi.org/10.1158/1078-0432.CCR-18-3179)
+El Charif O, Mapes B, Trendowski MR, **Wheeler HE**, Wing C, Dinh PC, Frisina RD, Feldman DR, Hamilton R, Vaughn DJ, Fung C, Kollmannsberger C, Mushiroda T, Kubo M, Gamazon ER, Cox N, Huddart R, Ardeshir-Rouhani-Fard S, Monahan P, Fossa SD, Einhorn LH, Travis LB, Dolan ME. Clinical and genome-wide analysis of cisplatin-induced tinnitus implicates novel ototoxic mechanisms. *Clinical Cancer Research* 2019 Apr 5. [Epub ahead of print] [PMID30952644](https://www.ncbi.nlm.nih.gov/pubmed/30952644) [DOI](https://doi.org/10.1158/1078-0432.CCR-18-3179)
 
 **Wheeler HE**, **\#Ploch S**, Barbeira AN, Bonazzola R, **\*Andaleon A**, Fotuhi Sishpirani A, Saha A, Battle A, Roy S, Im HK. Imputed gene associations identify replicable trans-acting genes enriched in transcription pathways and complex traits. *Genetic Epidemiology* 2019 Apr 4. [Epub ahead of print] [PMID30950127](https://www.ncbi.nlm.nih.gov/pubmed/30950127) [DOI](https://doi.org/10.1002/gepi.22205) [ReadCube](https://t.co/rizVd2t4v6)
 
