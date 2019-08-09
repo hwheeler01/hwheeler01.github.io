@@ -4,6 +4,16 @@ title: Lab Photos
 permalink: /photos/
 ---
 
+# Lab Lunch Summer 2019
+
+<figure>
+    <center><img src="{{ site.baseurl }}/images/beachcafe2019.jpg"/></center>
+<figcaption>
+<i>Angela Andaleon, Heather Wheeler, Ryan Schubert, Paul Okoro. </i>
+
+</figcaption>
+</figure>
+
 # Holiday Party 2018
 
 <figure>

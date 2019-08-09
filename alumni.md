@@ -4,6 +4,33 @@ title: Lab Alumni
 permalink: /alumni/
 ---
 
+**Angela Andaleon** BS '18 Biology, MS '19 Bioinformatics
+
+- Carbon Fellow
+- 2018 Oustanding Undergradutaion Research Award
+- Loyola Graduate Fellowship
+- Master's Thesis Vote of Distinction
+- Junior Variant Scientist at Tempus
+
+**Rachel Weiss** BS '19, Biology
+
+**John (Jack) Morris** BS '19, Bioinformatics
+
+- Mulcahy Scholar
+- Provost Fellow
+- Consultant at Accenture
+
+**Jennifer Takamura** BS '19, Biology
+
+- Biology Summer Research Fellow
+- Mulcahy Scholar
+- 2019 Great Lakes Bioinformatics Best Poster Award
+- Pharmacy Student at University of Illinois, Chicago
+
+**Mohammed Abdul Sami** BS ’19, Biology
+
+- Mulcahy Scholar (2X)
+
 **Lauren Mogil**, Postdoc
 
 - Bioinformatics Scientist at Tempus
