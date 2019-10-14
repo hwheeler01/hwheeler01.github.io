@@ -10,13 +10,13 @@ permalink: /publications/
 
 ### 2019
 
+Mohammadi P, Castel SE, Cummings BB, Einson J, Sousa C, Hoffman P, Donkervoort S, Jiang Z, Mohassel P, Foley R, **Wheeler HE**, Im HK, Bonnemann CG, MacArthur DG, Lappalainen T. (2019) Genetic regulatory variation in populations informs transcriptome analysis in rare disease. *Science* [Epub ahead of print]. [PMID31601707](https://www.ncbi.nlm.nih.gov/pubmed/31601707) [DOI](https://doi.org/10.1126/science.aay0256)
+
+**\#Fiorica PN** and **Wheeler HE**. (2019) Transcriptome association studies of neuropsychiatric traits in African Americans implicate *PRMT7* in schizophrenia. *PeerJ* 7:e7778. [PMID31579629](https://www.ncbi.nlm.nih.gov/pubmed/?term=31579629) [DOI](https://doi.org/10.7717/peerj.7778)
+
 **#\*Andaleon A**, **Mogil LS**, **Wheeler HE**. Genetically regulated gene expression underlies lipid traits in Hispanic cohorts. (2019) *PLOS ONE*  14(8):e0220827. [PMID31393916](https://www.ncbi.nlm.nih.gov/pubmed/?term=31393916) [DOI](https://doi.org/10.1371/journal.pone.0220827)
 
-**\#Fiorica PN** and **Wheeler HE**. (2019) Transcriptome association studies of neuropsychiatric traits in African Americans implicate *PRMT7* in schizophrenia. *bioRxiv* preprint. [https://doi.org/10.1101/721449](https://doi.org/10.1101/721449)
-
-Trendowski MR, El Charif O, Ratain M, Monahan P, Mu Zepeng, **Wheeler HE**, Dinh PC, Feldman DR, Ardeshir-Rouhani-Fard S, Hamilton R, Vaughn DJ, Fung C, Kollmannsberger C, Mushiroda T, Kubo M, Hannigan R, Strathmann F, Einhorn LH, Fossa SD, Travis LB, Dolan ME. (2019) Clinical and genome-wide analysis of serum platinum levels after cisplatin-based chemotherapy. *Clinical Cancer Research* [Epub ahead of print] [PMID31296530](https://www.ncbi.nlm.nih.gov/pubmed/?term=31296530) [DOI](https://doi.org/10.1158/1078-0432.CCR-19-0113)
-
-Mohammadi P, Castel SE, Cummings BB, Einson J, Sousa C, Hoffman P, Donkervoort S, Mohassel P, Foley R, **Wheeler HE**, Im HK, Bonnemann CG, MacArthur DG, Lappalainen T. (2019) Quantifying genetic regulatory variation in human populations improves transcriptome analysis in rare disease patients. *bioRxiv* preprint. [https://doi.org/10.1101/632794](https://doi.org/10.1101/632794)
+Trendowski MR, El Charif O, Ratain M, Monahan P, Mu Zepeng, **Wheeler HE**, Dinh PC, Feldman DR, Ardeshir-Rouhani-Fard S, Hamilton R, Vaughn DJ, Fung C, Kollmannsberger C, Mushiroda T, Kubo M, Hannigan R, Strathmann F, Einhorn LH, Fossa SD, Travis LB, Dolan ME. (2019) Clinical and genome-wide analysis of serum platinum levels after cisplatin-based chemotherapy. *Clinical Cancer Research* 25(19):5913-5924. [PMID31296530](https://www.ncbi.nlm.nih.gov/pubmed/?term=31296530) [DOI](https://doi.org/10.1158/1078-0432.CCR-19-0113)
 
 **Wheeler HE**, **\#Ploch S**, Barbeira AN, Bonazzola R, **#\*Andaleon A**, Fotuhi Sishpirani A, Saha A, Battle A, Roy S, Im HK. Imputed gene associations identify replicable trans-acting genes enriched in transcription pathways and complex traits. *Genetic Epidemiology* (2019) 43(6):596-608. [PMID30950127](https://www.ncbi.nlm.nih.gov/pubmed/30950127) [DOI](https://doi.org/10.1002/gepi.22205)
 
