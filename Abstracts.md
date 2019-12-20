@@ -8,7 +8,7 @@ permalink: /abstracts/
 ### 2019
 
 <figure>
-    <center><img src="{{ site.baseurl }}/images/paul2019ashg.jpg" width="226px" height="229px"/></center>
+    <center><img src="{{ site.baseurl }}/images/paul2019ashg.jpg" width="296px" height="300px"/></center>
 <figcaption>
         <i>Paul Okoro from the podium after his successful Platform Presentation at <a href="https://www.ashg.org/">ASHG</a> 2019 in Houston.</i>
 </figcaption>
