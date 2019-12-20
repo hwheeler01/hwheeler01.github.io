@@ -8,19 +8,19 @@ permalink: /abstracts/
 ### 2019
 
 <figure>
-    <center><img src="{{ site.baseurl }}/images/paul2019ashg.jpg" width="267px" height="400px"/></center>
+    <center><img src="{{ site.baseurl }}/images/paul2019ashg.jpg" width="226px" height="229px"/></center>
 <figcaption>
-        <i>Paul Okoro presenting at <a href="https://www.ashg.org/">ASHG</a> 2019 in Houston.</i>
+        <i>Paul Okoro from the podium after his successful Platform Presentation at <a href="https://www.ashg.org/">ASHG</a> 2019 in Houston.</i>
 </figcaption>
 </figure>
 
-American Society of Human Genetics 69th Annual Meeting, Houston, TX, October 15 - 19, 2019. **\*Okoro P**, **\*Schubert R**, Luke A, Dugas LR, **Wheeler HE**. Optimizing gene expression predictive performance across global populations. :microphone: Platform Presentation. :tada:
+American Society of Human Genetics 69th Annual Meeting, Houston, TX, October 15 - 19, 2019. **\*Okoro P**, **\*Schubert R**, Luke A, Dugas LR, **Wheeler HE**. Optimizing gene expression predictive performance across global populations. Platform Presentation. 
 
-American Society of Human Genetics 69th Annual Meeting, Houston, TX, October 15 - 19, 2019. **#Fiorica PN**, **#Abdul Sami M**, **#Morris JD**, **Wheeler HE**. Transcriptome-wide association study in African Americans identifies associations with prostate cancer. :microphone: Platform Presentation. :tada:
+American Society of Human Genetics 69th Annual Meeting, Houston, TX, October 15 - 19, 2019. **#Fiorica PN**, **#Abdul Sami M**, **#Morris JD**, **Wheeler HE**. Transcriptome-wide association study in African Americans identifies associations with prostate cancer. Platform Presentation.
 
-American Society of Human Genetics 69th Annual Meeting, Houston, TX, October 15 - 19, 2019. **\*Schubert R**, **\*Okoro P**, Luke A, Dugas LR, **Wheeler HE**. Linkage disequilibrium pruning improves gene expression prediction across diverse populations. Poster
+American Society of Human Genetics 69th Annual Meeting, Houston, TX, October 15 - 19, 2019. **\*Schubert R**, **\*Okoro P**, Luke A, Dugas LR, **Wheeler HE**. Linkage disequilibrium pruning improves gene expression prediction across diverse populations. Poster.
 
-Midwest Population Genetics 6th Annual Meeting, Chicago, IL, August 16 - 17, 2019. **\*Schubert R**, **\*Andaleon A**, **Wheeler HE**. Benchmarking local ancestry inference in populations of two- and three-way admixture. :microphone: Oral Presentation. :tada:
+Midwest Population Genetics 6th Annual Meeting, Chicago, IL, August 16 - 17, 2019. **\*Schubert R**, **\*Andaleon A**, **Wheeler HE**. Benchmarking local ancestry inference in populations of two- and three-way admixture. Oral Presentation.
 
 <figure>
     <center><img src="{{ site.baseurl }}/images/ryan_glbio19.jpg" width="267px" height="400px"/></center>
