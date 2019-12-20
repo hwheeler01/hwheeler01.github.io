@@ -13,7 +13,7 @@ permalink: /people/
 
 
 <figure>
-    <a href="../images/hew.jpg">
+    <a href="../images/hew2.jpg">
 	<img src="{{ site.baseurl }}/images/hew2.jpg" width="150px" height="150px" align="left"/>
     </a>
 <figcaption>
