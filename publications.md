@@ -10,7 +10,7 @@ permalink: /publications/
 
 ### 2019
 
-Mohammadi P, Castel SE, Cummings BB, Einson J, Sousa C, Hoffman P, Donkervoort S, Jiang Z, Mohassel P, Foley R, **Wheeler HE**, Im HK, Bonnemann CG, MacArthur DG, Lappalainen T. (2019) Genetic regulatory variation in populations informs transcriptome analysis in rare disease. *Science* [Epub ahead of print]. [PMID31601707](https://www.ncbi.nlm.nih.gov/pubmed/31601707) [DOI](https://doi.org/10.1126/science.aay0256)
+Mohammadi P, Castel SE, Cummings BB, Einson J, Sousa C, Hoffman P, Donkervoort S, Jiang Z, Mohassel P, Foley R, **Wheeler HE**, Im HK, Bonnemann CG, MacArthur DG, Lappalainen T. (2019) Genetic regulatory variation in populations informs transcriptome analysis in rare disease. *Science* 366(6463):351-356. [PMID31601707](https://www.ncbi.nlm.nih.gov/pubmed/31601707) [DOI](https://doi.org/10.1126/science.aay0256)
 
 **\#Fiorica PN** and **Wheeler HE**. (2019) Transcriptome association studies of neuropsychiatric traits in African Americans implicate *PRMT7* in schizophrenia. *PeerJ* 7:e7778. [PMID31579629](https://www.ncbi.nlm.nih.gov/pubmed/?term=31579629) [DOI](https://doi.org/10.7717/peerj.7778)
 
