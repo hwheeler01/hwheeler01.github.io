@@ -75,6 +75,18 @@ Elyse is a thesis-track student in the BS/MS Bioinformatics program. She is a Mu
 </figure>
 <br>
 
+**Isabelle Gregga, Undergraduate Student**
+
+<figure>
+    <a href="../images/isabelle.jpg">
+        <img src="{{ site.baseurl }}/images/isabelle.jpg" width="150px" height="150px" align="left"/>
+    </a>
+<figcaption>
+Isabelle is a sophomore Biology major and French minor in the Interdisciplinary Honors Program.  Her fascination with genetics started with science fiction--namely X-Men and Jurassic Park--and only strengthened in high school biology.  After college, she plans on continuing to medical school to eventually practice as a clinical geneticist.  In her spare time, she enjoys baking, writing, sketching, and FaceTiming her little sister.
+</figcaption>
+</figure>
+<br>
+
 
 **Ashley Mulford, Undergraduate Student**
 
