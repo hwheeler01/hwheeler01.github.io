@@ -37,11 +37,12 @@ We have developed a novel systems approach to complex trait prediction, which le
 
 
 ## Funding and Collaborations
-**NIH R15 HG009569** 05/01/17 – 04/30/20
+**NIH R15 HG009569** 05/01/17 – 04/30/23
 
 *Predicting Gene Regulation Across Populations to Understand Mechanisms Underlying Complex Traits*
 
-Our project will lead to a better understanding of the effect and impact of genetic variation on gene expression and complex traits across populations, which has the potential to improve the implementation of precision medicine among diverse populations and reduce health disparities.
+
+Our project will lead to a better understanding of the effect and impact of genetic variation on gene expression and complex traits across populations, which has the potential to improve the implementation of precision medicine among diverse populations and reduce health disparities.
 
 Role: PI
 <br>
@@ -53,17 +54,27 @@ Role: PI
 
 Our project will integrate DNA and RNA data with additional phenotype information (obesity, CVD risk) in an African-origin cohort to better understand biological mechanisms contributing to these comorbidities.
 
-Role: Co-PI with [Lara Dugas](https://ssom.luc.edu/public_health_sciences/faculty-staff/laradugas/)
+Role: Co-PI with [Lara Dugas](https://scholar.google.com/citations?user=wdgUaNwAAAAJ&hl=en)
 <br>
 <br>
 <br>
 **NIH R01 MH107666** 08/21/15 – 06/30/18
-*Predicted Gene Expression: High Power, Mechanism, and Direction of Effect*The goal of this project is to develop and apply methods that fully harness gene regulation within complex psychiatric trait association and prediction studies. Role: Co-investigator (PI: <a href="https://imlab.uchicago.edu/" target="_blank">Hae Kyung Im</a>)
+
+*Predicted Gene Expression: High Power, Mechanism, and Direction of Effect*
+
+The goal of this project is to develop and apply methods that fully harness gene regulation within complex psychiatric trait association and prediction studies. 
+
+Role: Co-investigator (PI: <a href="http://hakyimlab.org/" target="_blank">Hae Kyung Im</a>)
 <br>
 <br>
 <br>
 **NIH R01 CA157823** 09/25/12 – 07/31/17
-  *Genetic Susceptibility and Biomarkers of Platinum-Related Toxicities*The goal of this project is to understand the biologic/genetic basis of acute/late chemotherapy-related toxicity in testicular cancer patients treated with cisplatin.Role: Co-investigator (PI: <a href="http://news.medicine.iu.edu/releases/2015/08/Lois-Travis.shtml" target="_blank">Lois Travis</a>)
+  
+*Genetic Susceptibility and Biomarkers of Platinum-Related Toxicities*
+
+The goal of this project is to understand the biologic/genetic basis of acute/late chemotherapy-related toxicity in testicular cancer patients treated with cisplatin.
+
+Role: Co-investigator (PI: <a href="https://cancer.iu.edu/research-trials/member-bio.shtml?id=12422&name=lois-travis" target="_blank">Lois Travis</a>)
 <br>
 <br>
 <br>
