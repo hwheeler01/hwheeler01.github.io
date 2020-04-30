@@ -8,6 +8,10 @@ permalink: /publications/
 
 **Wheeler Lab Member** &emsp; &emsp; **\*Masters Student** &emsp; &emsp; **\#Undergraduate**
 
+### 2020
+
+Barbeira AN, Liang Y, Bonazzola R, Wang G, **Wheeler HE**, Melia OJ, Aguet F, GTEx Consoritum, Ardlie KG, Wen X, Im HK. (2020) Fine-mapping and QTL tissue-sharing information improve causal gene identification and transcriptome prediction performance. *BioRxiv* preprint. [DOI](https://doi.org/10.1101/2020.03.19.997213)
+
 ### 2019
 
 Mohammadi P, Castel SE, Cummings BB, Einson J, Sousa C, Hoffman P, Donkervoort S, Jiang Z, Mohassel P, Foley R, **Wheeler HE**, Im HK, Bonnemann CG, MacArthur DG, Lappalainen T. (2019) Genetic regulatory variation in populations informs transcriptome analysis in rare disease. *Science* 366(6463):351-356. [PMID31601707](https://www.ncbi.nlm.nih.gov/pubmed/31601707) [DOI](https://doi.org/10.1126/science.aay0256)

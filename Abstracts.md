@@ -7,6 +7,10 @@ permalink: /abstracts/
 
 ### 2019
 
+ISCB-Africa ASBCB Conference on Bioinformatics, International Society for Computational Biology and the African Society for Bioinformatics and Computational Biology, Kumasi, Ghana, November 11 - 15, 2019. **\*Okoro P**, **\*Schubert R**, Luke A, Dugas LR, **Wheeler HE**. Machine learning performance for gene expression prediction across global populations. Oral Presentation.
+
+World Congress of Psychiatric Genetics, Los Angeles, CA, October 26 - 31, 2019. **\#Fiorica PN**, **Wheeler HE**. Gene-based association study of schizophrenia and bipolar disorder in African Americans. Poster.
+
 <figure>
     <center><img src="{{ site.baseurl }}/images/paul2019ashg.jpg" width="296px" height="300px"/></center>
 <figcaption>
@@ -31,7 +35,7 @@ Midwest Population Genetics 6th Annual Meeting, Chicago, IL, August 16 - 17, 201
 
 Great Lakes Bioinformatics Conference, Madison, WI, May 19-22,  "The genetic architecture of expression and splicing in African ancestry populations" **Schubert R**, **\*Okoro P**, Luke A, Dugas L, **Wheeler HE**. Poster.
 
-Great Lakes Bioinformatics Conference, Madison, WI, May 19-22,  "Gene Expression Prediction: A Machine Learning Approach" **\*Okoro P**, **Schubert R**, Luke A, Dugas L, **Wheeler HE**. Talk.
+Great Lakes Bioinformatics Conference, Madison, WI, May 19-22,  "Gene Expression Prediction: A Machine Learning Approach" **\*Okoro P**, **Schubert R**, Luke A, Dugas L, **Wheeler HE**. Oral Presentation.
 
 <figure>
     <center><img src="{{ site.baseurl }}/images/jenny_elyse_glbio19.jpg" width="400px" height="300px"/></center>
@@ -42,9 +46,9 @@ Great Lakes Bioinformatics Conference, Madison, WI, May 19-22,  "Gene Expression
 
 Great Lakes Bioinformatics Conference, Madison, WI, May 19-22,  "Optimizing Gene Predictors in Diverse Populations" **\#Takamura J**, **\#Geoffroy E**, **Wheeler HE**. Poster.
 
-Great Lakes Bioinformatics Conference, Madison, WI, May 19-22,  "Genetically regulated gene expression underlies lipid traits in Hispanic cohorts" **\*Andaleon A**, **Mogil LS**, **Wheeler HE**. Talk.
+Great Lakes Bioinformatics Conference, Madison, WI, May 19-22,  "Genetically regulated gene expression underlies lipid traits in Hispanic cohorts" **\*Andaleon A**, **Mogil LS**, **Wheeler HE**. Oral Presentation.
 
-Great Lakes Bioinformatics Conference, Madison, WI, May 19-22,  "Imputed gene associations identify replicable trans-acting genes enriched in immune traits" **Wheeler, HE**. Talk.
+Great Lakes Bioinformatics Conference, Madison, WI, May 19-22,  "Imputed gene associations identify replicable trans-acting genes enriched in immune traits" **Wheeler, HE**. Oral Presentation.
 
 
 ### 2018
