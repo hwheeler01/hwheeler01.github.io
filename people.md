@@ -35,19 +35,6 @@ permalink: /people/
 <br>
 
 
-**Paul Okoro, Graduate Student**
-<figure>
-    <a href="../images/paul.jpg">
-        <img src="{{ site.baseurl }}/images/paul.jpg" width="150px" height="150px" align="left"/>
-    </a>
-<figcaption>
-Paul is a thesis-track master's student in the <a href="https://luc.edu/bioinformatics/msinbioinformatics/">MS Bioinformatics</a> program.
-He studied Cell Biology and Genetics as an undergraduate at the University of Lagos where he developed a strong passion for human, population and statistical genetics.
-His interest lies in genome sequence data analysis. After the MS, he plans to continue on to a PhD in Computational Biology, and in the long term, he would love to take up a
-research position in a biotech company or startup. In his free time, he likes to either watch European football (soccer) games, hangout with friends, cook, see a movie, listen to music, and/or sleep.
-</figcaption>
-</figure>  
-<br>
 
 
 
@@ -63,7 +50,7 @@ Peter is a senior Biochemistry and Biology major in the Interdisciplinary Honors
 </figure>
 <br>
 
-**Elyse Geoffroy, Undergraduate Student**
+**Elyse Geoffroy, Graduate Student**
 
 <figure>
     <a href="../images/elyse.jpg">
@@ -88,16 +75,40 @@ Isabelle is a sophomore Biology major and French minor in the Interdisciplinary 
 <br>
 
 
-**Ashley Mulford, Undergraduate Student**
+**Ashley Mulford, Graduate Student**
 
 <figure>
-    <a href="../images/ashley.png">
-        <img src="{{ site.baseurl }}/images/ashley.png" width="150px" height="150px" align="left"/>
+    <a href="../images/ashley.jpg">
+        <img src="{{ site.baseurl }}/images/ashley.jpg" width="150px" height="150px" align="left"/>
     </a>
 <figcaption>
-Ashley is a thesis-track student in the BS/MS Bioinformatics program. She is a Biology Summer Research Fellow and Mulcahy Scholar. She is interested in working in industry after graduation, most likely for a biotech company. Outside of working in the lab, Ashley enjoys spending time with friends and family, listening to alternative music, and exploring Chicago.
+Ashley is a thesis-track student in the BS/MS Bioinformatics program. She is a Biology Summer Research Fellow and Mulcahy Scholar. She is interested in working in industry after graduation, most likely in pharmacogenomics or biotechnology. Outside of working in the lab, Ashley enjoys spending time with friends and family, listening to alternative music, painting, and exploring Chicago.
 </figcaption>
 </figure>
 <br>
 
+**Chris Nguyen, Undergraduate Student**
 
+<figure>
+    <a href="../images/chris.jpg">
+        <img src="{{ site.baseurl }}/images/chris.jpg" width="150px" height="150px" align="left"/>
+    </a>
+<figcaption>
+Chris is a junior Biophysics major. He is a Mulcahy Scholar. After college, he plans on furthering his education in graduate school to hopefully find a career in research. Outside the lab, he enjoys listening to music, cooking with friends, and watching baking shows. Before leaving Loyola, he hopes to complete his quest of scouring the city for the ultimate chocolate croissant.
+</figcaption>
+</figure>
+<br>
+
+**Paul Okoro, Graduate Student**
+<figure>
+    <a href="../images/paul.jpg">
+        <img src="{{ site.baseurl }}/images/paul.jpg" width="150px" height="150px" align="left"/>
+    </a>
+<figcaption>
+Paul is a thesis-track master's student in the <a href="https://luc.edu/bioinformatics/msinbioinformatics/">MS Bioinformatics</a> program.
+He studied Cell Biology and Genetics as an undergraduate at the University of Lagos where he developed a strong passion for human, population and statistical genetics.
+His interest lies in genome sequence data analysis. After the MS, he plans to continue on to a PhD in Computational Biology, and in the long term, he would love to take up a
+research position in a biotech company or startup. In his free time, he likes to either watch European football (soccer) games, hangout with friends, cook, see a movie, listen to music, and/or sleep.
+</figcaption>
+</figure>  
+<br>
