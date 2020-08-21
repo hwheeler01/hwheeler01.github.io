@@ -10,6 +10,8 @@ permalink: /publications/
 
 ### 2020
 
+**\#Fiorica PN**, **\*Schubert R**, **\#Morris JD**, **\#Abdul Sami M**, **Wheeler HE**. (2020) Multi-ethnic transcriptome-wide association study of prostate cancer. *BioRxiv* preprint. [DOI](https://doi.org/10.1101/2020.07.02.184283)
+
 Barbeira AN, Liang Y, Bonazzola R, Wang G, **Wheeler HE**, Melia OJ, Aguet F, GTEx Consoritum, Ardlie KG, Wen X, Im HK. (2020) Fine-mapping and QTL tissue-sharing information improve causal gene identification and transcriptome prediction performance. *BioRxiv* preprint. [DOI](https://doi.org/10.1101/2020.03.19.997213)
 
 ### 2019
@@ -18,11 +20,11 @@ Mohammadi P, Castel SE, Cummings BB, Einson J, Sousa C, Hoffman P, Donkervoort S
 
 **\#Fiorica PN** and **Wheeler HE**. (2019) Transcriptome association studies of neuropsychiatric traits in African Americans implicate *PRMT7* in schizophrenia. *PeerJ* 7:e7778. [PMID31579629](https://www.ncbi.nlm.nih.gov/pubmed/?term=31579629) [DOI](https://doi.org/10.7717/peerj.7778)
 
-**#\*Andaleon A**, **Mogil LS**, **Wheeler HE**. Genetically regulated gene expression underlies lipid traits in Hispanic cohorts. (2019) *PLOS ONE*  14(8):e0220827. [PMID31393916](https://www.ncbi.nlm.nih.gov/pubmed/?term=31393916) [DOI](https://doi.org/10.1371/journal.pone.0220827)
-
 Trendowski MR, El Charif O, Ratain M, Monahan P, Mu Zepeng, **Wheeler HE**, Dinh PC, Feldman DR, Ardeshir-Rouhani-Fard S, Hamilton R, Vaughn DJ, Fung C, Kollmannsberger C, Mushiroda T, Kubo M, Hannigan R, Strathmann F, Einhorn LH, Fossa SD, Travis LB, Dolan ME. (2019) Clinical and genome-wide analysis of serum platinum levels after cisplatin-based chemotherapy. *Clinical Cancer Research* 25(19):5913-5924. [PMID31296530](https://www.ncbi.nlm.nih.gov/pubmed/?term=31296530) [DOI](https://doi.org/10.1158/1078-0432.CCR-19-0113)
 
 **Wheeler HE**, **\#Ploch S**, Barbeira AN, Bonazzola R, **#\*Andaleon A**, Fotuhi Sishpirani A, Saha A, Battle A, Roy S, Im HK. Imputed gene associations identify replicable trans-acting genes enriched in transcription pathways and complex traits. *Genetic Epidemiology* (2019) 43(6):596-608. [PMID30950127](https://www.ncbi.nlm.nih.gov/pubmed/30950127) [DOI](https://doi.org/10.1002/gepi.22205)
+
+**#\*Andaleon A**, **Mogil LS**, **Wheeler HE**. Genetically regulated gene expression underlies lipid traits in Hispanic cohorts. (2019) *PLOS ONE*  14(8):e0220827. [PMID31393916](https://www.ncbi.nlm.nih.gov/pubmed/?term=31393916) [DOI](https://doi.org/10.1371/journal.pone.0220827)
 
 El Charif O, Mapes B, Trendowski MR, **Wheeler HE**, Wing C, Dinh PC, Frisina RD, Feldman DR, Hamilton R, Vaughn DJ, Fung C, Kollmannsberger C, Mushiroda T, Kubo M, Gamazon ER, Cox N, Huddart R, Ardeshir-Rouhani-Fard S, Monahan P, Fossa SD, Einhorn LH, Travis LB, Dolan ME. (2019) Clinical and genome-wide analysis of cisplatin-induced tinnitus implicates novel ototoxic mechanisms. *Clinical Cancer Research* 25(13):4104-4116. [PMID30952644](https://www.ncbi.nlm.nih.gov/pubmed/30952644) [DOI](https://doi.org/10.1158/1078-0432.CCR-18-3179)
 
