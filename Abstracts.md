@@ -5,6 +5,17 @@ permalink: /abstracts/
 ---
 **Wheeler Lab Member** &emsp; &emsp; **\*Masters Student** &emsp; &emsp; **\#Undergraduate**
 
+### 2020
+American Society of Human Genetics 70th Annual Meeting, Virtual, October 27 - 30, 2020. **\*Schubert R**, **#\*Mulford A**, Thornton TA, Gignoux CR, Lange LA, Lange E, Lappalainen T, Gerszten R, Rich SS, Rotter JI, Cho M, Manichaikul AW, Im, HK, **Wheeler HE**, on behalf of the NHLBI TOPMed Consortium. Multi-ethnic fine mapping optimizes proteome association studies. Platform Presentation.
+
+American Society of Human Genetics 70th Annual Meeting, Virtual, October 27 - 30, 2020. **#\*Mulford A**, Wing C, Dolan ME, **Wheeler HE**. *STARD5* Expression is associated with etoposide cytotoxicity in diverse populations. Poster.
+
+American Society of Human Genetics 70th Annual Meeting, Virtual, October 27 - 30, 2020. **#\*Geoffroy E**, **#Gregga I**, **Wheeler HE**. Population matched transcriptome prediction increases discovery and replication rate in TWAS. Reviewers' Choice (top 10%) Poster.
+
+Intelligent Systems for Molecular Biology, Virtual, July 13 - 16, 2020. **#\*Mulford A**, Wing C, Dolan ME, **Wheeler HE**. Transcriptome-wide association studies identify novel genes associated with chemotherapy toxicity in human lymphoblastoid cell lines from diverse populations. Poster.
+
+Intelligent Systems for Molecular Biology, Virtual, July 13 - 16, 2020. **#\*Geoffroy E**, **#Gregga I**, **#Takamura J**, **Wheeler HE**. Inferring gene-trait associations with diverse population gene expression prediction models. Poster.
+
 ### 2019
 
 ISCB-Africa ASBCB Conference on Bioinformatics, International Society for Computational Biology and the African Society for Bioinformatics and Computational Biology, Kumasi, Ghana, November 11 - 15, 2019. **\*Okoro P**, **\*Schubert R**, Luke A, Dugas LR, **Wheeler HE**. Machine learning performance for gene expression prediction across global populations. Oral Presentation.
