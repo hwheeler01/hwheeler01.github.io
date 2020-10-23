@@ -36,19 +36,18 @@ permalink: /people/
 
 
 
-
-
-**Peter Fiorica, Undergraduate Student**
-
+**Daniel Araújo, Graduate Student**
 <figure>
-    <a href="../images/FioricaHewlabPortrait.jpg">
-        <img src="{{ site.baseurl }}/images/FioricaHewlabPortrait.jpg" width="150px" height="150px" align="left"/>
+    <a href="../images/daniel.jpg">
+        <img src="{{ site.baseurl }}/images/daniel.jpg" width="150px" height="150px" align="left"/>
     </a>
 <figcaption>
-Peter is a senior Biochemistry and Biology major in the Interdisciplinary Honors Program.  He is also a <a href="http://www.luc.edu/sustainability/research/studentfellowships/carbon_fellowships/index.shtml">Carbon Fellow</a> and <a href="http://www.luc.edu/cas/academics_mulcahyscholarship.shtml">Mulcahy Scholar</a>. After college, he plans to continue his academic career in graduate school. His love of genetics and molecular biology stems from dinner table conversations with his parents about medicine and the background behind diseases.  As he has grown older, he has developed a passion for human genetics because of the seemingly endless mysteries that the human genome holds.  In his free time, he can be found cheering for his local Buffalo sports teams, eating chicken wings, or drinking from his Linus Pauling coffee mug.
+Daniel is a thesis-track student in the MS Bioinformatics program. During his years as a Biology undergraduate student at the Federal University of Minas Gerais, Brazil, he was fascinated with genetics and molecular biology. After the MS, he plans on applying for a PhD program in Human Genetics and hopefully pursue a career in research. In his free time, Daniel enjoys reading suspense books, hanging out with his friends, and doing skincare routines.
 </figcaption>
-</figure>
+</figure>  
 <br>
+
+
 
 **Elyse Geoffroy, Graduate Student**
 
@@ -69,7 +68,7 @@ Elyse is a thesis-track student in the BS/MS Bioinformatics program. She is a Mu
         <img src="{{ site.baseurl }}/images/isabelle.jpg" width="150px" height="150px" align="left"/>
     </a>
 <figcaption>
-Isabelle is a sophomore Biology major and French minor in the Interdisciplinary Honors Program.  Her fascination with genetics started with science fiction--namely X-Men and Jurassic Park--and only strengthened in high school biology.  After college, she plans on continuing to medical school to eventually practice as a clinical geneticist.  In her spare time, she enjoys baking, writing, sketching, and FaceTiming her little sister.
+Isabelle is a junior Biology major and French minor in the Interdisciplinary Honors Program and a Mulcahy Scholar.  Her fascination with genetics started with science fiction--namely X-Men and Jurassic Park--and only strengthened in high school biology.  After college, she plans on continuing to medical school to eventually practice as a clinical geneticist.  In her spare time, she enjoys baking, writing, sketching, and FaceTiming her little sister.
 </figcaption>
 </figure>
 <br>
@@ -99,16 +98,28 @@ Chris is a junior Biophysics major. He is a Mulcahy Scholar. After college, he p
 </figure>
 <br>
 
-**Paul Okoro, Graduate Student**
+**Rhea Prag, Undergraduate Student**
+
 <figure>
-    <a href="../images/paul.jpg">
-        <img src="{{ site.baseurl }}/images/paul.jpg" width="150px" height="150px" align="left"/>
+    <a href="../images/rhea.jpg">
+        <img src="{{ site.baseurl }}/images/rhea.jpg" width="150px" height="150px" align="left"/>
     </a>
 <figcaption>
-Paul is a thesis-track master's student in the <a href="https://luc.edu/bioinformatics/msinbioinformatics/">MS Bioinformatics</a> program.
-He studied Cell Biology and Genetics as an undergraduate at the University of Lagos where he developed a strong passion for human, population and statistical genetics.
-His interest lies in genome sequence data analysis. After the MS, he plans to continue on to a PhD in Computational Biology, and in the long term, he would love to take up a
-research position in a biotech company or startup. In his free time, he likes to either watch European football (soccer) games, hangout with friends, cook, see a movie, listen to music, and/or sleep.
+Rhea is a junior Bioinformatics major and Bioethics minor in the Interdisciplinary Honors Program. Her interest in genetics came from conversations with her family about genetically-related diseases and conditions. After college, she plans on continuing on to medical school where she hopes to practice emergency/trauma medicine. In her spare time, she enjoys spending time with her friends, swimming, and exploring different hiking trails.
 </figcaption>
-</figure>  
+</figure>
 <br>
+
+**Henry Wittich, Undergraduate Student**
+
+<figure>
+    <a href="../images/henry.jpg">
+        <img src="{{ site.baseurl }}/images/henry.jpg" width="150px" height="150px" align="left"/>
+    </a>
+<figcaption>
+Henry is a junior Bioinformatics major in the Interdisciplinary Honors Program. He is a Provost Fellow and Mulcahy Scholar. He first developed an interest in bioinformatics during a high school genetics course, and his passion for the field has only grown since. After college, he is planning on attending graduate school and continuing to conduct research. Outside of the lab, he enjoys watching reality TV shows like the Great British Baking show, playing games with friends, and listening to experimental pop music (his current favorite artist is Caroline Polachek).
+</figcaption>
+</figure>
+<br>
+
+

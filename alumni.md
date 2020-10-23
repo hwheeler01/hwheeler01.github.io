@@ -4,6 +4,19 @@ title: Lab Alumni
 permalink: /alumni/
 ---
 
+**Paul Okoro** MS '20, Bioinformatics
+
+- Loyola Graduate Fellowship
+- Data Scientist at Harvard Medical School
+
+
+**Peter Fiorica** BS '20, Biochemistry and Biology
+
+- 2020 Oustanding Undergradutaion Research Award
+- Carbon Fellow
+- Mulcahy Scholar
+- Data Scientist at University of Chicago
+
 **Angela Andaleon** BS '18 Biology, MS '19 Bioinformatics
 
 - Carbon Fellow
@@ -30,10 +43,12 @@ permalink: /alumni/
 **Mohammed Abdul Sami** BS ’19, Biology
 
 - Mulcahy Scholar (2X)
+- Medical Student at Rush University
 
 **Lauren Mogil**, Postdoc
 
 - Bioinformatics Scientist at Tempus
+- Senior Bioinformatician at University of Chicago Center for Translational Data Science
 
 **Sally Ploch** BS '17, Biology
 
