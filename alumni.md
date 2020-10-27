@@ -12,7 +12,7 @@ permalink: /alumni/
 
 **Peter Fiorica** BS '20, Biochemistry and Biology
 
-- 2020 Oustanding Undergradutaion Research Award
+- 2020 Outstanding Undergraduate Research Award
 - Carbon Fellow
 - Mulcahy Scholar
 - Data Scientist at University of Chicago
@@ -20,7 +20,7 @@ permalink: /alumni/
 **Angela Andaleon** BS '18 Biology, MS '19 Bioinformatics
 
 - Carbon Fellow
-- 2018 Oustanding Undergradutaion Research Award
+- 2018 Outstanding Undergraduate Research Award
 - Loyola Graduate Fellowship
 - Master's Thesis Vote of Distinction
 - Junior Variant Scientist at Tempus
