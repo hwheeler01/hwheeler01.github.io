@@ -8,14 +8,20 @@ permalink: /publications/
 
 **Wheeler Lab Member** &emsp; &emsp; **\*Masters Student** &emsp; &emsp; **\#Undergraduate**
 
+### 2021
+**\*Okoro PC**, **\*Schubert R**, Guo X, Johnson WC, Rotter JI, Hoeschele I, Liu Y, Im HK, Luke A, Dugas LR, **Wheeler HE**. (2021) Transcriptome prediction performance across machine learning models and diverse ancestries. *HGG Advances* Online ahead of print. [DOI](https://doi.org/10.1016/j.xhgg.2020.100019)
+
 ### 2020
+**#\*Geoffroy E**, **\#Gregga I**, **Wheeler HE**. (2020) Population-matched transcriptome prediction increases TWAS discovery and replicaiton rate. *iScience* 23(12):101850. [PMC7721644](http://www.ncbi.nlm.nih.gov/pmc/articles/pmc7721644/) [DOI](https://doi.org/10.1016/j.isci.2020.101850)
+
+
 **\*Schubert R**, **#\*Andaleon A**, **Wheeler HE**. (2020) Comparing local ancestry inference models in populations of two- and three-way admixture. *PeerJ* 8:e10090. [PMC7537619](http://www.ncbi.nlm.nih.gov/pmc/articles/pmc7537619/) [DOI](https://doi.org/10.7717/peerj.10090)
 
-Trendowski MR, **Wheeler HE**, El Charif O, Feldman DR, Hamilton R, Vaughn DJ, Fung C, Kollmannsberger C, Einhorn LH, Travis LB, Dolan ME. (2020) Clinical and genome-wide analysis of multiple severe cisplatin-induced neurotoxicities in adult-onset cancer survivors. *Clinical Cancer Research* Online ahead of print. [DOI](https://doi.org/10.1158/1078-0432.ccr-20-2682)
+Trendowski MR, **Wheeler HE**, El Charif O, Feldman DR, Hamilton R, Vaughn DJ, Fung C, Kollmannsberger C, Einhorn LH, Travis LB, Dolan ME. (2020) Clinical and genome-wide analysis of multiple severe cisplatin-induced neurotoxicities in adult-onset cancer survivors. *Clinical Cancer Research* 26(24):6550-6558. [PMC7744329](http://www.ncbi.nlm.nih.gov/pmc/articles/pmc7744329) [DOI](https://doi.org/10.1158/1078-0432.ccr-20-2682)
 
 **\#Fiorica PN**, **\*Schubert R**, **\#Morris JD**, **\#Abdul Sami M**, **Wheeler HE**. (2020) Multi-ethnic transcriptome-wide association study of prostate cancer. *PLOS ONE* 15(9):e0236209. [PMC7521738](http://www.ncbi.nlm.nih.gov/pmc/articles/pmc7521738/) [DOI](https://doi.org/10.1371/journal.pone.0236209)
 
-Barbeira AN, Liang Y, Bonazzola R, Wang G, **Wheeler HE**, Melia OJ, Aguet F, GTEx Consoritum, Ardlie KG, Wen X, Im HK. (2020) Fine-mapping and QTL tissue-sharing information improves the reliability of causal gene identification. *Genetic Epidemiology* Online ahead of print. [DOI](https://doi.org/10.1002/gepi.22346)
+Barbeira AN, Liang Y, Bonazzola R, Wang G, **Wheeler HE**, Melia OJ, Aguet F, GTEx Consoritum, Ardlie KG, Wen X, Im HK. (2020) Fine-mapping and QTL tissue-sharing information improves the reliability of causal gene identification. *Genetic Epidemiology* 44(8):854-867. [PMC7693040](http://www.ncbi.nlm.nih.gov/pmc/articles/pmc7693040/) [DOI](https://doi.org/10.1002/gepi.22346)
 
 ### 2019
 
@@ -83,15 +89,6 @@ Komatsu M, <b>Wheeler HE</b>, Chung S, Low SK, Wing C, Delaney SM, Gorsic LK, Ta
 Diouf B, Crews KR, Lew G, Pei D, Cheng C, Bao J, Zheng JJ, Yang W, Fan Y, <b>Wheeler HE</b>, Wing C, Delaney SM, Komatsu M, Paugh SW, McCorkle JR, Lu X, Winick NJ, Carroll WL, Loh ML, Hunger SP, Devidas M, Pui CH, Dolan ME, Relling MV, Evans WE. (2015) Association of an inherited genetic variant with vincristine-related peripheral neuropathy in children with acute lymphoblastic leukemia. <i>JAMA</i> 313(8):815-823. <a href="http://www.ncbi.nlm.nih.gov/pubmed/?term=PMC4377066">PMC4377066</a>
 
 <b>Wheeler HE</b>, Wing C, Delaney SM, Komatsu M, Dolan ME. (2015) Modeling chemotherapeutic neurotoxicity with human induced pluripotent stem cell-derived neuronal cells. <i>PLOS One</i> 10(2):e0118020. <a href="http://www.ncbi.nlm.nih.gov/pubmed/?term=PMC4331516">PMC4331516</a>
-
-### 2014
-
-Thompson P, <b>Wheeler HE</b>, Delaney SM, Lorier R, Broeckel U, Devidas M, Reaman GH, Scorsone K, Sung L, Dolan ME, Berg SL. (2014) Pharmacokinetics and pharmacogenomics of daunorubicin in children: a report from the Children's Oncology Group. <i>Cancer Chemotherapy and Pharmacology</i>, 74(4):831-8. <a href="http://www.ncbi.nlm.nih.gov/pubmed/?term=PMC4282931">PMC4282931</a>
-
-<b>Wheeler HE</b>, Aquino-Michaels K, Gamazon ER, Trubetskoy VV, Dolan ME, Huang RS, Cox NJ, Im HK (2014) Poly-omic prediction of complex traits: OmicKriging. <i>Genetic Epidemiology</i>, 38(5):402-15. <a href="http://www.ncbi.nlm.nih.gov/pubmed/?term=PMC4072756">PMC4072756</a> ***International Genetic Epidemiology  Society Robert C. Elston Best Paper <a href="https://s3.amazonaws.com/imlab-open/Webdata/Images/2015/best-paper-omickriging.JPG">Award</a> 2014***
-
-<b>Wheeler HE</b>, González-Neira A, Pita G, de la Torre-Montero JC, Alonso R, Lopez-Fernandez LA, Alba E, Martín M, Dolan ME (2014) Identification of genetic variants associated with capecitabine-induced hand-foot syndrome through integration of patient and cell line genomic analyses. <i>Pharmacogenetics and Genomics</i> 24(5):231-7. <a href="http://www.ncbi.nlm.nih.gov/pubmed/?term=PMC4076106">PMC4076106</a>
-
 
 
 

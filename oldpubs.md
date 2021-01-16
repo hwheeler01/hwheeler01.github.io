@@ -3,6 +3,15 @@ layout: page
 title: Older publications
 permalink: /oldpubs/
 ---
+### 2014
+
+Thompson P, <b>Wheeler HE</b>, Delaney SM, Lorier R, Broeckel U, Devidas M, Reaman GH, Scorsone K, Sung L, Dolan ME, Berg SL. (2014) Pharmacokinetics and pharmacogenomics of daunorubicin in children: a report from the Children's Oncology Group. <i>Cancer Chemotherapy and Pharmacology</i>, 74(4):831-8. <a href="http://www.ncbi.nlm.nih.gov/pubmed/?term=PMC4282931">PMC4282931</a>
+
+<b>Wheeler HE</b>, Aquino-Michaels K, Gamazon ER, Trubetskoy VV, Dolan ME, Huang RS, Cox NJ, Im HK (2014) Poly-omic prediction of complex traits: OmicKriging. <i>Genetic Epidemiology</i>, 38(5):402-15. <a href="http://www.ncbi.nlm.nih.gov/pubmed/?term=PMC4072756">PMC4072756</a> ***International Genetic Epidemiology  Society Robert C. Elston Best Paper <a href="https://s3.amazonaws.com/imlab-open/Webdata/Images/2015/best-paper-omickriging.JPG">Award</a> 2014***
+
+<b>Wheeler HE</b>, González-Neira A, Pita G, de la Torre-Montero JC, Alonso R, Lopez-Fernandez LA, Alba E, Martín M, Dolan ME (2014) Identification of genetic variants associated with capecitabine-induced hand-foot syndrome through integration of patient and cell line genomic analyses. <i>Pharmacogenetics and Genomics</i> 24(5):231-7. <a href="http://www.ncbi.nlm.nih.gov/pubmed/?term=PMC4076106">PMC4076106</a>
+
+
 ### 2013
 
 Gorsic LK, Stark AL, <b>Wheeler HE</b>, Wong SS, Im HK, Dolan ME (2013) EPS8 inhibition increases cisplatin sensitivity in lung cancer cells. <i>PLOS One</i> 8(12):e82220. <a href="http://www.ncbi.nlm.nih.gov/pubmed/?term=PMC3868552">PMC3868552</a>
