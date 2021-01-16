@@ -58,6 +58,7 @@ permalink: /alumni/
 
 - Biology Summer Research Fellow, Mulcahy Scholar
 - Genetic Counseling Assistant at Moncrief Cancer Institute
+- Genetic Counseling Student at Baylor College of Medicine
 
 **Jon Brenner** MS '17, Computer Science
 

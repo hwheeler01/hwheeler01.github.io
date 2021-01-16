@@ -8,6 +8,14 @@ permalink: /abstracts/
 ### 2020
 American Society of Human Genetics 70th Annual Meeting, Virtual, October 27 - 30, 2020. **\*Schubert R**, **#\*Mulford A**, Thornton TA, Gignoux CR, Lange LA, Lange E, Lappalainen T, Gerszten R, Rich SS, Rotter JI, Cho M, Manichaikul AW, Im, HK, **Wheeler HE**, on behalf of the NHLBI TOPMed Consortium. Multi-ethnic fine mapping optimizes proteome association studies. Platform Presentation.
 
+<figure>
+    <center><img src="{{ site.baseurl }}/images/Fall2020_ryan-closeup.jpg" width="500px" height="190px"/></center>
+<figcaption>
+        <i>Ryan Schubert giving his Platform Presentation at <a href="https://www.ashg.org/">ASHG</a> 2020.</i>
+</figcaption>
+</figure>
+
+
 American Society of Human Genetics 70th Annual Meeting, Virtual, October 27 - 30, 2020. **#\*Mulford A**, Wing C, Dolan ME, **Wheeler HE**. *STARD5* Expression is associated with etoposide cytotoxicity in diverse populations. Poster.
 
 American Society of Human Genetics 70th Annual Meeting, Virtual, October 27 - 30, 2020. **#\*Geoffroy E**, **#Gregga I**, **Wheeler HE**. Population matched transcriptome prediction increases discovery and replication rate in TWAS. Reviewers' Choice (top 10%) Poster.
