@@ -9,6 +9,8 @@ permalink: /publications/
 **Wheeler Lab Member** &emsp; &emsp; **\*Masters Student** &emsp; &emsp; **\#Undergraduate**
 
 ### 2021
+**#\*Mulford AJ**, Wing C, Dolan ME, **Wheeler HE**. (2021) Genetically regulated expression underlies cellular sensitivity to chemotherapy in diverse populations. *Hum Mol Genet* Online ahead of print.  [DOI](https://doi.org/10.1093/hmg/ddab029)
+
 **\*Okoro PC**, **\*Schubert R**, Guo X, Johnson WC, Rotter JI, Hoeschele I, Liu Y, Im HK, Luke A, Dugas LR, **Wheeler HE**. (2021) Transcriptome prediction performance across machine learning models and diverse ancestries. *HGG Advances* Online ahead of print. [DOI](https://doi.org/10.1016/j.xhgg.2020.100019)
 
 ### 2020
