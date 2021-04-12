@@ -14,7 +14,7 @@ permalink: /publications/
 **\*Okoro PC**, **\*Schubert R**, Guo X, Johnson WC, Rotter JI, Hoeschele I, Liu Y, Im HK, Luke A, Dugas LR, **Wheeler HE**. (2021) Transcriptome prediction performance across machine learning models and diverse ancestries. *HGG Advances*, Online ahead of print. [DOI](https://doi.org/10.1016/j.xhgg.2020.100019)
 
 ### 2020
-**#\*Geoffroy E**, **\#Gregga I**, **Wheeler HE**. (2020) Population-matched transcriptome prediction increases TWAS discovery and replicaiton rate. *iScience* 23(12):101850. [PMC7721644](http://www.ncbi.nlm.nih.gov/pmc/articles/pmc7721644/) [DOI](https://doi.org/10.1016/j.isci.2020.101850)
+**#\*Geoffroy E**, **\#Gregga I**, **Wheeler HE**. (2020) Population-matched transcriptome prediction increases TWAS discovery and replication rate. *iScience* 23(12):101850. [PMC7721644](http://www.ncbi.nlm.nih.gov/pmc/articles/pmc7721644/) [DOI](https://doi.org/10.1016/j.isci.2020.101850)
 
 
 **\*Schubert R**, **#\*Andaleon A**, **Wheeler HE**. (2020) Comparing local ancestry inference models in populations of two- and three-way admixture. *PeerJ* 8:e10090. [PMC7537619](http://www.ncbi.nlm.nih.gov/pmc/articles/pmc7537619/) [DOI](https://doi.org/10.7717/peerj.10090)
