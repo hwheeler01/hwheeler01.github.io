@@ -9,9 +9,13 @@ permalink: /publications/
 **Wheeler Lab Member** &emsp; &emsp; **\*Masters Student** &emsp; &emsp; **\#Undergraduate**
 
 ### 2021
-**#\*Mulford AJ**, Wing C, Dolan ME, **Wheeler HE**. (2021) Genetically regulated expression underlies cellular sensitivity to chemotherapy in diverse populations. *Hum Mol Genet*, Online ahead of print.  [DOI](https://doi.org/10.1093/hmg/ddab029)
+ 
+Trendowski MR, Baedke JL, Sapkota Y, Travis LB, Zhang X, El Charif O, **Wheeler HE**, Leisenring WM, Robison LL, Hudson MM, Morton LM, Oeffinger KC, Howell RM, Armstrong GT, Bhatia S, Dolan ME. (2021) Clinical and genetic risk factors for radiation-associated ototoxicity: A report from the Childhood Cancer Survivor Study and the St. Jude Lifetime Cohort. *Cancer* Online ahead of print. [DOI](https://doi.org/10.1002/cncr.33775)
 
-**\*Okoro PC**, **\*Schubert R**, Guo X, Johnson WC, Rotter JI, Hoeschele I, Liu Y, Im HK, Luke A, Dugas LR, **Wheeler HE**. (2021) Transcriptome prediction performance across machine learning models and diverse ancestries. *HGG Advances*, Online ahead of print. [DOI](https://doi.org/10.1016/j.xhgg.2020.100019)
+
+**#\*Mulford AJ**, Wing C, Dolan ME, **Wheeler HE**. (2021) Genetically regulated expression underlies cellular sensitivity to chemotherapy in diverse populations. *Human Molecular Genetics* 30(3-4):305-317. PMC8248963 [DOI](https://doi.org/10.1093/hmg/ddab029)
+
+**\*Okoro PC**, **\*Schubert R**, Guo X, Johnson WC, Rotter JI, Hoeschele I, Liu Y, Im HK, Luke A, Dugas LR, **Wheeler HE**. (2021) Transcriptome prediction performance across machine learning models and diverse ancestries. *HGG Advances* 2(2):100019. [PMC8087249](http://www.ncbi.nlm.nih.gov/pmc/articles/pmc8087249/) [DOI](https://doi.org/10.1016/j.xhgg.2020.100019)
 
 ### 2020
 **#\*Geoffroy E**, **\#Gregga I**, **Wheeler HE**. (2020) Population-matched transcriptome prediction increases TWAS discovery and replication rate. *iScience* 23(12):101850. [PMC7721644](http://www.ncbi.nlm.nih.gov/pmc/articles/pmc7721644/) [DOI](https://doi.org/10.1016/j.isci.2020.101850)

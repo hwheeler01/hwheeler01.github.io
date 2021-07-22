@@ -5,6 +5,11 @@ permalink: /abstracts/
 ---
 **Wheeler Lab Member** &emsp; &emsp; **\*Masters Student** &emsp; &emsp; **\#Undergraduate**
 
+### 2021
+Intelligent Systems for Molecular Biology Conference and European Conference of Computational Biology, Virtual, July 25 - 30, 2021. **\*Okoro PC**, **\*Schubert R**, Guo X, Johnson WC, Rotter JI, Hoeschele I, Liu Y, Im HK, Luke A, Dugas LR, **Wheeler HE**. Elastic net outperforms other machine learning models in gene expression prediction across global ancestries. Poster.
+
+Great Lakes Bioinformatics Conference, Virtual, May 10 - 13, 2021. **#\*Mulford AJ**, Wing C, **\*Schubert R**, Manichaikul A, Im HK, Dolan ME, **Wheeler HE**. Multi-omic association studies identify novel genes and proteins regulating cellular sensitivity to chemotherapy in diverse populations. Oral Presentation.
+
 ### 2020
 American Society of Human Genetics 70th Annual Meeting, Virtual, October 27 - 30, 2020. **\*Schubert R**, **#\*Mulford A**, Thornton TA, Gignoux CR, Lange LA, Lange E, Lappalainen T, Gerszten R, Rich SS, Rotter JI, Cho M, Manichaikul AW, Im, HK, **Wheeler HE**, on behalf of the NHLBI TOPMed Consortium. Multi-ethnic fine mapping optimizes proteome association studies. Platform Presentation.
 
