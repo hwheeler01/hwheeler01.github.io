@@ -4,7 +4,16 @@ title: Lab Photos
 permalink: /photos/
 ---
 
-# Lab Lunch Summer 2019
+## Lab Spring 2021
+<figure>
+    <center><img src="{{ site.baseurl }}/images/lab-spring-2021.jpg"/></center>
+<figcaption>
+<i>Left to right from top: Daniel Araújo, Heather Wheeler, Isabelle Gregga, Elyse Geoffroy, Henry Wittich, Rhea Prag, Ryan Schubert, Ashley Mulford, Chris Nguyen. </i>
+
+</figcaption>
+</figure>
+
+## Lab Lunch Summer 2019
 
 <figure>
     <center><img src="{{ site.baseurl }}/images/beachcafe2019.jpg"/></center>
@@ -14,7 +23,7 @@ permalink: /photos/
 </figcaption>
 </figure>
 
-# Holiday Party 2018
+## Holiday Party 2018
 
 <figure>
     <center><img src="{{ site.baseurl }}/images/lab_xmas2018.jpg"/></center>
@@ -24,7 +33,7 @@ permalink: /photos/
 </figcaption>
 </figure>
 
-# Wheeler Lab Fall 2018
+## Wheeler Lab Fall 2018
 
 <figure>
     <center><img src="{{ site.baseurl }}/images/lab_fall2018.jpg"/></center>
@@ -33,7 +42,7 @@ permalink: /photos/
 </figcaption>
 </figure>
 
-# Carbon Fellow Luncheon Fall 2018
+## Carbon Fellow Luncheon Fall 2018
 
 <figure>
 <img src="{{ site.baseurl }}/images/peter_carbon2018.jpg" width="400px" height="300px" />
@@ -50,7 +59,7 @@ permalink: /photos/
 </figure>
 
 
-# Wheeler Lab Fall 2017
+## Wheeler Lab Fall 2017
 
 
 <figure>

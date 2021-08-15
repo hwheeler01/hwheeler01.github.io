@@ -4,6 +4,24 @@ title: Lab Alumni
 permalink: /alumni/
 ---
 
+**Ryan Schubert** BS '18 Bioinformatics, MS '20 Applied Statistics
+
+- Lab Bioninformatician 2018-2021
+- Data Scientist at Rush University
+
+**Elyse Geoffroy** BS '20 Bioinformatics, MS '21 Bioinformatics
+
+- Graduate Fellowship
+- Mulcahy Scholar
+- Software Engineer at AbbVie
+
+**Ashley Mulford** BS '20 Bioinformatics, MS '21 Bioinformatics
+
+- Biology Summer Research Fellow
+- Mulcahy Scholar
+- Loyola Graduate Fellowship
+- Bioinformatician at NorthShore University HealthSystem
+
 **Paul Okoro** MS '20, Bioinformatics
 
 - Loyola Graduate Fellowship
