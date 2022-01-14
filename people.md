@@ -51,7 +51,7 @@ Henry is a thesis-track student in the BS/MS Bioinformatics Program and also in 
 **Kayla Bozeman, Undergraduate Student**
 <figure>
     <a href="../images/kayla.jpg">
-        <img src="{{ site.baseurl }}/images/isabelle.jpg" width="150px" height="150px" align="left"/>
+        <img src="{{ site.baseurl }}/images/kayla.jpg" width="150px" height="150px" align="left"/>
     </a>
 <figcaption>
 Kayla is a junior majoring in Molecular and Cellular Neuroscience. She is an ACE and CURA scholar. After college, she plans on furthering her education in Neuroscience and attending medical school. Outside the lab, Kayla works as a Pharmacy Technician and enjoys spending time with her family, reading, kickboxing, eating Puerto Rican food and finding new smoothie places to try.
