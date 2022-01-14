@@ -36,7 +36,28 @@ Daniel is a thesis-track student in the MS Bioinformatics program. During his ye
 </figure>  
 <br>
 
+**Henry Wittich, Graduate Student**
 
+<figure>
+    <a href="../images/henry.jpg">
+        <img src="{{ site.baseurl }}/images/henry.jpg" width="150px" height="150px" align="left"/>
+    </a>
+<figcaption>
+Henry is a thesis-track student in the BS/MS Bioinformatics Program and also in the Interdisciplinary Honors Program. He is a Provost Fellow and Mulcahy Scholar. He first developed an interest in bioinformatics during a high school genetics course, and his passion for the field has only grown since. After college, he is planning on attending graduate school and continuing to conduct research. Outside of the lab, he enjoys watching reality TV shows like the Great British Baking show, playing games with friends, and listening to experimental pop music (his current favorite artist is Caroline Polachek).
+</figcaption>
+</figure>
+<br>
+
+**Kayla Bozeman, Undergraduate Student**
+<figure>
+    <a href="../images/kayla.jpg">
+        <img src="{{ site.baseurl }}/images/isabelle.jpg" width="150px" height="150px" align="left"/>
+    </a>
+<figcaption>
+Kayla is a junior majoring in Molecular and Cellular Neuroscience. She is an ACE and CURA scholar. After college, she plans on furthering her education in Neuroscience and attending medical school. Outside the lab, Kayla works as a Pharmacy Technician and enjoys spending time with her family, reading, kickboxing, eating Puerto Rican food and finding new smoothie places to try.
+</figcaption>
+</figure>
+<br>
 
 **Isabelle Gregga, Undergraduate Student**
 
@@ -75,16 +96,6 @@ Rhea is a senior Bioinformatics major and Bioethics minor in the Interdisciplina
 </figure>
 <br>
 
-**Henry Wittich, Undergraduate Student**
 
-<figure>
-    <a href="../images/henry.jpg">
-        <img src="{{ site.baseurl }}/images/henry.jpg" width="150px" height="150px" align="left"/>
-    </a>
-<figcaption>
-Henry is a thesis-track student in the BS/MS Bioinformatics Program and also in the Interdisciplinary Honors Program. He is a Provost Fellow and Mulcahy Scholar. He first developed an interest in bioinformatics during a high school genetics course, and his passion for the field has only grown since. After college, he is planning on attending graduate school and continuing to conduct research. Outside of the lab, he enjoys watching reality TV shows like the Great British Baking show, playing games with friends, and listening to experimental pop music (his current favorite artist is Caroline Polachek).
-</figcaption>
-</figure>
-<br>
 
 
