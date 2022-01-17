@@ -13,9 +13,14 @@ permalink: /photos/
 </figure>
 <br>
 
-<img style="max-width: 200px; height: auto; " src="{{ site.baseurl }}/images/fall2021_holiday1.jpg" />
-
-<img style="max-width: 400px; height: auto; " src="{{ site.baseurl }}/images/fall2021_holiday2.jpg" />
+<div class="row">
+  <div class="column">
+    <img style="max-width: 300px; height: auto; " src="{{ site.baseurl }}/images/fall2021_holiday1.jpg" >
+  </div>
+  <div class="column">
+    <img style="max-width: 400px; height: auto; " src="{{ site.baseurl }}/images/fall2021_holiday2.jpg" >
+  </div>
+</div>
 
 <br>
 
