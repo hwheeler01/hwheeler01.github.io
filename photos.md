@@ -6,18 +6,16 @@ permalink: /photos/
 
 ## 2021 Holiday Party
 <figure>
-    <center><img src="{{ site.baseurl }}/images/lab-fall-2021.jpg"/></center>
+    <center><img src="{{ site.baseurl }}/images/lab_fall2021.jpg"/></center>
 <figcaption>
 <i>Left to right from top: Daniel Araújo, Isabelle Gregga, Chris Nguyen, Kayla Bozeman. Front: Rhea Prag, Camilla Czapla. </i>
 </figcaption>
 </figure>
 <br>
 
-<img style="max-width: 300px; height: auto; " src="{{ site.baseurl }}/images/fall2021_holiday1.jpg" />
+<img style="max-width: 200px; height: auto; " src="{{ site.baseurl }}/images/fall2021_holiday1.jpg" />
 
-<br>
-
-<img style="max-width: 300px; height: auto; " src="{{ site.baseurl }}/images/fall2021_holiday2.jpg" />
+<img style="max-width: 400px; height: auto; " src="{{ site.baseurl }}/images/fall2021_holiday2.jpg" />
 
 <br>
 
