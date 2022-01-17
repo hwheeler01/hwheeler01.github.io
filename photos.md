@@ -4,7 +4,7 @@ title: Lab Photos
 permalink: /photos/
 ---
 
-## 2021 Holiday Party
+## Holiday Party 2021 
 <figure>
     <center><img src="{{ site.baseurl }}/images/lab_fall2021.jpg"/></center>
 <figcaption>
@@ -13,14 +13,7 @@ permalink: /photos/
 </figure>
 <br>
 
-<div class="row">
-  <div class="column">
-    <img style="max-width: 300px; height: auto; " src="{{ site.baseurl }}/images/fall2021_holiday1.jpg" >
-  </div>
-  <div class="column">
-    <img style="max-width: 400px; height: auto; " src="{{ site.baseurl }}/images/fall2021_holiday2.jpg" >
-  </div>
-</div>
+<img style="max-width: 400px; height: auto; " src="{{ site.baseurl }}/images/fall2021_holiday2.jpg" />
 
 <br>
 
