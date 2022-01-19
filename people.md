@@ -59,6 +59,17 @@ Kayla is a junior majoring in Molecular and Cellular Neuroscience. She is an ACE
 </figure>
 <br>
 
+**Camilla Czapla, Undergraduate Student**
+<figure>
+    <a href="../images/camilla.jpg">
+        <img src="{{ site.baseurl }}/images/camilla.jpg" width="150px" height="150px" align="left"/>
+    </a>
+<figcaption>
+Camilla is a senior majoring in Biology. She plans on pursuing graduate education in medicine and public health. Her interest in human genetics research was piqued after discovering the concept of precision medicine. In her free time, Camilla enjoys eating Polish food, such as pierogis, pampering her Miniature Schnauzer, and hiking and camping outdoors. Her goal is to visit all of the national parks in the United States.
+</figcaption>
+</figure>
+<br>
+
 **Isabelle Gregga, Undergraduate Student**
 
 <figure>
