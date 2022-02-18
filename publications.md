@@ -8,12 +8,18 @@ permalink: /publications/
 
 **Wheeler Lab Member** &emsp; &emsp; **\*Masters Student** &emsp; &emsp; **\#Undergraduate**
 
+### 2022
+
+
+
+Liang Y, Pividori M, Manichaikul A, Palmer AA, Cox NJ, **Wheeler HE**, Im HK. (2022) Polygenic transcriptome risk scores (PTRS) can improve portability of polygenic risk scores across ancestries. *Genome Biology* 23(1):23. [PMC8759285](http://www.ncbi.nlm.nih.gov/pmc/articles/pmc8759285/) [DOI](https://doi.org/10.1186/s13059-021-02591-w)
+
 ### 2021
  
-Trendowski MR, Baedke JL, Sapkota Y, Travis LB, Zhang X, El Charif O, **Wheeler HE**, Leisenring WM, Robison LL, Hudson MM, Morton LM, Oeffinger KC, Howell RM, Armstrong GT, Bhatia S, Dolan ME. (2021) Clinical and genetic risk factors for radiation-associated ototoxicity: A report from the Childhood Cancer Survivor Study and the St. Jude Lifetime Cohort. *Cancer* Online ahead of print. [DOI](https://doi.org/10.1002/cncr.33775)
+Trendowski MR, Baedke JL, Sapkota Y, Travis LB, Zhang X, El Charif O, **Wheeler HE**, Leisenring WM, Robison LL, Hudson MM, Morton LM, Oeffinger KC, Howell RM, Armstrong GT, Bhatia S, Dolan ME. (2021) Clinical and genetic risk factors for radiation-associated ototoxicity: A report from the Childhood Cancer Survivor Study and the St. Jude Lifetime Cohort. *Cancer* 127(21):4091-4102. PMC8516694 [DOI](https://doi.org/10.1002/cncr.33775)
 
 
-**#\*Mulford AJ**, Wing C, Dolan ME, **Wheeler HE**. (2021) Genetically regulated expression underlies cellular sensitivity to chemotherapy in diverse populations. *Human Molecular Genetics* 30(3-4):305-317. PMC8248963 [DOI](https://doi.org/10.1093/hmg/ddab029)
+**#\*Mulford AJ**, Wing C, Dolan ME, **Wheeler HE**. (2021) Genetically regulated expression underlies cellular sensitivity to chemotherapy in diverse populations. *Human Molecular Genetics* 30(3-4):305-317. [PMC8248963](http://www.ncbi.nlm.nih.gov/pmc/articles/pmc8248963/) [DOI](https://doi.org/10.1093/hmg/ddab029)
 
 **\*Okoro PC**, **\*Schubert R**, Guo X, Johnson WC, Rotter JI, Hoeschele I, Liu Y, Im HK, Luke A, Dugas LR, **Wheeler HE**. (2021) Transcriptome prediction performance across machine learning models and diverse ancestries. *HGG Advances* 2(2):100019. [PMC8087249](http://www.ncbi.nlm.nih.gov/pmc/articles/pmc8087249/) [DOI](https://doi.org/10.1016/j.xhgg.2020.100019)
 

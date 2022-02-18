@@ -59,6 +59,17 @@ Kayla is a junior majoring in Molecular and Cellular Neuroscience. She is an ACE
 </figure>
 <br>
 
+**Grace Chilton, Undergraduate Student**
+<figure>
+    <a href="../images/grace.jpg">
+        <img src="{{ site.baseurl }}/images/grace.jpg" width="150px" height="150px" align="left"/>
+    </a>
+<figcaption>
+Grace is a sophomore majoring in Bioinformatics and Biology in the Interdisciplinary Honors Program. Her interest in genetics and bioinformatics began in her high school biology course and after she discovered the field of genetic counseling. After college, she is planning on attending graduate school and pursuing research or becoming a genetic counselor. In her free time she enjoys spending time with friends and family, running, reading, and listening to music, her favorites are Hozier and Remi Wolf. 
+</figcaption>
+</figure>
+<br>
+
 **Camilla Czapla, Undergraduate Student**
 <figure>
     <a href="../images/camilla.jpg">
@@ -66,6 +77,17 @@ Kayla is a junior majoring in Molecular and Cellular Neuroscience. She is an ACE
     </a>
 <figcaption>
 Camilla is a senior majoring in Biology. She plans on pursuing graduate education in medicine and public health. Her interest in human genetics research was piqued after discovering the concept of precision medicine. In her free time, Camilla enjoys eating Polish food, such as pierogis, pampering her Miniature Schnauzer, and hiking and camping outdoors. Her goal is to visit all of the national parks in the United States.
+</figcaption>
+</figure>
+<br>
+
+**Jacob Grandinetti, Undergraduate Student**
+<figure>
+    <a href="../images/jacob.jpg">
+        <img src="{{ site.baseurl }}/images/jacob.jpg" width="150px" height="150px" align="left"/>
+    </a>
+<figcaption>
+Jacob is a sophomore Bioinformatics major and Italian minor. He is also in the Interdisciplinary Honors Program. His interest in genetics stemmed from a fascination with genealogy and working on an extensive family tree in his free time. After college, Jacob plans on continuing with research and/or attending medical school. Some of his hobbies include: reading, running/hiking, playing piano, baking, film photography, and watching movies. He is currently attempting to watch every Academy Award Best Picture winner in order (for a total of 93 movies since the award’s inception in 1928).
 </figcaption>
 </figure>
 <br>
