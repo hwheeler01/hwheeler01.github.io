@@ -7,7 +7,7 @@ permalink: /abstracts/
 
 ### 2021
 
-American Society of Human Genetics 71st Annual Meeting, Virtual, October 18 - 22, 2021. **\*Schubert R**, **\#Gregga I**, **\#*Geoffroy E**, **\#*Mulford A**,  Manichaikul AW, Im HK, **Wheeler HE**, on behalf of the NHLBI TOPMed Consortium. Protein prediction for trait mapping in diverse populations. Platform Presentation.
+American Society of Human Genetics 71st Annual Meeting, Virtual, October 18 - 22, 2021. **\*Schubert R**, **\#Gregga I**, **#\*Geoffroy E**, **#\*Mulford A**,  Manichaikul AW, Im HK, **Wheeler HE**, on behalf of the NHLBI TOPMed Consortium. Protein prediction for trait mapping in diverse populations. Platform Presentation.
 
 American Society of Human Genetics 71st Annual Meeting, Virtual, October 18 - 22, 2021. **\*Araújo D**, Rich SS, Rotter JI, Im HK, Manichaikul AW, **Wheeler HE**, on behalf of the NHLBI TOPMed Consortium. Mitochondrial and sex chromosome genetically regulated gene expression implicates new genes in complex traits across multiple human populations. Reviewers' Choice (top 10%) Poster.
 
