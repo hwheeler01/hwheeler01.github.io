@@ -10,7 +10,7 @@ permalink: /publications/
 
 ### 2022
 
-
+**\*Schubert R**, **#\*Geoffroy E**, **#Gregga I**, **#\*Mulford AJ**, Aguet F, Ardlie K, Gerszten R, Clish C, Van Den Berg D, Taylor KD, Durda P, Johnson WC, Cornell E, Guo X, Liu Y, Tracy R, Conomos M, Blackwell T, Papanicolaou G, Lappalainen T, Mikhaylova AV, Thornton TA, Cho MH, Gignoux CR, Lange L, Lange E, Rich SS, Rotter JI; NHLBI TOPMed Consortium, Manichaikul A, Im HK, **Wheeler HE**. (2022) Protein prediction for trait mapping in diverse populations. *PLOS ONE* 17(2):e0264341. [PMC8870552](http://www.ncbi.nlm.nih.gov/pmc/articles/pmc8870552/) [DOI](https://doi.org/10.1371/journal.pone.0264341)
 
 Liang Y, Pividori M, Manichaikul A, Palmer AA, Cox NJ, **Wheeler HE**, Im HK. (2022) Polygenic transcriptome risk scores (PTRS) can improve portability of polygenic risk scores across ancestries. *Genome Biology* 23(1):23. [PMC8759285](http://www.ncbi.nlm.nih.gov/pmc/articles/pmc8759285/) [DOI](https://doi.org/10.1186/s13059-021-02591-w)
 
