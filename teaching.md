@@ -23,7 +23,7 @@ Research practices, including data collection and management, the experimental d
 
 ## BIOI 500. Advanced Bioinformatics (3 credits) 
 
-**Semesters Taught:** Spring [2021](https://hwheeler01.github.io/syllabi/BIOI500_Wheeler_Spring2021.pdf), [2022](BIOI500_Wheeler_Spring2022.pdf)
+**Semesters Taught:** Spring [2021](https://hwheeler01.github.io/syllabi/BIOI500_Wheeler_Spring2021.pdf), [2022](https://hwheeler01.github.io/syllabi/BIOI500_Wheeler_Spring2022.pdf)
 
 Students will study fundamental bioinformatics algorithms and emerging software tools in the field. The course will include the study of primary literature and design and implementation of bioinformatics algorithms.
 
@@ -31,7 +31,7 @@ Students will study fundamental bioinformatics algorithms and emerging software 
 
 ## BIOL 388/488. Bioinformatics (3 credits) 
 
-**Semesters Taught:** Fall 2015, 2016, 2017, [2018](https://hwheeler01.github.io/syllabi/BIOL388-Wheeler-Fall2018.pdf), [2019](https://hwheeler01.github.io/syllabi/BIOL388-Wheeler-Fall2019.pdf), [2020](https://hwheeler01.github.io/syllabi/BIOL388-Wheeler-Fall2020.pdf), [2021](BIOL388-488-Wheeler-Fall2021.pdf)
+**Semesters Taught:** Fall 2015, 2016, 2017, [2018](https://hwheeler01.github.io/syllabi/BIOL388-Wheeler-Fall2018.pdf), [2019](https://hwheeler01.github.io/syllabi/BIOL388-Wheeler-Fall2019.pdf), [2020](https://hwheeler01.github.io/syllabi/BIOL388-Wheeler-Fall2020.pdf), [2021](https://hwheeler01.github.io/syllabi/BIOL388-488-Wheeler-Fall2021.pdf)
 	
 Students will engage in the applications of computer-based tools and database searching to better understand the fields of genetics, genomics, evolutionary biology, and personalized medicine. Students will be introduced to scripting programming languages for analyzing biological data sets.
 
