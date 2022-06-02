@@ -34,6 +34,7 @@ permalink: /alumni/
 - Carbon Fellow
 - Mulcahy Scholar
 - Data Scientist at University of Chicago
+- MD/PhD Student at University at Buffalo
 
 **Angela Andaleon** BS '18 Biology, MS '19 Bioinformatics
 
@@ -41,7 +42,8 @@ permalink: /alumni/
 - 2018 Outstanding Undergraduate Research Award
 - Loyola Graduate Fellowship
 - Master's Thesis Vote of Distinction
-- Junior Variant Scientist at Tempus
+- Variant Scientist at Tempus
+- Computational Biologist at Amgen
 
 **Rachel Weiss** BS '19, Biology
 
