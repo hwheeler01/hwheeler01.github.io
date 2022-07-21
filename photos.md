@@ -4,6 +4,18 @@ title: Lab Photos
 permalink: /photos/
 ---
 
+## Lab Lunch Summer 2022
+
+<figure>
+    <center><img src="{{ site.baseurl }}/images/lunch2022.jpg"/></center>
+<figcaption>
+<i>Jacob Grandinetti, Isabelle Gregga, Kayla Bozeman, Maya Sharma, Henry Wittich, Daniel Araújo, Camilla Czapla </i>
+
+</figcaption>
+</figure>
+<br>
+
+
 ## Holiday Party 2021 
 <figure>
     <center><img src="{{ site.baseurl }}/images/lab_fall2021.jpg"/></center>

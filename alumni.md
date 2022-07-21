@@ -4,6 +4,14 @@ title: Lab Alumni
 permalink: /alumni/
 ---
 
+**Chris Nguyen** BS '22, Biophysics
+
+- Mulcahy Scholar
+
+**Rhea Prag** BS '22, Bioinformatics
+
+- Mulcahy Scholar
+
 **Ryan Schubert** BS '18 Bioinformatics, MS '20 Applied Statistics
 
 - Lab Bioninformatician 2018-2021

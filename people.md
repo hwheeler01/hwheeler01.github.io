@@ -24,7 +24,6 @@ permalink: /people/
 
 
 
-
 **Daniel Araújo, Graduate Student**
 <figure>
     <a href="../images/daniel.jpg">
@@ -48,13 +47,36 @@ Henry is a thesis-track student in the BS/MS Bioinformatics Program and also in 
 </figure>
 <br>
 
+**Camilla Czapla, Bioinformatician**
+<figure>
+    <a href="../images/camilla.jpg">
+        <img src="{{ site.baseurl }}/images/camilla.jpg" width="150px" height="150px" align="left"/>
+    </a>
+<figcaption>
+Camilla graduated in 2022, majoring in Biology. She plans on pursuing graduate education in medicine and public health. Her interest in human genetics research was piqued after discovering the concept of precision medicine. In her free time, Camilla enjoys eating Polish food, such as pierogis, pampering her Miniature Schnauzer, and hiking and camping outdoors. Her goal is to visit all of the national parks in the United States.
+</figcaption>
+</figure>
+<br>
+
+**Isabelle Gregga, Bioinformatician**
+
+<figure>
+    <a href="../images/isabelle.jpg">
+        <img src="{{ site.baseurl }}/images/isabelle.jpg" width="150px" height="150px" align="left"/>
+    </a>
+<figcaption>
+Isabelle graduated in 2022 with a BS in Biology, a minor in French, and completed the Interdisciplinary Honors Program. She was a Biology Summer Research Fellow and a Mulcahy Scholar.  Her fascination with genetics started with science fiction--namely X-Men and Jurassic Park--and only strengthened in high school biology.  In her spare time, she enjoys baking, writing, sketching, and FaceTiming her little sister.
+</figcaption>
+</figure>
+<br>
+
 **Kayla Bozeman, Undergraduate Student**
 <figure>
     <a href="../images/kayla.jpg">
         <img src="{{ site.baseurl }}/images/kayla.jpg" width="150px" height="150px" align="left"/>
     </a>
 <figcaption>
-Kayla is a junior majoring in Molecular and Cellular Neuroscience. She is an ACE and CURA scholar. After college, she plans on furthering her education in Neuroscience and attending medical school. Outside the lab, Kayla works as a Pharmacy Technician and enjoys spending time with her family, reading, kickboxing, eating Puerto Rican food and finding new smoothie places to try.
+Kayla is a senior majoring in Molecular and Cellular Neuroscience. She is an ACE and CURA scholar. After college, she plans on furthering her education in Neuroscience and attending medical school. Outside the lab, Kayla works as a Pharmacy Technician and enjoys spending time with her family, reading, kickboxing, eating Puerto Rican food and finding new smoothie places to try.
 </figcaption>
 </figure>
 <br>
@@ -65,21 +87,12 @@ Kayla is a junior majoring in Molecular and Cellular Neuroscience. She is an ACE
         <img src="{{ site.baseurl }}/images/grace.jpg" width="150px" height="150px" align="left"/>
     </a>
 <figcaption>
-Grace is a sophomore majoring in Bioinformatics and Biology in the Interdisciplinary Honors Program. Her interest in genetics and bioinformatics began in her high school biology course and after she discovered the field of genetic counseling. After college, she is planning on attending graduate school and pursuing research or becoming a genetic counselor. In her free time she enjoys spending time with friends and family, running, reading, and listening to music, her favorites are Hozier and Remi Wolf. 
+Grace is a junior majoring in Bioinformatics and Biology in the Interdisciplinary Honors Program. Her interest in genetics and bioinformatics began in her high school biology course and after she discovered the field of genetic counseling. After college, she is planning on attending graduate school and pursuing research or becoming a genetic counselor. In her free time she enjoys spending time with friends and family, running, reading, and listening to music, her favorites are Hozier and Remi Wolf. 
 </figcaption>
 </figure>
 <br>
 
-**Camilla Czapla, Undergraduate Student**
-<figure>
-    <a href="../images/camilla.jpg">
-        <img src="{{ site.baseurl }}/images/camilla.jpg" width="150px" height="150px" align="left"/>
-    </a>
-<figcaption>
-Camilla is a senior majoring in Biology. She plans on pursuing graduate education in medicine and public health. Her interest in human genetics research was piqued after discovering the concept of precision medicine. In her free time, Camilla enjoys eating Polish food, such as pierogis, pampering her Miniature Schnauzer, and hiking and camping outdoors. Her goal is to visit all of the national parks in the United States.
-</figcaption>
-</figure>
-<br>
+
 
 **Jacob Grandinetti, Undergraduate Student**
 <figure>
@@ -87,44 +100,23 @@ Camilla is a senior majoring in Biology. She plans on pursuing graduate educatio
         <img src="{{ site.baseurl }}/images/jacob.jpg" width="150px" height="150px" align="left"/>
     </a>
 <figcaption>
-Jacob is a sophomore Bioinformatics major and Italian minor. He is also in the Interdisciplinary Honors Program. His interest in genetics stemmed from a fascination with genealogy and working on an extensive family tree in his free time. After college, Jacob plans on continuing with research and/or attending medical school. Some of his hobbies include: reading, running/hiking, playing piano, baking, film photography, and watching movies. He is currently attempting to watch every Academy Award Best Picture winner in order (for a total of 93 movies since the award’s inception in 1928).
-</figcaption>
-</figure>
-<br>
-
-**Isabelle Gregga, Undergraduate Student**
-
-<figure>
-    <a href="../images/isabelle.jpg">
-        <img src="{{ site.baseurl }}/images/isabelle.jpg" width="150px" height="150px" align="left"/>
-    </a>
-<figcaption>
-Isabelle is a senior Biology major and French minor in the Interdisciplinary Honors Program, Biology Summer Research Fellow, and a Mulcahy Scholar.  Her fascination with genetics started with science fiction--namely X-Men and Jurassic Park--and only strengthened in high school biology.  After college, she plans on continuing to medical school to eventually practice as a clinical geneticist.  In her spare time, she enjoys baking, writing, sketching, and FaceTiming her little sister.
+Jacob is a junior Bioinformatics major and Italian minor. He is also in the Interdisciplinary Honors Program. His interest in genetics stemmed from a fascination with genealogy and working on an extensive family tree in his free time. After college, Jacob plans on continuing with research and/or attending medical school. Some of his hobbies include: reading, running/hiking, playing piano, baking, film photography, and watching movies. He is currently attempting to watch every Academy Award Best Picture winner in order (for a total of 93 movies since the award’s inception in 1928).
 </figcaption>
 </figure>
 <br>
 
 
-**Chris Nguyen, Undergraduate Student**
+
+
+
+**Maya Sharma, Undergraduate Student**
 
 <figure>
-    <a href="../images/chris.jpg">
-        <img src="{{ site.baseurl }}/images/chris.jpg" width="150px" height="150px" align="left"/>
+    <a href="../images/maya.jpg">
+        <img src="{{ site.baseurl }}/images/maya.jpg" width="150px" height="150px" align="left"/>
     </a>
 <figcaption>
-Chris is a senior Biophysics major. He is a Mulcahy Scholar. After college, he plans on furthering his education in graduate school to hopefully find a career in research. Outside the lab, he enjoys listening to music, cooking with friends, and watching baking shows. Before leaving Loyola, he hopes to complete his quest of scouring the city for the ultimate chocolate croissant.
-</figcaption>
-</figure>
-<br>
-
-**Rhea Prag, Undergraduate Student**
-
-<figure>
-    <a href="../images/rhea.jpg">
-        <img src="{{ site.baseurl }}/images/rhea.jpg" width="150px" height="150px" align="left"/>
-    </a>
-<figcaption>
-Rhea is a senior Bioinformatics major and Bioethics minor in the Interdisciplinary Honors Program. Her interest in genetics came from conversations with her family about genetically-related diseases and conditions. After college, she plans on continuing on to medical school where she hopes to practice emergency/trauma medicine. In her spare time, she enjoys spending time with her friends, swimming, and exploring different hiking trails.
+Maya is a junior majoring in Molecular Biology, minoring in Mathematics and Spanish, and is in the Interdisciplinary Honors Program. Her interest in bioinformatics began after she took a biostatistics course at Loyola. After college, she plans on pursuing  a career in healthcare. During her free time, she enjoys cooking, traveling, playing tennis, and binge watching reality tv.
 </figcaption>
 </figure>
 <br>
