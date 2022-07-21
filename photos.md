@@ -9,7 +9,7 @@ permalink: /photos/
 <figure>
     <center><img src="{{ site.baseurl }}/images/lunch2022.jpg"/></center>
 <figcaption>
-<i>Jacob Grandinetti, Isabelle Gregga, Kayla Bozeman, Maya Sharma, Henry Wittich, Daniel Araújo, Camilla Czapla </i>
+<i>Jacob Grandinetti, Isabelle Gregga, Kayla Bozeman, Maya Sharma, Henry Wittich, Daniel Araújo, Camilla Czapla. </i>
 
 </figcaption>
 </figure>
