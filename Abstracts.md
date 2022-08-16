@@ -5,6 +5,13 @@ permalink: /abstracts/
 ---
 **Wheeler Lab Member** &emsp; &emsp; **\*Masters Student** &emsp; &emsp; **\#Undergraduate**
 
+### 2022
+
+Intelligent Systems for Molecular Biology Conference, Madison, WI, July 10-14, 2022. **#\*Wittich H**, **Wheeler HE**. Incorporating the Genetically Regulated Transcriptome into the Analysis of Protein Expression. Poster.
+
+CHARGE (Cohorts for Heart and Aging Research in Genomic Epidemiology) Conference, Philadelphia, PA, April 27-29, 2022. **\*Araújo DS**, Rich SS, Rotter JI, Im HK, Manichaikul A, **Wheeler HE**, on behalf of the NHLBI TOPMed Consortium. Improving cross-population transcriptome prediction models for transcriptome-wide association studies in underrepresented populations. Poster and Travel Award.
+
+
 ### 2021
 
 American Society of Human Genetics 71st Annual Meeting, Virtual, October 18 - 22, 2021. **\*Schubert R**, **\#Gregga I**, **#\*Geoffroy E**, **#\*Mulford A**,  Manichaikul AW, Im HK, **Wheeler HE**, on behalf of the NHLBI TOPMed Consortium. Protein prediction for trait mapping in diverse populations. Platform Presentation.
