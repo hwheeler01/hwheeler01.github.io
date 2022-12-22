@@ -4,6 +4,16 @@ title: Lab Photos
 permalink: /photos/
 ---
 
+## Holiday Party 2022
+
+<figure>
+    <center><img src="{{ site.baseurl }}/images/fall2022_holiday.jpg"/></center>
+<figcaption>
+<i>Front: Kayla Bozeman, Isabelle Gregga, Camilla Czapla, Daniel Araújo, Angela Andaleon. Back: Maya Sharma, Grace Chilton Heather Wheeler, peek-a-boo, Henry Wittich. </i>
+
+</figcaption>
+</figure>
+
 ## Lab Lunch Summer 2022
 
 <figure>
