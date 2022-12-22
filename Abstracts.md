@@ -7,9 +7,9 @@ permalink: /abstracts/
 
 ### 2022
 <figure>
-    <center><img src="{{ site.baseurl }}/images/2022_ashg.jpg" width="300px" height="288px"/></center>
+    <center><img src="{{ site.baseurl }}/images/2022_ashg.jpg" width="400px" height="384px"/></center>
 <figcaption>
-        <i>Heather Wheeler, Henry Wittich, Daniel Araújo, Isabelle Gregga attend <a href="https://www.ashg.org/">ASHG</a> 2022 in Los Angeles.</i>
+        <i>Heather Wheeler, Henry Wittich, Daniel Araújo, and Isabelle Gregga at <a href="https://www.ashg.org/">ASHG</a> 2022 in Los Angeles.</i>
 </figcaption>
 </figure>
 
