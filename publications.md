@@ -8,11 +8,18 @@ permalink: /publications/
 
 **Wheeler Lab Member** &emsp; &emsp; **\*Masters Student** &emsp; &emsp; **\#Undergraduate**
 
+### 2023
+
+**\*Araújo DS**, **\#Nguyen C**, Hu X, Mikhaylova AV, Gignoux C, Ardlie K, Taylor KD, Durda P, Liu Y, Papanicolaou G, Cho MH, Rich SS, Rotter JI; NHLBI TOPMed Consortium; Im HK, Manichaikul A, **Wheeler HE**. Multivariate adaptive shrinkage improves cross-population transcriptome prediction for transcriptome-wide association studies in underrepresented populations. *BioRxiv* preprint. [PMC9934635](http://www.ncbi.nlm.nih.gov/pmc/articles/pmc9934635/) [DOI](https://doi.org/10.1101/2023.02.09.527747)
+
+Hou K, Ding Y, Xu Z, Wu Y, Bhattacharya A, Mester R, Belbin GM, Buyske S, Conti DV, Darst BF, Fornage M, Gignoux C, Guo X, Haiman C, Kenny EE, Kim M, Kooperberg C, Lange L, Manichaikul A, North KE, Peters U, Rasmussen-Torvik LJ, Rich SS, Rotter JI, **Wheeler HE**, Wojcik GL, Zhou Y, Sankararaman S, Pasaniuc B. 
+(2023) Causal effects on complex traits are similar for common variants across segments of different continental ancestries within admixed individuals. *Nature Genetics* Online ahead of print. [DOI](https://doi.org/10.1038/s41588-023-01338-6)
+
 ### 2022
 
-**\*Araújo DS** and **Wheeler HE**. (2022) Genetic and environmental variation impact transferability of polygenic risk scores. *Cell Reports Medicine*  3(7):100687. [DOI](https://doi.org/10.1016/j.xcrm.2022.100687)
+**\*Araújo DS** and **Wheeler HE**. (2022) Genetic and environmental variation impact transferability of polygenic risk scores. *Cell Reports Medicine*  3(7):100687. [PMC9381406](http://www.ncbi.nlm.nih.gov/pmc/articles/pmc9381406/) [DOI](https://doi.org/10.1016/j.xcrm.2022.100687)
 
-Hu X, Qiao D, Kim W, Moll M, Balte PP, Lange LA, Bartz TM, Kumar R, Li X, Yu B, Cade BE, Laurie CA, Sofer T, Ruczinski I, Nickerson DA, Muzny DM, Metcalf GA, Doddapaneni H, Gabriel S, Gupta N, Dugan-Perez S, Cupples LA, Loehr LR, Jain D, Rotter JI, Wilson JG, Psaty BM, Fornage M, Morrison AC, Vasan RS, Washko G, Rich SS, O'Connor GT, Bleecker E, Kaplan RC, Kalhan R, Redline S, Gharib SA, Meyers D, Ortega V, Dupuis J, London SJ, Lappalainen T, Oelsner EC, Silverman EK, Barr RG, Thornton TA, **Wheeler HE**; TOPMed Lung Working Group, Cho MH, Im HK, Manichaikul A. (2022) Polygenic transcriptome risk scores for COPD and lung function improve cross-ethnic portability of prediction in the NHLBI TOPMed program. *American Journal of Human Genetics* 109(5):857-870. PMC9118106 [DOI](https://doi.org/10.1016/j.ajhg.2022.03.007)
+Hu X, Qiao D, Kim W, Moll M, Balte PP, Lange LA, Bartz TM, Kumar R, Li X, Yu B, Cade BE, Laurie CA, Sofer T, Ruczinski I, Nickerson DA, Muzny DM, Metcalf GA, Doddapaneni H, Gabriel S, Gupta N, Dugan-Perez S, Cupples LA, Loehr LR, Jain D, Rotter JI, Wilson JG, Psaty BM, Fornage M, Morrison AC, Vasan RS, Washko G, Rich SS, O'Connor GT, Bleecker E, Kaplan RC, Kalhan R, Redline S, Gharib SA, Meyers D, Ortega V, Dupuis J, London SJ, Lappalainen T, Oelsner EC, Silverman EK, Barr RG, Thornton TA, **Wheeler HE**; TOPMed Lung Working Group, Cho MH, Im HK, Manichaikul A. (2022) Polygenic transcriptome risk scores for COPD and lung function improve cross-ethnic portability of prediction in the NHLBI TOPMed program. *American Journal of Human Genetics* 109(5):857-870. [PMC9118106](http://www.ncbi.nlm.nih.gov/pmc/articles/pmc9118106/) [DOI](https://doi.org/10.1016/j.ajhg.2022.03.007)
 
 **\*Schubert R**, **#\*Geoffroy E**, **#Gregga I**, **#\*Mulford AJ**, Aguet F, Ardlie K, Gerszten R, Clish C, Van Den Berg D, Taylor KD, Durda P, Johnson WC, Cornell E, Guo X, Liu Y, Tracy R, Conomos M, Blackwell T, Papanicolaou G, Lappalainen T, Mikhaylova AV, Thornton TA, Cho MH, Gignoux CR, Lange L, Lange E, Rich SS, Rotter JI; NHLBI TOPMed Consortium, Manichaikul A, Im HK, **Wheeler HE**. (2022) Protein prediction for trait mapping in diverse populations. *PLOS ONE* 17(2):e0264341. [PMC8870552](http://www.ncbi.nlm.nih.gov/pmc/articles/pmc8870552/) [DOI](https://doi.org/10.1371/journal.pone.0264341)
 
