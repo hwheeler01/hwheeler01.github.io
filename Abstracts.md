@@ -19,6 +19,8 @@ American Society of Human Genetics 72nd Annual Meeting, Los Angeles, CA, October
 
 American Society of Human Genetics 72nd Annual Meeting, Los Angeles, CA, October 25-29, 2022.  **#Gregga I**, Rosenow W, Prins B, Butterworth A, Pharoah P, Gayther S, Manichaikul A, Im HK, Kar S, Schildkraut J, **Wheeler HE**. Proteome association studies of breast, prostate, ovarian, and endometrial cancers implicate plasma protein regulation in cancer susceptibility. Reviewers' Choice (top 10%) Poster.
 
+CHARGE (Cohorts for Heart and Aging Research in Genomic Epidemiology) Conference, Seattle, WA, October 12-14, 2022. **#\*Wittich H**, Rich SS, Rotter JI, Im HK, Manichaikul AW, **Wheeler HE**, on behalf of the NHLBI TOPMed Consortium. Performing TWAS on proteomic data to understand cis and trans gene regulatory mechanisms underlying complex traits. Proteomics Working Group Presentation.
+
 Intelligent Systems for Molecular Biology Conference, Madison, WI, July 10-14, 2022. **#\*Wittich H**, **Wheeler HE**. Incorporating the Genetically Regulated Transcriptome into the Analysis of Protein Expression. Poster.
 
 CHARGE (Cohorts for Heart and Aging Research in Genomic Epidemiology) Conference, Philadelphia, PA, April 27-29, 2022. **\*Araújo DS**, Rich SS, Rotter JI, Im HK, Manichaikul A, **Wheeler HE**, on behalf of the NHLBI TOPMed Consortium. Improving cross-population transcriptome prediction models for transcriptome-wide association studies in underrepresented populations. Poster and Travel Award.
