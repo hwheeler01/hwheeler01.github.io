@@ -10,10 +10,12 @@ permalink: /publications/
 
 ### 2023
 
-**\*Araújo DS**, **\#Nguyen C**, Hu X, Mikhaylova AV, Gignoux C, Ardlie K, Taylor KD, Durda P, Liu Y, Papanicolaou G, Cho MH, Rich SS, Rotter JI; NHLBI TOPMed Consortium; Im HK, Manichaikul A, **Wheeler HE**. Multivariate adaptive shrinkage improves cross-population transcriptome prediction for transcriptome-wide association studies in underrepresented populations. *BioRxiv* preprint. [PMC9934635](http://www.ncbi.nlm.nih.gov/pmc/articles/pmc9934635/) [DOI](https://doi.org/10.1101/2023.02.09.527747)
+**#Gregga I**, Pharoah PD, Gayther SA, Manichaikul A, Im HK, Kar SP, Schlidkraut JM, **Wheeler HE**. Predicted proteome association studies of breast, prostate, ovarian, and endometrial cancers implicate plasma protein regulation in cancer susceptibility. *Cancer Epidemiol Biomarkers Prev* Online ahead of print. [DOI](https://doi.org/10.1158/1055-9965.epi-23-0309)
+
+**\*Araújo DS**, **\#Nguyen C**, Hu X, Mikhaylova AV, Gignoux C, Ardlie K, Taylor KD, Durda P, Liu Y, Papanicolaou G, Cho MH, Rich SS, Rotter JI; NHLBI TOPMed Consortium; Im HK, Manichaikul A, **Wheeler HE**. Multivariate adaptive shrinkage improves cross-population transcriptome prediction for transcriptome-wide association studies in underrepresented populations. *HGG Advances* Online ahead of print. [PMC9934635](http://www.ncbi.nlm.nih.gov/pmc/articles/pmc9934635/) [DOI](https://doi.org/10.1016/j.xhgg.2023.100216)
 
 Hou K, Ding Y, Xu Z, Wu Y, Bhattacharya A, Mester R, Belbin GM, Buyske S, Conti DV, Darst BF, Fornage M, Gignoux C, Guo X, Haiman C, Kenny EE, Kim M, Kooperberg C, Lange L, Manichaikul A, North KE, Peters U, Rasmussen-Torvik LJ, Rich SS, Rotter JI, **Wheeler HE**, Wojcik GL, Zhou Y, Sankararaman S, Pasaniuc B. 
-(2023) Causal effects on complex traits are similar for common variants across segments of different continental ancestries within admixed individuals. *Nature Genetics* Online ahead of print. [DOI](https://doi.org/10.1038/s41588-023-01338-6)
+(2023) Causal effects on complex traits are similar for common variants across segments of different continental ancestries within admixed individuals. *Nature Genetics* 55(4):549-558. [DOI](https://doi.org/10.1038/s41588-023-01338-6)
 
 ### 2022
 
