@@ -4,6 +4,18 @@ title: Lab Photos
 permalink: /photos/
 ---
 
+## Lab Lunch Summer 2023
+
+<figure>
+    <center><img src="{{ site.baseurl }}/images/lunch_june23.jpg"/></center>
+<figcaption>
+<i>Heather Wheeler, Grace Chilton, Isadore Gregga, Henry Wittich, Daniel Araújo, Camilla Czapla, Vir Trivedi. </i>
+
+</figcaption>
+</figure>
+<br>
+
+
 ## Holiday Party 2022
 
 <figure>

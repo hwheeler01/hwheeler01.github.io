@@ -83,6 +83,7 @@ Prachi is a junior majoring in Biomedical Engineering and is in the Interdiscipl
 </figcaption>
 </figure>
 <br>
+<br>
 
 
 **Maya Sharma, Undergraduate Student**
