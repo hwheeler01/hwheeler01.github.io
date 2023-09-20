@@ -4,6 +4,24 @@ title: Lab Alumni
 permalink: /alumni/
 ---
 
+**Henry Wittich** BS '22 Bioinformatics, MS '23 Bioinformatics
+
+- Bioinformatician at NorthShore University HealthSystem
+
+**Daniel Araújo** MS '23, Bioinformatics
+
+- Loyola Graduate Fellowship
+- PhD Student in Human Genetics at University of Chicago
+
+**Camilla Czapla** BS '22, Biology
+
+- Lab Bioinformatician 2022-2023
+
+**Kayla Bozeman** BS '23, Neuroscience
+
+- CURA Scholar
+- Medical Assistant at SJH Derm
+
 **Chris Nguyen** BS '22, Biophysics
 
 - Mulcahy Scholar
@@ -11,6 +29,7 @@ permalink: /alumni/
 **Rhea Prag** BS '22, Bioinformatics
 
 - Mulcahy Scholar
+- MD Student at St. George’s University
 
 **Ryan Schubert** BS '18 Bioinformatics, MS '20 Applied Statistics
 
