@@ -37,7 +37,7 @@ We have developed a novel systems approach to complex trait prediction, which le
 
 
 ## Funding and Collaborations
-**NIH R15 HG009569** 05/01/17 – 04/30/23
+**NIH R15 HG009569** 05/01/17 – 07/31/26
 
 *Predicting Gene Regulation Across Populations to Understand Mechanisms Underlying Complex Traits*
 
