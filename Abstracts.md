@@ -5,6 +5,25 @@ permalink: /abstracts/
 ---
 **Wheeler Lab Member** &emsp; &emsp; **\*Masters Student** &emsp; &emsp; **\#Undergraduate**
 
+### 2023
+<figure>
+    <center><img src="{{ site.baseurl }}/images/lab_ashg2023.jpeg" width="356px" height="278px"/></center>
+<figcaption>
+        <i>Henry Wittich, Grace Chilton, Mansi Patel, Ashley Mulford, and Heather Wheeler at <a href="https://www.ashg.org/">ASHG</a> 2023 in Washington, DC.</i>
+</figcaption>
+</figure>
+
+American Society of Human Genetics Annual Meeting, Washington, DC, November 1-5, 2023. **#\*Wittich H**, Rich SS, Rotter JI, Im HK, Manichaikul AW, **Wheeler HE**, on behalf of the NHLBI TOPMed Consortium. The genetically regulated transcriptome better predicts plasma protein levels than the observed transcriptome and reveals mechanisms underlying autoimmune diseases. Poster Presentation.
+
+American Society of Human Genetics Annual Meeting, Washington, DC, November 1-5, 2023. **#Chilton G**, **#Bozeman K**, **#\*Patel M**, **Wheeler HE**. Genetically regulated gene expression influences chronotype and sleep duration in diverse populations. Poster Presentation.
+
+<figure>
+    <center><img src="{{ site.baseurl }}/images/grace_mansi_ashg2023.jpeg" width="302px" height="373px"/></center>
+<figcaption>
+        <i>Presenting at <a href="http://www.ashg.org/">ASHG</a> 2023 in Washington, DC. L: Mansi Patel, R: Grace Chilton</i>
+</figcaption>
+</figure>
+
 ### 2022
 <figure>
     <center><img src="{{ site.baseurl }}/images/2022_ashg.jpg" width="400px" height="384px"/></center>

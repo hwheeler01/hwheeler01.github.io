@@ -4,6 +4,16 @@ title: Lab Photos
 permalink: /photos/
 ---
 
+## Holiday Party 2023
+
+<figure>
+    <center><img src="{{ site.baseurl }}/images/lab_xmas2023.jpg"/></center>
+<figcaption>
+<i>Front: Isadore Gregga, Ashley Mulford, Daniel Araújo, Angela Andaleon, Violet. Back: Jacob Grandinetti, Maya Sharma, Grace Chilton, Henry Wittich, Camilla Czapla, Heather Wheeler. </i>
+
+</figcaption>
+</figure>
+
 ## Lab Lunch Summer 2023
 
 <figure>
