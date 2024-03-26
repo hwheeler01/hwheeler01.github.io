@@ -10,11 +10,11 @@ permalink: /publications/
 
 ### 2024
 
-**#\*Wittich H**, Ardlie K, Taylor KD, Durda P, Liu Y, Mikhaylova A, Gignoux CR, Cho MH, Rich SS, Rotter JI; NHLBI TOPMed Consortium; Manichaikul A, Im HK, **Wheeler HE**. (2024) Transcriptome-wide association study of the plasma proteome reveals cis and trans regulatory mechanisms underlying complex traits. *American Journal of Human Genetics* Online ahead of print. [DOI](https://doi.org/10.1016/j.ajhg.2024.01.006) [link](https://authors.elsevier.com/a/1iYPageXA8T1)
+**#\*Wittich H**, Ardlie K, Taylor KD, Durda P, Liu Y, Mikhaylova A, Gignoux CR, Cho MH, Rich SS, Rotter JI; NHLBI TOPMed Consortium; Manichaikul A, Im HK, **Wheeler HE**. (2024) Transcriptome-wide association study of the plasma proteome reveals cis and trans regulatory mechanisms underlying complex traits. *American Journal of Human Genetics* 111(3):445-455. [PMID](https://pubmed.ncbi.nlm.nih.gov/38320554/) [DOI](https://doi.org/10.1016/j.ajhg.2024.01.006) 
 
 ### 2023
 
-**#Gregga I**, Pharoah PD, Gayther SA, Manichaikul A, Im HK, Kar SP, Schlidkraut JM, **Wheeler HE**. (2023) Predicted proteome association studies of breast, prostate, ovarian, and endometrial cancers implicate plasma protein regulation in cancer susceptibility. *Cancer Epidemiol Biomarkers Prev* 32(9):1198-1207. [DOI](https://doi.org/10.1158/1055-9965.epi-23-0309)
+**#Gregga I**, Pharoah PD, Gayther SA, Manichaikul A, Im HK, Kar SP, Schlidkraut JM, **Wheeler HE**. (2023) Predicted proteome association studies of breast, prostate, ovarian, and endometrial cancers implicate plasma protein regulation in cancer susceptibility. *Cancer Epidemiol Biomarkers Prev* 32(9):1198-1207. [PMC10528410](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10528410/) [DOI](https://doi.org/10.1158/1055-9965.epi-23-0309)
 
 **\*Araújo DS**, **\#Nguyen C**, Hu X, Mikhaylova AV, Gignoux C, Ardlie K, Taylor KD, Durda P, Liu Y, Papanicolaou G, Cho MH, Rich SS, Rotter JI; NHLBI TOPMed Consortium; Im HK, Manichaikul A, **Wheeler HE**. (2023) Multivariate adaptive shrinkage improves cross-population transcriptome prediction for transcriptome-wide association studies in underrepresented populations. *HGG Advances* 4(4):100216. [PMC10589725](http://www.ncbi.nlm.nih.gov/pmc/articles/pmc10589725/) [DOI](https://doi.org/10.1016/j.xhgg.2023.100216)
 
