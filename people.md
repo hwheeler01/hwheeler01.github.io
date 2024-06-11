@@ -42,7 +42,7 @@ Isadore is a thesis-track student in the MS Bioinformatics program. Their intere
         <img src="{{ site.baseurl }}/images/mansi.jpg" width="150px" height="150px" align="left"/>
     </a>
 <figcaption>
-Mansi is a senior majoring in Molecular Biology and Bioinformatics in the BS/MS Bioinformatics program. She received the Summer Provost and Mulcahy Fellowship. Her interest in genetics stemmed from her high school Biotechnology class where she learned about CRISPR. After her MS degree, she plans to enroll in a genetic counseling program and/or get a Phd. She enjoys spending time with family and friends, playing badminton, and reading books.
+Mansi is a graduate student who majored in Molecular Biology and Bioinformatics in the BS/MS Bioinformatics program. She received the Summer Provost and Mulcahy Fellowship. Her interest in genetics stemmed from her high school Biotechnology class where she learned about CRISPR. After her MS degree, she plans to enroll in a genetic counseling program and/or get a PhD. She enjoys spending time with family and friends, playing badminton, and reading books.
 </figcaption>
 </figure>
 <br>
@@ -54,32 +54,32 @@ Mansi is a senior majoring in Molecular Biology and Bioinformatics in the BS/MS 
         <img src="{{ site.baseurl }}/images/grace.jpg" width="150px" height="150px" align="left"/>
     </a>
 <figcaption>
-Grace is a senior majoring in Bioinformatics and Biology in the Interdisciplinary Honors Program. Her interest in genetics and bioinformatics began in her high school biology course and after she discovered the field of genetic counseling. After college, she is planning on attending graduate school and pursuing research or becoming a genetic counselor. In her free time she enjoys spending time with friends and family, running, reading, and listening to music, her favorites are Hozier and Remi Wolf. 
+Grace graduated in 2024, majoring in Bioinformatics and Biology in the Interdisciplinary Honors Program. Her interest in genetics and bioinformatics began in her high school biology course and after she discovered the field of genetic counseling. After college, she is planning on attending graduate school and pursuing research or becoming a genetic counselor. In her free time she enjoys spending time with friends and family, running, reading, and listening to music, her favorites are Hozier and Remi Wolf. 
 </figcaption>
 </figure>
 <br>
 
 
 
-**Jacob Grandinetti, Undergraduate Student**
+**Liza Kolbunova, Undergraduate Student**
 <figure>
-    <a href="../images/jacob.jpg">
-        <img src="{{ site.baseurl }}/images/jacob.jpg" width="150px" height="150px" align="left"/>
+    <a href="../images/liza.jpg">
+        <img src="{{ site.baseurl }}/images/liza.jpg" width="150px" height="150px" align="left"/>
     </a>
 <figcaption>
-Jacob is a senior Bioinformatics major and Italian minor. He is also in the Interdisciplinary Honors Program. His interest in genetics stemmed from a fascination with genealogy and working on an extensive family tree in his free time. After college, Jacob plans on continuing with research and/or attending medical school. Some of his hobbies include: reading, running/hiking, playing piano, baking, film photography, and watching movies. He is currently attempting to watch every Academy Award Best Picture winner in order (for a total of 93 movies since the award’s inception in 1928).
+Liza is a sophomore majoring in Biochemistry on the premed track and Interdisciplinary Honors Program. Her interest in genetics stems from a curiosity in precision medicine. After undergrad, Liza plans to apply for medical school and go into women’s healthcare. During her free time, Liza enjoys baking, listening to music, traveling, swimming, and visiting the Chicago Botanic Garden.
 </figcaption>
 </figure>
 <br>
 
 
-**Prachi Patel, Undergraduate Student**
+**Anthie Poulos, Undergraduate Student**
 <figure>
-    <a href="../images/prachi.jpg">
-        <img src="{{ site.baseurl }}/images/prachi.jpg" width="150px" height="150px" align="left"/>
+    <a href="../images/anthie.jpg">
+        <img src="{{ site.baseurl }}/images/anthie.jpg" width="150px" height="150px" align="left"/>
     </a>
 <figcaption>
-Prachi is a junior majoring in Biomedical Engineering and is in the Interdisciplinary Honors Program. Her interest in genetics started after she took a genetics course in high school. After college, Prachi plans on pursuing a career in the healthcare industry. Her hobbies include reading, archery, and ice-skating.
+Anthie is a senior majoring in Biology interested in genetic counseling. Her interest in human genetics began in her genetics course where she learned about monogenic and polygenic diseases. After college, she is planning on pursuing research and attending a graduate program in genetic counseling and/or get a PhD. She enjoys spending time with friends and family, traveling, listening to music, and exploring the city.
 </figcaption>
 </figure>
 <br>
@@ -89,11 +89,11 @@ Prachi is a junior majoring in Biomedical Engineering and is in the Interdiscipl
 **Maya Sharma, Undergraduate Student**
 
 <figure>
-    <a href="../images/maya.jpg">
-        <img src="{{ site.baseurl }}/images/maya.jpg" width="150px" height="150px" align="left"/>
+    <a href="../images/maya.png">
+        <img src="{{ site.baseurl }}/images/maya.png" width="150px" height="150px" align="left"/>
     </a>
 <figcaption>
-Maya is a senior majoring in Molecular Biology, minoring in Mathematics and Spanish, and is in the Interdisciplinary Honors Program. Her interest in bioinformatics began after she took a biostatistics course at Loyola. After college, she plans on pursuing  a career in healthcare. During her free time, she enjoys cooking, traveling, playing tennis, and binge watching reality tv.
+Maya graduated in 2024, majoring in Molecular Biology, minoring in Mathematics and Spanish, and was in the Interdisciplinary Honors Program. Her interest in bioinformatics began after she took a biostatistics course at Loyola. After college, she plans on pursuing a career in healthcare. During her free time, she enjoys cooking, traveling, playing tennis, and binge watching reality tv.
 </figcaption>
 </figure>
 <br>
@@ -102,8 +102,8 @@ Maya is a senior majoring in Molecular Biology, minoring in Mathematics and Span
 **Vir Trivedi, Undergraduate Student**
 
 <figure>
-    <a href="../images/DNA1.pg">
-        <img src="{{ site.baseurl }}/images/DNA1.png" width="150px" height="150px" align="left"/>
+    <a href="../images/vir.jpeg">
+        <img src="{{ site.baseurl }}/images/vir.jpeg" width="150px" height="150px" align="left"/>
     </a>
 <figcaption>
 Vir is a junior majoring in bioinformatics on the premed track. His interest in bioinformatics began doing computational work in UIC’s material sciences lab and taking an online course for beginners in bioinformatics. In his free time, Vir enjoys reading, writing, playing the violin, and longboarding.
@@ -111,3 +111,14 @@ Vir is a junior majoring in bioinformatics on the premed track. His interest in 
 </figure>
 <br>
 
+**Alyssa Zuliak, Undergraduate Student**
+
+<figure>
+    <a href="../images/alyssa.jpg">
+        <img src="{{ site.baseurl }}/images/alyssa.jpg" width="150px" height="150px" align="left"/>
+    </a>
+<figcaption>
+Alyssa is a junior majoring in Software Engineering with a minor in Bioinformatics and Digital Media. She's interested in bioinformatics as she wants to see how software can enhance analysis of biological and medical data, mostly on speeding up the discovery of diseases and cures like what the Netflix show “The Dropout” was about. During her free time, she plays video games, participate in hackathons, and binge watches Netflix series in a day. Currently, she is playing Farming Simulator 22 and Fortnite.
+</figcaption>
+</figure>
+<br>

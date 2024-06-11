@@ -4,6 +4,11 @@ title: Lab Alumni
 permalink: /alumni/
 ---
 
+**Jacob Grandinetti** BS '24, Bioinformatics
+
+- Mulcahy Scholar
+- MD Student at Loyola University Chicago
+
 **Henry Wittich** BS '22 Bioinformatics, MS '23 Bioinformatics
 
 - Bioinformatician at NorthShore University HealthSystem
