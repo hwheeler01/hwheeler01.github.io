@@ -4,6 +4,26 @@ title: Lab Photos
 permalink: /photos/
 ---
 
+## Graduation 2024
+
+<figure>
+    <center><img src="{{ site.baseurl }}/images/grads2024.jpeg"/></center>
+<figcaption>
+<i>Heather Wheeler, Grace Chilton, Mansi Patel, Maya Sharma. </i>
+
+</figcaption>
+</figure>
+
+## Lab Spring 2024
+
+<figure>
+    <center><img src="{{ site.baseurl }}/images/spring2024.jpeg"/></center>
+<figcaption>
+<i>Vir Trivedi, Grace Chilton, Isadore Gregga, Maya Sharma, Jacob Grandinetti, Mansi Patel. </i>
+
+</figcaption>
+</figure>
+
 ## Holiday Party 2023
 
 <figure>
@@ -23,7 +43,6 @@ permalink: /photos/
 
 </figcaption>
 </figure>
-<br>
 
 
 ## Holiday Party 2022
@@ -45,7 +64,6 @@ permalink: /photos/
 
 </figcaption>
 </figure>
-<br>
 
 
 ## Holiday Party 2021 
@@ -59,7 +77,7 @@ permalink: /photos/
 
 <img style="max-width: 400px; height: auto; " src="{{ site.baseurl }}/images/fall2021_holiday2.jpg" />
 
-<br>
+
 
 
 ## Lab Spring 2021
