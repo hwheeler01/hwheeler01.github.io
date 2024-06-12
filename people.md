@@ -83,7 +83,6 @@ Anthie is a senior majoring in Biology interested in genetic counseling. Her int
 </figcaption>
 </figure>
 <br>
-<br>
 
 
 **Maya Sharma, Undergraduate Student**
@@ -109,6 +108,7 @@ Maya graduated in 2024, majoring in Molecular Biology, minoring in Mathematics a
 Vir is a junior majoring in bioinformatics on the premed track. His interest in bioinformatics began doing computational work in UIC’s material sciences lab and taking an online course for beginners in bioinformatics. In his free time, Vir enjoys reading, writing, playing the violin, and longboarding.
 </figcaption>
 </figure>
+<br>
 <br>
 
 **Alyssa Zuliak, Undergraduate Student**
