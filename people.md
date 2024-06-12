@@ -111,7 +111,7 @@ Vir is a junior majoring in bioinformatics on the premed track. His interest in 
 <br>
 <br>
 
-**Alyssa Zuliak, Undergraduate Student**
+**Alyssa Zulaik, Undergraduate Student**
 
 <figure>
     <a href="../images/alyssa.jpg">
