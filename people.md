@@ -22,7 +22,16 @@ permalink: /people/
 </figure>
 <br>
 
-
+**Matt Fischer, Graduate Student**
+<figure>
+    <a href="../images/matt.jpg">
+        <img src="{{ site.baseurl }}/images/matt.jpg" width="150px" height="150px" align="left"/>
+    </a>
+<figcaption>
+Matt is a thesis-track student in the MS Bioinformatics program. He graduated with a BS in Cell and Molecular Biology from the University of Michigan in 2019. He became interested in bioinformatics during his time conducting research at the Michigan Kidney Translational Medicine Center, where he collaborated closely with bioinformaticians to better understand kidney disease. He enjoys spending time with friends and family, running, reading, camping, exploring the city, and cuddling with his two cats, Pawl Revere and Pawl McCartney.
+</figcaption>
+</figure>  
+<br>
 
 **Isadore Gregga, Graduate Student**
 <figure>
@@ -35,7 +44,18 @@ Isadore is a thesis-track student in the MS Bioinformatics program. Their intere
 </figure>  
 <br>
 
-**Mansi Patel, BS/MS Student**
+**Claudia Krueger, Graduate Student**
+<figure>
+    <a href="../images/claudia.jpg">
+        <img src="{{ site.baseurl }}/images/claudia.jpg" width="150px" height="150px" align="left"/>
+    </a>
+<figcaption>
+Claudia a thesis-track student in the MS Bioinformatics program. She graduated from UW-Madison with a BS in Genetics and Genomics and a minor in Global Health in 2023. Her interest in genetics stemmed from being introduced to the profound capabilities that come with genetic understanding in undergraduate courses. After graduate school, she plans to participate in industry research. Some things she enjoys are playing soccer and spending time with family.
+</figcaption>
+</figure>  
+<br>
+
+**Mansi Patel, Graduate Student**
 
 <figure>
     <a href="../images/mansi.jpg">
@@ -43,18 +63,6 @@ Isadore is a thesis-track student in the MS Bioinformatics program. Their intere
     </a>
 <figcaption>
 Mansi is a graduate student who majored in Molecular Biology and Bioinformatics in the BS/MS Bioinformatics program. She received the Summer Provost and Mulcahy Fellowship. Her interest in genetics stemmed from her high school Biotechnology class where she learned about CRISPR. After her MS degree, she plans to enroll in a genetic counseling program and/or get a PhD. She enjoys spending time with family and friends, playing badminton, and reading books.
-</figcaption>
-</figure>
-<br>
-
-
-**Grace Chilton, Undergraduate Student**
-<figure>
-    <a href="../images/grace.jpg">
-        <img src="{{ site.baseurl }}/images/grace.jpg" width="150px" height="150px" align="left"/>
-    </a>
-<figcaption>
-Grace graduated in 2024, majoring in Bioinformatics and Biology in the Interdisciplinary Honors Program. Her interest in genetics and bioinformatics began in her high school biology course and after she discovered the field of genetic counseling. After college, she is planning on attending graduate school and pursuing research or becoming a genetic counselor. In her free time she enjoys spending time with friends and family, running, reading, and listening to music, her favorites are Hozier and Remi Wolf. 
 </figcaption>
 </figure>
 <br>
@@ -84,18 +92,6 @@ Anthie is a senior majoring in Biology interested in genetic counseling. Her int
 </figure>
 <br>
 
-
-**Maya Sharma, Undergraduate Student**
-
-<figure>
-    <a href="../images/maya.png">
-        <img src="{{ site.baseurl }}/images/maya.png" width="150px" height="150px" align="left"/>
-    </a>
-<figcaption>
-Maya graduated in 2024, majoring in Molecular Biology, minoring in Mathematics and Spanish, and was in the Interdisciplinary Honors Program. Her interest in bioinformatics began after she took a biostatistics course at Loyola. After college, she plans on pursuing a career in healthcare. During her free time, she enjoys cooking, traveling, playing tennis, and binge watching reality tv.
-</figcaption>
-</figure>
-<br>
 
 
 **Vir Trivedi, Undergraduate Student**

@@ -4,6 +4,15 @@ title: Lab Alumni
 permalink: /alumni/
 ---
 
+**Maya Sharma** BS '24, Biology
+
+- Mulcahy Scholar
+
+**Grace Chilton** BS '24, Bioinformatics and Biology
+
+- Biology Summer Research Fellow, Mulcahy Scholar
+- Genetic Counseling Assistant at Geisinger Health
+
 **Jacob Grandinetti** BS '24, Bioinformatics
 
 - Mulcahy Scholar
