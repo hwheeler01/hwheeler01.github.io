@@ -5,6 +5,25 @@ permalink: /abstracts/
 ---
 **Wheeler Lab Member** &emsp; &emsp; **\*Masters Student** &emsp; &emsp; **\#Undergraduate**
 
+### 2024
+
+<figure>
+    <center><img src="{{ site.baseurl }}/images/ashg2024.png" width="400px" height="300px"/></center>
+<figcaption>
+        <i>Maya Sharma, Heather Wheeler, Isadore Gregga, Liza Kolbunova, Mansi Patel, and Vir Trivedi at <a href="https://www.ashg.org/">ASHG</a> 2024 in Denver.</i>
+</figcaption>
+</figure>
+
+American Society of Human Genetics Annual Meeting, Denver, CO, November 5-9, 2024. **#\*I. Gregga**, C. Choo-Kang, A. Luke, P. Bovet, E. V. Lambert, D. E. Rae, K. Bedu-Addo, J. Plange Rhule, T. Forrester, L. R. Dugas, **H. E. Wheeler**. Transcriptome prediction and BMI polygenic risk score performance varies across African genetic ancestries populations from four diverse environments. Poster Presentation.
+
+American Society of Human Genetics Annual Meeting, Denver, CO, November 5-9, 2024. **#\*Patel M**, **\#Chilton G**, **Wheeler HE**. Refining cross-population polygenic risk scores to optimize trait prediction in diverse populations. Poster Presentation. 
+
+American Society of Human Genetics Annual Meeting, Denver, CO, November 5-9, 2024. **\#Sharma MZ**, **Wheeler HE**. Multi-ancestry GWAS and TWAS implicate cell adhesion in anxiety related phenotypes. Poster Presentation. 
+
+American Society of Human Genetics Annual Meeting, Denver, CO, November 5-9, 2024. **\#Kolbunova E**, **Wheeler HE**. Genomic indicators of female infertility using transcriptome-wide association studies in a European Population. Poster Presentation. 
+
+American Society of Human Genetics Annual Meeting, Denver, CO, November 5-9, 2024. **\#Trivedi V**, **Wheeler HE**. Comparison of gestational and type 2 diabetes mellitus transcriptome-wide association studies in South Asian and multi-ancestries populations. Poster Presentation. 
+
 ### 2023
 <figure>
     <center><img src="{{ site.baseurl }}/images/lab_ashg2023.jpeg" width="356px" height="278px"/></center>
