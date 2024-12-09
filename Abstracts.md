@@ -8,7 +8,7 @@ permalink: /abstracts/
 ### 2024
 
 <figure>
-    <center><img src="{{ site.baseurl }}/images/ashg2024.png" width="400px" height="300px"/></center>
+    <center><img src="{{ site.baseurl }}/images/ashg2024.jpg" width="400px" height="300px"/></center>
 <figcaption>
         <i>Maya Sharma, Heather Wheeler, Isadore Gregga, Liza Kolbunova, Mansi Patel, and Vir Trivedi at <a href="https://www.ashg.org/">ASHG</a> 2024 in Denver.</i>
 </figcaption>
