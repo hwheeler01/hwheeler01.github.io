@@ -4,6 +4,16 @@ title: Lab Photos
 permalink: /photos/
 ---
 
+## Holiday Party 2024
+
+<figure>
+    <center><img src="{{ site.baseurl }}/images/lab_xmas2024.jpg"/></center>
+<figcaption>
+<i>Henry Wittich, Isadore Gregga, Maya Sharma, Ashley Mulford, Daniel Araújo, Liza Kolbunova, Heather Wheeler, Matthew Fischer, Violet. </i>
+
+</figcaption>
+</figure>
+
 ## Graduation 2024
 
 <figure>

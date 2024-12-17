@@ -10,6 +10,10 @@ permalink: /publications/
 
 ### 2024
 
+Shahbazi M, **Wheeler HE**, Armstrong GT, Frisina RD, Travis LB, Dolan ME. (2024) Comparison of GWAS results between de novo tinnitus and cancer treatment-related tinnitus suggests distinctive roles for genetic risk factors. *Scientific Reports* 14(1):27952. [PMC11564524](https://pmc.ncbi.nlm.nih.gov/articles/PMC11564524/) [DOI](https://doi.org/10.1038/s41598-024-78274-w)
+
+Shkundin A, **Wheeler HE**, Sinacore J, Halaris A. (2024) Brain-derived neurotrophic factor and stress perception. *Personalized Medicine in Psychiatry* 47:100139. [DOI](https://doi.org/10.1016/j.pmip.2024.100139)
+
 **#\*Wittich H**, Ardlie K, Taylor KD, Durda P, Liu Y, Mikhaylova A, Gignoux CR, Cho MH, Rich SS, Rotter JI; NHLBI TOPMed Consortium; Manichaikul A, Im HK, **Wheeler HE**. (2024) Transcriptome-wide association study of the plasma proteome reveals cis and trans regulatory mechanisms underlying complex traits. *American Journal of Human Genetics* 111(3):445-455. [PMID](https://pubmed.ncbi.nlm.nih.gov/38320554/) [DOI](https://doi.org/10.1016/j.ajhg.2024.01.006) 
 
 ### 2023
