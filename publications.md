@@ -14,7 +14,7 @@ Shahbazi M, **Wheeler HE**, Armstrong GT, Frisina RD, Travis LB, Dolan ME. (2024
 
 Shkundin A, **Wheeler HE**, Sinacore J, Halaris A. (2024) Brain-derived neurotrophic factor and stress perception. *Personalized Medicine in Psychiatry* 47:100139. [DOI](https://doi.org/10.1016/j.pmip.2024.100139)
 
-**#\*Wittich H**, Ardlie K, Taylor KD, Durda P, Liu Y, Mikhaylova A, Gignoux CR, Cho MH, Rich SS, Rotter JI; NHLBI TOPMed Consortium; Manichaikul A, Im HK, **Wheeler HE**. (2024) Transcriptome-wide association study of the plasma proteome reveals cis and trans regulatory mechanisms underlying complex traits. *American Journal of Human Genetics* 111(3):445-455. [PMID](https://pubmed.ncbi.nlm.nih.gov/38320554/) [DOI](https://doi.org/10.1016/j.ajhg.2024.01.006) 
+**#\*Wittich H**, Ardlie K, Taylor KD, Durda P, Liu Y, Mikhaylova A, Gignoux CR, Cho MH, Rich SS, Rotter JI; NHLBI TOPMed Consortium; Manichaikul A, Im HK, **Wheeler HE**. (2024) Transcriptome-wide association study of the plasma proteome reveals cis and trans regulatory mechanisms underlying complex traits. *American Journal of Human Genetics* 111(3):445-455. [PMID](https://pubmed.ncbi.nlm.nih.gov/38320554/) [DOI](https://doi.org/10.1016/j.ajhg.2024.01.006) [*Inside AJHG*](https://www.ashg.org/ajhg/inside-ajhg-with-heather-wheeler/)
 
 ### 2023
 
