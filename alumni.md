@@ -4,6 +4,15 @@ title: Lab Alumni
 permalink: /alumni/
 ---
 
+**Anthie Poulos** BS '25, Biology
+
+- Mulcahy Scholar
+
+**Vir Trivedi** BS '25, Bioinformatics
+
+- Undergraduate Summer Research Experience (USRE)
+- Mulcahy Scholar
+
 **Maya Sharma** BS '24, Biology
 
 - Mulcahy Scholar

@@ -75,46 +75,26 @@ Mansi is a graduate student who majored in Molecular Biology and Bioinformatics 
         <img src="{{ site.baseurl }}/images/liza.jpg" width="150px" height="150px" align="left"/>
     </a>
 <figcaption>
-Liza is a sophomore majoring in Biochemistry on the premed track and Interdisciplinary Honors Program. Her interest in genetics stems from a curiosity in precision medicine. After undergrad, Liza plans to apply for medical school and go into women’s healthcare. During her free time, Liza enjoys baking, listening to music, traveling, swimming, and visiting the Chicago Botanic Garden.
+Liza is a senior majoring in Biochemistry on the premed track and Interdisciplinary Honors Program. Her interest in genetics stems from a curiosity in precision medicine. After undergrad, Liza plans to apply for medical school and go into women’s healthcare. During her free time, Liza enjoys baking, listening to music, traveling, swimming, and visiting the Chicago Botanic Garden.
 </figcaption>
 </figure>
 <br>
 
 
-**Anthie Poulos, Undergraduate Student**
+**Mira Kumar, Undergraduate Student**
 <figure>
-    <a href="../images/anthie.jpg">
-        <img src="{{ site.baseurl }}/images/anthie.jpg" width="150px" height="150px" align="left"/>
+    <a href="../images/mira.png">
+        <img src="{{ site.baseurl }}/images/mira.png" width="150px" height="150px" align="left"/>
     </a>
 <figcaption>
-Anthie is a senior majoring in Biology interested in genetic counseling. Her interest in human genetics began in her genetics course where she learned about monogenic and polygenic diseases. After college, she is planning on pursuing research and attending a graduate program in genetic counseling and/or get a PhD. She enjoys spending time with friends and family, traveling, listening to music, and exploring the city.
+Mira is a junior majoring in Neuroscience with a minor in Bioinformatics on the pre-med track. She received the Mulcahy Scholarship and got the opportunity to present her research at the Undergraduate Summer Research Experience program. Her interest in genetics stemmed from her high school Genetics class where she learned about gene editing and precision medicine. During her free time, she likes to spend time reading, journaling, and dancing.
 </figcaption>
 </figure>
 <br>
 
 
 
-**Vir Trivedi, Undergraduate Student**
+**Siyaa Bhargava, Undergraduate Student**
 
-<figure>
-    <a href="../images/vir.jpeg">
-        <img src="{{ site.baseurl }}/images/vir.jpeg" width="150px" height="150px" align="left"/>
-    </a>
-<figcaption>
-Vir is a junior majoring in bioinformatics on the premed track. His interest in bioinformatics began doing computational work in UIC’s material sciences lab and taking an online course for beginners in bioinformatics. In his free time, Vir enjoys reading, writing, playing the violin, and longboarding.
-</figcaption>
-</figure>
-<br>
-<br>
 
-**Alyssa Zulaik, Undergraduate Student**
 
-<figure>
-    <a href="../images/alyssa.jpg">
-        <img src="{{ site.baseurl }}/images/alyssa.jpg" width="150px" height="150px" align="left"/>
-    </a>
-<figcaption>
-Alyssa is a junior majoring in Software Engineering with a minor in Bioinformatics and Digital Media. She's interested in bioinformatics as she wants to see how software can enhance analysis of biological and medical data, mostly on speeding up the discovery of diseases and cures like what the Netflix show “The Dropout” was about. During her free time, she plays video games, participate in hackathons, and binge watches Netflix series in a day. Currently, she is playing Farming Simulator 22 and Fortnite.
-</figcaption>
-</figure>
-<br>
