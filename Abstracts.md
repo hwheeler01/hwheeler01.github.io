@@ -5,6 +5,12 @@ permalink: /abstracts/
 ---
 **Wheeler Lab Member** &emsp; &emsp; **\*Masters Student** &emsp; &emsp; **\#Undergraduate**
 
+### 2025
+
+Great Lakes Bioinformatics, Minneapolis, MN, May 12-15, 2025. **\*Krueger C**, **\*Fischer M**, **Wheeler HE**. Plasma proteome mapping across multi-ancestral populations. Poster Presentation.
+
+Great Lakes Bioinformatics, Minneapolis, MN, May 12-15, 2025. **\*Fischer M**, **\*Krueger C**, **Wheeler HE**. Enhancing protein-genetic prediction modeling in diverse populations. Poster Presentation.
+
 ### 2024
 
 <figure>
@@ -23,6 +29,8 @@ American Society of Human Genetics Annual Meeting, Denver, CO, November 5-9, 202
 American Society of Human Genetics Annual Meeting, Denver, CO, November 5-9, 2024. **\#Kolbunova E**, **Wheeler HE**. Genomic indicators of female infertility using transcriptome-wide association studies in a European Population. Poster Presentation. 
 
 American Society of Human Genetics Annual Meeting, Denver, CO, November 5-9, 2024. **\#Trivedi V**, **Wheeler HE**. Comparison of gestational and type 2 diabetes mellitus transcriptome-wide association studies in South Asian and multi-ancestries populations. Poster Presentation. 
+
+Great Lakes Bioinformatics, Pittsburgh, PA, May 13-16, 2024. **\#Sharma MZ**, **Wheeler HE**. Multi-omics investigation of anxiety phenotypes in diverse ancestral populations. Poster Presentation.
 
 ### 2023
 <figure>
