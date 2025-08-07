@@ -14,7 +14,7 @@ Shahbazi M, **Wheeler HE**, Zhang X, Frisina RD, Travis LB, Dolan ME. (2025) Com
 
 Orchard P, Blackwell TW, Kachuri L, Castaldi PJ, Cho MH, Christenson SA, Durda P, Gabriel S, Hersh CP, Huntsman S, Hwang S, Joehanes R, Johnson M, Li X, Lin H, Liu CT, Liu Y, Mak ACY, Manichaikul AW, Paik D, Saferali A, Smith JD, Taylor KD, Tracy RP, Wang J, Wang M, Weinstock JS, Weiss J, **Wheeler HE**, Zhou Y, Zoellner S, Wu JC, Mestroni L, Graw S, Taylor MRG, Ortega VE, Johnson CW, Gan W, Abecasis G, Nickerson DA, Gupta N, Ardlie K, Woodruff PG, Zheng Y, Bowler RP, Meyers DA, Reiner A, Kooperberg C, Ziv E, Ramachandran VS, Larson MG, Cupples LA, Burchard EG, Silverman EK, Rich SS, Heard-Costa N, Tang H, Rotter JI, Smith AV, Levy D; NHLBI TOPMed Consortium Multi-Omics Working Group; NHLBI TOPMed Consortium; Aguet F, Scott L, Raffield LM, Parker SCJ. Cross-cohort analysis of expression and splicing quantitative trait loci in TOPMed. (2025) *medRxiv* [Preprint]. [PMC11875316](https://pmc.ncbi.nlm.nih.gov/articles/PMC11875316/) [DOI](https://doi.org/10.1101/2025.02.19.25322561)
 
-Shkundin A, **Wheeler HE**, Sinacore J, Halaris A. (2025) BDNF/BDNF-AS gene polymorphisms modulate treatment response and remission in bipolar disorder: a randomized clincal trial. *Jouranl of Personlized Medicine* 15(2):62. [PMC11856652](https://pmc.ncbi.nlm.nih.gov/articles/PMC11856652/) [DOI](https://doi.org/10.3390/jpm15020062)
+Shkundin A, **Wheeler HE**, Sinacore J, Halaris A. (2025) BDNF/BDNF-AS gene polymorphisms modulate treatment response and remission in bipolar disorder: a randomized clincal trial. *Journal of Personlized Medicine* 15(2):62. [PMC11856652](https://pmc.ncbi.nlm.nih.gov/articles/PMC11856652/) [DOI](https://doi.org/10.3390/jpm15020062)
 
 ### 2024
 
