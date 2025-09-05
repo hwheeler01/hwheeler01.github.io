@@ -97,8 +97,8 @@ Mira is a junior majoring in Neuroscience with a minor in Bioinformatics on the 
 
 **Siyaa Bhargava, Undergraduate Student**
 <figure>
-    <a href="../images/siyaa.png">
-        <img src="{{ site.baseurl }}/images/siyaa.png" width="150px" height="150px" align="left"/>
+    <a href="../images/siyaa.jpg">
+        <img src="{{ site.baseurl }}/images/siyaa.jpg" width="150px" height="150px" align="left"/>
     </a>
 <figcaption>
 Siyaa is a junior majoring in Biology with minors in Bioinformatics and Bioethics on the premed track and in the Interdisciplinary Honors Program. Her interest in bioinformatics and genetics stemmed from an interest in how the interpretation of biological data can help in personalized, holistic medicine approaches. She received the Mulcahy Scholarship and got the opportunity to present her research at the Undergraduate Summer Research Experience program. During her free time, Siyaa enjoys creating art through drawing and painting, spending time with friends and family, listening to music, and traveling.
