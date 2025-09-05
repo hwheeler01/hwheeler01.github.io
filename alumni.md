@@ -4,6 +4,17 @@ title: Lab Alumni
 permalink: /alumni/
 ---
 
+**Isadore Gregga** BS '22 Biology, MS '25 Bioinformatics
+
+- Mulcahy Scholarship (2X)
+- Biology Summer Research Fellowship
+- Loyola Graduate Fellowship
+
+**Mansi Patel** BS '24 Bioninformatics and Biology, MS '25 Bioinformatics
+
+- Summer Provost Research Fellowship
+- Mulcahy Scholarship
+
 **Anthie Poulos** BS '25, Biology
 
 - Mulcahy Scholar
@@ -11,7 +22,7 @@ permalink: /alumni/
 **Vir Trivedi** BS '25, Bioinformatics
 
 - Undergraduate Summer Research Experience (USRE)
-- Mulcahy Scholar
+- Mulcahy Scholar (2X)
 
 **Maya Sharma** BS '24, Biology
 

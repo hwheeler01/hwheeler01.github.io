@@ -33,16 +33,6 @@ Matt is a thesis-track student in the MS Bioinformatics program. He graduated wi
 </figure>  
 <br>
 
-**Isadore Gregga, Graduate Student**
-<figure>
-    <a href="../images/isadore.jpg">
-        <img src="{{ site.baseurl }}/images/isadore.jpg" width="150px" height="150px" align="left"/>
-    </a>
-<figcaption>
-Isadore is a thesis-track student in the MS Bioinformatics program. Their interest in genetics began in childhood, and they found an appreciation for bioinformatics upon joining Dr. Wheeler's lab during undergraduate biology research. They graduated with a BS in Biology with honors in 2022, and were a Biology Summer Research Fellow and Mulcahy Scholar. After graduate school, Isadore plans to continue working in the human genetics field. In their spare time they enjoy creating art, writing fiction, baking, spending time with their cat, and talking to their little sister.
-</figcaption>
-</figure>  
-<br>
 
 **Claudia Krueger, Graduate Student**
 <figure>
@@ -55,18 +45,29 @@ Claudia a thesis-track student in the MS Bioinformatics program. She graduated f
 </figure>  
 <br>
 
-**Mansi Patel, Graduate Student**
+**Aliya Haas, Graduate Student**
 
 <figure>
-    <a href="../images/mansi.jpg">
-        <img src="{{ site.baseurl }}/images/mansi.jpg" width="150px" height="150px" align="left"/>
+    <a href="../images/aliya.jpg">
+        <img src="{{ site.baseurl }}/images/aliya.jpg" width="150px" height="150px" align="left"/>
     </a>
 <figcaption>
-Mansi is a graduate student who majored in Molecular Biology and Bioinformatics in the BS/MS Bioinformatics program. She received the Summer Provost and Mulcahy Fellowship. Her interest in genetics stemmed from her high school Biotechnology class where she learned about CRISPR. After her MS degree, she plans to enroll in a genetic counseling program and/or get a PhD. She enjoys spending time with family and friends, playing badminton, and reading books.
+Aliya is a student in the MS in Bioinformatics program at Loyola University Chicago. Before joining the Wheeler Lab, she was a bioinformatics data analyst at the University of Nebraska Medical Center. She has with a BS in Data Science from Creighton University, where she was a Clare Boothe Luce Scholar. Her interest in bioinformatics started at Creighton University when she learned that neural networks could be used to diagnose tumors in a machine learning course. In her free time, Aliya enjoys cooking, reading, running, and thrifting. 
 </figcaption>
 </figure>
 <br>
 
+**Belinda Ofosu, Graduate Student**
+
+<figure>
+    <a href="../images/belinda.jpg">
+        <img src="{{ site.baseurl }}/images/belinda.jpg" width="150px" height="150px" align="left"/>
+    </a>
+<figcaption>
+Belinda is a thesis-track student in the MS Bioinformatics program. Her passion for bioinformatics and genetics is driven by the potential to use computational approaches to predict resistance and susceptibility to infectious diseases. She is drawn to Loyola for its beautiful lakeshore campus and stunning architecture. After graduation, Belinda plans to contribute to infectious disease surveillance efforts through industry-based research. Outside of academics, she enjoys cooking, crocheting, talking on the phone with her mom and spending time with friends here in Chicago.
+</figcaption>
+</figure>
+<br>
 
 
 **Liza Kolbunova, Undergraduate Student**
@@ -95,6 +96,17 @@ Mira is a junior majoring in Neuroscience with a minor in Bioinformatics on the 
 
 
 **Siyaa Bhargava, Undergraduate Student**
+<figure>
+    <a href="../images/siyaa.png">
+        <img src="{{ site.baseurl }}/images/siyaa.png" width="150px" height="150px" align="left"/>
+    </a>
+<figcaption>
+Siyaa is a junior majoring in Biology with minors in Bioinformatics and Bioethics on the premed track and in the Interdisciplinary Honors Program. Her interest in bioinformatics and genetics stemmed from an interest in how the interpretation of biological data can help in personalized, holistic medicine approaches. She received the Mulcahy Scholarship and got the opportunity to present her research at the Undergraduate Summer Research Experience program. During her free time, Siyaa enjoys creating art through drawing and painting, spending time with friends and family, listening to music, and traveling.
+</figcaption>
+</figure>
+<br>
 
 
+**Ohizu O'Suoji, Undergraduate Student**
 
+**Tooba Rizwan, Undergraduate Student**
