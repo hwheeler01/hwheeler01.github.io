@@ -12,7 +12,7 @@ I am looking for motivated Bioinformatics, Computer Science, and Biology  gradua
 
 #### Graduate Students
 
-Consider applying to the [Loyola Bioinformatics MS Program](https://www.luc.edu/bioinformatics/msinbioinformatics/) Thesis track and send me an email about your research interests.
+Consider applying to the [Loyola Bioinformatics MS Program](https://www.luc.edu/bioinformatics/msinbioinformatics/) Thesis track and send me an email about your research interests, including answers to the questions listed below.
 
 #### Undergraduate Students
 
