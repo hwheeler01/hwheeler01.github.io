@@ -4,6 +4,17 @@ title: Lab Photos
 permalink: /photos/
 ---
 
+
+## Holiday Party 2025
+
+<figure>
+    <center><img src="{{ site.baseurl }}/images/lab_xmas2025.jpg"/></center>
+<figcaption>
+<i>Standing: Violet, Henry Wittich, Maya Sharma, Belinda Ofosu, Heather Wheeler, Liza Kolbunova, Siyaa Bhargava, Isadore Gregga. Sitting: Angela Andaleon, Ohizu O'Suoji, Mira Kumar. </i>
+
+</figcaption>
+</figure>
+
 ## Holiday Party 2024
 
 <figure>

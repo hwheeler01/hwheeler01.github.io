@@ -10,7 +10,9 @@ permalink: /publications/
 
 ### 2025
 
-Shahbazi M, **Wheeler HE**, Zhang X, Frisina RD, Travis LB, Dolan ME. (2025) Comparison of associations suggests mainly distinct pools of genetic risk factors contribute to cisplatin-induced hearing loss and hearing difficulty in the general population. *Frontiers in Pharmacology* in press. [DOI](https://www.frontiersin.org/journals/pharmacology/articles/10.3389/fphar.2025.1577072/abstract)
+**#Sharma MZ**, **Wheeler HE**. (2025) Brain transcriptome-wide association studies in diverse ancestral populations reveal genes implicated in an anxiety-related phenotype. *G3* Online ahead of print. [DOI](https://doi.org/10.1093/g3journal/jkaf277)
+
+Shahbazi M, **Wheeler HE**, Zhang X, Frisina RD, Travis LB, Dolan ME. (2025) Comparison of associations suggests mainly distinct pools of genetic risk factors contribute to cisplatin-induced hearing loss and hearing difficulty in the general population. *Frontiers in Pharmacology* Aug 26:16:1577072. [PMC12417478](https://pmc.ncbi.nlm.nih.gov/articles/PMC12417478/) [DOI](https://www.frontiersin.org/journals/pharmacology/articles/10.3389/fphar.2025.1577072/abstract)
 
 Orchard P, Blackwell TW, Kachuri L, Castaldi PJ, Cho MH, Christenson SA, Durda P, Gabriel S, Hersh CP, Huntsman S, Hwang S, Joehanes R, Johnson M, Li X, Lin H, Liu CT, Liu Y, Mak ACY, Manichaikul AW, Paik D, Saferali A, Smith JD, Taylor KD, Tracy RP, Wang J, Wang M, Weinstock JS, Weiss J, **Wheeler HE**, Zhou Y, Zoellner S, Wu JC, Mestroni L, Graw S, Taylor MRG, Ortega VE, Johnson CW, Gan W, Abecasis G, Nickerson DA, Gupta N, Ardlie K, Woodruff PG, Zheng Y, Bowler RP, Meyers DA, Reiner A, Kooperberg C, Ziv E, Ramachandran VS, Larson MG, Cupples LA, Burchard EG, Silverman EK, Rich SS, Heard-Costa N, Tang H, Rotter JI, Smith AV, Levy D; NHLBI TOPMed Consortium Multi-Omics Working Group; NHLBI TOPMed Consortium; Aguet F, Scott L, Raffield LM, Parker SCJ. Cross-cohort analysis of expression and splicing quantitative trait loci in TOPMed. (2025) *medRxiv* [Preprint]. [PMC11875316](https://pmc.ncbi.nlm.nih.gov/articles/PMC11875316/) [DOI](https://doi.org/10.1101/2025.02.19.25322561)
 
