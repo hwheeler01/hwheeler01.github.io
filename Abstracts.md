@@ -7,6 +7,12 @@ permalink: /abstracts/
 
 ### 2025
 
+American Society of Human Genetics Annual Meeting, Boston, MA, October 14-18, 2025. **\*Fischer M**, **\*Krueger C**, Rich SS, Rotter JI, Hu X, Perrera M, Manichaikul AW,  Im HK, **Wheeler HE**, on behalf of the NHLBI TOPMed Consortium. Improving protein genetic prediction modeling across populations with multivariate adaptive shrinkage (MASHR). Poster Presentation.
+
+American Society of Human Genetics Annual Meeting, Boston, MA, October 14-18, 2025. **\*Krueger C**, **\*Fischer M**, Rich SS, Rotter JI, Hu X, Perrera M, Manichaikul AW,  Im HK, **Wheeler HE**, on behalf of the NHLBI TOPMed Consortium. Plasma proteome mapping across multi-ancestral populations in TOPMed MESA. Poster Presentation.
+
+American Society of Human Genetics Annual Meeting, Boston, MA, October 14-18, 2025. **#Kolbunova E**, **Wheeler HE**. Genomic indicators of female infertility in endometriosis and polycystic ovary syndrome using transcriptome-wide association studies. Poster Presentation.
+
 Great Lakes Bioinformatics, Minneapolis, MN, May 12-15, 2025. **\*Krueger C**, **\*Fischer M**, **Wheeler HE**. Plasma proteome mapping across multi-ancestral populations. Poster Presentation.
 
 Great Lakes Bioinformatics, Minneapolis, MN, May 12-15, 2025. **\*Fischer M**, **\*Krueger C**, **Wheeler HE**. Enhancing protein-genetic prediction modeling in diverse populations. Poster Presentation.
