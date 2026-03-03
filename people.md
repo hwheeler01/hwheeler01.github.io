@@ -111,7 +111,7 @@ Siyaa is a junior majoring in Biology with minors in Bioinformatics and Bioethic
 **Tooba Rizwan, Undergraduate Student**
 <figure>
     <a href="../images/tooba.jpeg">
-        <img src="{{ site.baseurl }}/images/siyaa.jpg" width="150px" height="150px" align="left"/>
+        <img src="{{ site.baseurl }}/images/tooba.jpeg" width="150px" height="150px" align="left"/>
     </a>
 <figcaption>
 Tooba is an undergraduate student studying Bioinformatics at Loyola University Chicago. She transferred to Loyola after spending two and a half years in a Biotechnology program, where she gained hands-on research experience through vitamin C extraction from orange peels and working in a *Drosophila* research lab. Her interest in human genetics began in O-Level Biology, where she was intrigued by genetic engineering and its potential in precision medicine. She is particularly interested in human genetics, cancer biology, and data-driven approaches to understanding disease. Outside of academics, she enjoys reading, going on nature walks, and creating art, including graphic design.
