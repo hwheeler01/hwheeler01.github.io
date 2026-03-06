@@ -7,6 +7,13 @@ permalink: /abstracts/
 
 ### 2025
 
+<figure>
+    <center><img src="{{ site.baseurl }}/images/ashg2025.png" width="400px" height="300px"/></center>
+<figcaption>
+        <i>Liza Kolbunova, Claudia Krueger, Heather Wheeler, and Matt Fischer at <a href="https://www.ashg.org/">ASHG</a> 2025 in Boston.</i>
+</figcaption>
+</figure>
+
 American Society of Human Genetics Annual Meeting, Boston, MA, October 14-18, 2025. **\*Fischer M**, **\*Krueger C**, Rich SS, Rotter JI, Hu X, Perrera M, Manichaikul AW,  Im HK, **Wheeler HE**, on behalf of the NHLBI TOPMed Consortium. Improving protein genetic prediction modeling across populations with multivariate adaptive shrinkage (MASHR). Poster Presentation.
 
 American Society of Human Genetics Annual Meeting, Boston, MA, October 14-18, 2025. **\*Krueger C**, **\*Fischer M**, Rich SS, Rotter JI, Hu X, Perrera M, Manichaikul AW,  Im HK, **Wheeler HE**, on behalf of the NHLBI TOPMed Consortium. Plasma proteome mapping across multi-ancestral populations in TOPMed MESA. Poster Presentation.
