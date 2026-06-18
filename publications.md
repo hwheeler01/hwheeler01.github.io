@@ -8,9 +8,13 @@ permalink: /publications/
 
 **Wheeler Lab Member** &emsp; &emsp; **\*Masters Student** &emsp; &emsp; **\#Undergraduate**
 
+### 2026
+
+Hu X, **\*Araujo DS**, Khunsriraksakul C, Wang L, Sun Q, Wen J, Zhou L, Ekunwe L, Lange LA, Lange EM, Montgomery SB, Reiner AP, Aguet F, Ardlie KG, Lappalainen T, Gignoux CR, Burchard EG, Taylor KD, Guo X, Rotter JI, Rich SS, Cornell E, Durda P, Tracy RP, Liu Y, Johnson WC, Papanicolaou GP, Perera MA, Cho MH, Liu DJ, Raffield LM, Li Y; TOPMed Multi-Omics Working Group; **Wheeler HE**, Im HK, Manichaikul A. (2026) Multi-ancestry transcriptome prediction with functionally informed variants in TOPMed MESA improves performance of transcriptome-wide association studies. *American Journal of Human Genetics* 113(4):828-841.[PMC13078710](https://pmc.ncbi.nlm.nih.gov/articles/PMC13078710/) [DOI](https://doi.org/10.1016/j.ajhg.2026.03.008)
+
 ### 2025
 
-**#Sharma MZ**, **Wheeler HE**. (2025) Brain transcriptome-wide association studies in diverse ancestral populations reveal genes implicated in an anxiety-related phenotype. *G3* Online ahead of print. [DOI](https://doi.org/10.1093/g3journal/jkaf277)
+**#Sharma MZ**, **Wheeler HE**. (2025) Brain transcriptome-wide association studies in diverse ancestral populations reveal genes implicated in an anxiety-related phenotype. *G3* 16(1):jkaf277. [PMC12774604](https://pmc.ncbi.nlm.nih.gov/articles/PMC12774604/) [DOI](https://doi.org/10.1093/g3journal/jkaf277) 
 
 Shahbazi M, **Wheeler HE**, Zhang X, Frisina RD, Travis LB, Dolan ME. (2025) Comparison of associations suggests mainly distinct pools of genetic risk factors contribute to cisplatin-induced hearing loss and hearing difficulty in the general population. *Frontiers in Pharmacology* Aug 26:16:1577072. [PMC12417478](https://pmc.ncbi.nlm.nih.gov/articles/PMC12417478/) [DOI](https://www.frontiersin.org/journals/pharmacology/articles/10.3389/fphar.2025.1577072/abstract)
 
